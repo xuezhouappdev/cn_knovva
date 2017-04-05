@@ -1,0 +1,335 @@
+
+body, html {
+    height: 100%;
+    background-color: transparent;
+
+}
+
+
+
+.section {
+    margin-bottom: 96px;
+}
+
+a, a:hover{
+    text-decoration: none;
+}
+
+
+/*into*/
+div.intro {
+    height: 450px;
+    background-size: cover;
+
+    margin-top: 50px;
+
+    width: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin-bottom: 40px
+
+
+}
+
+
+
+.intro-text {
+    text-align: center;
+    position: relative;
+    top:140px;
+    color: white;
+
+
+}
+
+.intro-text h1{
+    font-size: 56px;
+    text-shadow: 4px 4px 10px #000000;
+}
+
+.intro-text a {
+    font-size: 16px;
+    color: white;
+    background-color: #F2184F;
+    padding: 8px 24px;
+    top: 32px;
+    position: relative;
+    transition: 2s ease;
+
+}
+
+.intro-text a:hover {
+    font-size: 16px;
+    color: white;
+    background-color: #6c4a98;
+    padding: 8px 24px;
+    text-decoration: none;
+    position: relative;
+    cursor: pointer;
+
+}
+
+/*about*/
+.about .col-md-5 a {
+
+    padding: 8px 24px;
+    color: #f2184f;
+    font-size: 14px;
+    text-align: center;
+
+    text-decoration: none;
+    align-self: center;
+    right: 0;
+    transition: 0.5s linear;
+}
+
+.about .col-md-5 a:hover {
+
+    padding: 8px 24px;
+    color: #6c4a98;
+    font-size: 14px;
+    text-align: center;
+
+    text-decoration: none;
+    align-self: center;
+    right: 0;
+}
+
+
+.about ul{
+     margin-top: 0;
+     padding: 0;
+     background-color: transparent;
+ }
+
+.about ul li a{
+    color:  #F2184F;
+    font-weight: 500;
+}
+
+.about .agenda li{
+    list-style: none;
+
+}
+
+.about .col-md-7 p {
+    font-size: 16px;
+    text-align: justify;
+}
+
+
+
+
+.modal-backdrop {
+    background-color: red;
+}
+
+.modal-content {
+    border-radius: 0;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none;
+    min-height: 100%;
+    padding: 100px 0;
+    text-align:justify;
+}
+
+
+/*features*/
+.features {
+    text-align: center;
+    background: rgba(154, 160, 158, 0.15);
+    padding: 40px;
+}
+
+.features i {
+    font-size: 48px;
+
+
+    padding: 20px;
+
+}
+
+.section h2 {
+    margin-bottom: 64px;
+}
+
+.features.section span {
+    color: #F2184F;
+    font-weight: 600;
+}
+
+.features .img.img-responsive {
+    margin: 0 auto 16px;
+    padding: 32px 64px;
+}
+
+.features .row:nth-child(2) {
+    padding:8px 40px;
+}
+
+
+
+
+
+
+/*teacher*/
+div.teacher h2 {
+
+    text-align: center;
+
+}
+
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 8px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.29);
+}
+
+/* Add some padding inside the card container */
+.teacher.section.container.row:nth-child(2) {
+    padding: 500px;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #F2184F;
+    overflow: hidden;
+    width: 65%;
+    height: 0;
+    transition: .5s ease;
+    margin: 0 auto;
+}
+
+.text {
+    white-space: nowrap;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    overflow: hidden;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+.card:hover .overlay {
+    height: 77%;
+    padding: 20px;
+    cursor: pointer;
+}
+
+
+
+/*review*/
+.testmonial {
+    text-align: center;
+    background:rgba(154, 160, 158, 0.15);
+    padding: 56px;
+    margin-bottom: 0;
+
+
+}
+
+.testmonial.container {
+    padding: 0 24px;
+}
+
+.testmonial img {
+    width: 80%;
+    margin: 0 auto;
+
+
+}
+
+.testmonial p {
+    text-align: left;
+}
+
+
+
+/*cta*/
+.calltoaction {
+    text-align: center;
+    padding: 64px;
+    background: #F2184F;
+    margin-bottom: 0;
+    padding-bottom: 96px;
+}
+
+
+.calltoaction h2{
+    color: white;
+    margin-bottom: 16px;
+}
+
+.calltoaction p{
+    color: white;
+}
+
+.calltoaction a {
+    font-size: 16px;
+    color: #F2184F;
+    background-color: #f0f9f6;
+    padding: 8px 24px;
+    top: 32px;
+    position: relative;
+    transition: 0.5s linear;
+    margin-bottom: 64px;
+    text-decoration: none;
+}
+
+.calltoaction a:hover {
+    font-size: 16px;
+    color: white;
+    background-color: #6c4a98;
+    padding: 8px 24px;
+    text-decoration: none;
+    position: relative;
+    cursor: pointer;
+
+}
+
+
+.card_p.tooltip-inner {
+    max-width: 800px;
+    background-color: cornflowerblue;
+    width: 600px;
+
+}
+
+
+body > div.about.section > div > div > div.col-md-5 > div > div.panel-heading {
+    color: #fff;
+    background-color: #f2184f;
+    border-color: #f2184f;
+}
+
+
+body > div.about.section > div > div > div.col-md-5 > div {
+
+    border: 1px solid #f2184f;
+}
+
+
+
+
+
+

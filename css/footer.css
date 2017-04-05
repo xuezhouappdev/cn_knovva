@@ -1,0 +1,109 @@
+/*footer*/
+div.footer {
+    padding-top: 60px;
+    color: white;
+    background-color: #2c2c2c;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    position: relative;
+    left:5px;
+    color: #ff1657;
+}
+
+
+.footer p {
+    display: inline;
+}
+
+.footer ul {
+    text-decoration: none;
+    list-style-type:none;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+
+}
+
+.footer img {
+
+    height: 55px;
+    width: auto;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+div.footer.container.col-lg-4 {
+    margin-top: 100px;
+}
+
+.footer ul li{
+    line-height: 23px;
+    border-bottom: 1px dashed gray;
+    display: block;
+    text-align: start;
+
+
+}
+
+.footer h4{
+    text-align: center;
+
+}
+.footer.row.col-lg-4 {
+    margin: 30px;
+
+
+}
+
+div.row.subscribe-bar {
+    margin-bottom: 60px;
+}
+
+.footer button{
+    background-color: #ff1657;
+    color: white;
+}
+
+.footer .row {
+    padding-left:50px;
+    padding-right: 50px;
+}
+
+
+div.input-group {
+    padding: 5px 20px;
+}
+
+.footer i{
+    color: #ff1657;
+    font-weight: bold;
+}
+
+
+
+div.footer > div > div:nth-child(2) > div.col-lg-4.footer-hours > div > a > i{
+    font-size: 24px;
+    padding:2px;
+    margin-left: 24px;
+    margin-top: -16px;
+
+}
+
+
+
+
+
+
+.footer h6 {
+    text-align: center;
+    opacity: 0.6;
+    margin-bottom: 20px;
+}
+

@@ -1,0 +1,314 @@
+/* BANNER header*/
+div.header-about{
+    background: url("../image/leaf.jpg") center center no-repeat;
+    min-height: 200px;
+    background-size: cover;
+
+    width: 100%;
+    opacity: 0.8;
+}
+
+
+
+.header-about h1 {
+    position: relative;
+    margin-top: 110px;
+
+    color: #fdfdfd;
+    border-left: 3px solid #f3f3f3;
+    padding-left: 7px;
+}
+
+
+
+/*intro*/
+div.intro {
+    margin:40px auto;
+}
+
+
+
+div.col-md-8:nth-child(2) > p:nth-child(1) {
+    margin-left: 27px;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+
+.intro >div:nth-child(1){
+    padding:20px 170px;
+}
+
+
+
+/*feature **************************************************************************************************************/
+.feature h2{
+
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.feature  h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+.feature h4 {
+
+    display: inline-block;
+
+
+
+    color: #ff3e68;
+}
+
+div.feature {
+    margin-top: 70px;
+
+    padding: 40px auto;
+
+    background-size: cover;
+    z-index: 999;
+}
+
+
+.feature > div:nth-child(1) {
+    padding: 5px 150px;
+}
+
+.feature img {
+    padding: 5px;
+    vertical-align: middle;
+
+}
+
+.feature >div>div.row {
+    display: table;
+}
+
+
+.feature >div>div.row [class*="col-"] {
+    float:none;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+.feature .panel-default .panel-heading {
+    color: whitesmoke;
+    background-color: #ff3e68;
+    border-color: #ddd;
+
+
+}
+
+h4.panel-title {
+    color:white;
+}
+
+.feature ul{
+    padding-left: 15px;
+}
+
+
+div.col-md-6:nth-child(2) > div:nth-child(1) {
+    margin-top: 25px;
+}
+
+
+
+/** benifits*/
+.benefit h2{
+
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+
+.benefit  h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+.benefit > div:nth-child(1) {
+    padding: 5px 190px;
+}
+
+
+div.benefit {
+    margin: 0px auto 50px;
+    text-align: center;
+}
+
+.benefit image {
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 0px;
+
+}
+
+.benefit i {
+    color:#ff3e68 ;
+    font-weight: 400;
+}
+
+
+/*counter*/
+div.counter-div {
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+    background: url("../image/program/rob.jpg") top center no-repeat;
+    background-size: cover;
+    padding: 20px 0;
+
+
+}
+
+.counter-div i {
+    font-size: 40px;
+
+    color: #ff3e68;
+    position: relative;
+    top:10px;
+
+}
+
+.counter-div span {
+    font-size: 60px;
+    text-shadow: #101010 5px 5px 3px;
+    padding: 0;
+    margin: 0;
+}
+
+
+.counter-div >div:nth-child(1){
+    padding: 5px 190px;
+}
+
+.counter-div h5{
+    text-shadow: black 5px 5px 5px;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    bottom:10px;
+}
+
+
+/*Teachers*/
+
+.teacher h2{
+    text-align: center;
+}
+
+
+div.teacher.jumbotron {
+    margin-top: 50px;
+    padding:40px;
+    background: white;
+}
+
+.teacher span {
+    color:#F2184F;
+}
+
+.teacher .container .row h2::after {
+    background: #F2184F;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 60px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+
+
+div.teacher-pic {
+    margin-top: 20px;
+}
+
+.teacher-pic .col-md-3 {
+    padding: 30px 10px;
+    background-color: whitesmoke;
+    border:3px solid #e2e2e2;
+
+}
+
+.teacher-pic h3 {
+    margin: 10px 0;
+}
+
+.teacher-pic h3::after{
+    background: #F2184F;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 60px;
+    margin: 6px 0;
+}
+
+.teacher-pic .img-responsive {
+    padding:10px;
+}
+
+
+.teacher.jumbotron p {
+    font-size: 14px;
+}
+
+.teacher-pic a{
+    padding: 8px 20px;
+    background-color: #122b40;
+    color:white;
+    border-radius: 5px;
+
+    margin-left: 10px;
+    position: relative;
+    top:-5px;
+}
+
+.teacher-pic a:hover{
+
+    background-color: #F2184F;
+    text-decoration: none;
+    color: whitesmoke;
+
+
+
+}
+
+div.teacher.jumbotron {
+    margin-bottom: 0;
+    padding-bottom: 70px;
+}
+
+.teacher.jumbotron.teacher-pic h5 span {
+    font-size: 8px;
+}
+
+.teacher-pic i{
+    font-size: 30px;
+    padding: 5px 5px;
+    margin-top: 5px;
+    line-height: 5px;
+
+}

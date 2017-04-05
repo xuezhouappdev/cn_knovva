@@ -1,0 +1,260 @@
+body, html {
+    height: 100%;
+    background-color: transparent;
+    position: relative;
+
+
+}
+
+.section {
+    margin-top: 72px;
+    margin-bottom: 40px;
+}
+
+a, a:hover{
+    text-decoration: none;
+}
+
+
+/*BANNER */
+div.banner {
+    background: url("../image/leaf.jpg") center center no-repeat;
+    min-height: 200px;
+    width: 100%;
+    opacity: 0.8;
+    background-size: cover;
+
+
+}
+
+
+.banner h1 {
+    position: relative;
+    margin-top: 110px;
+    color: #fdfdfd;
+    border-left: 3px solid #f3f3f3;
+    padding-left: 7px;
+}
+
+
+
+/*into*/
+div.intro {
+    height: 400px;
+    background-size: cover;
+
+    margin-top: 50px;
+    background:url('../image/program/Landscape.jpg');
+    width: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin-bottom: 40px
+
+
+}
+
+
+
+.intro-text {
+    text-align: center;
+    position: relative;
+    top:140px;
+    color: white;
+
+
+}
+
+.intro-text h1{
+    font-size: 56px;
+}
+
+
+
+.intro-text h1:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+
+.intro-text a {
+    font-size: 16px;
+    color: white;
+    background-color: #F2184F;
+    padding: 8px 24px;
+    top: 32px;
+    position: relative;
+    transition: 2s ease;
+
+}
+
+.intro-text a:hover {
+    font-size: 16px;
+    color: white;
+
+    padding: 8px 24px;
+    text-decoration: none;
+    position: relative;
+    cursor: pointer;
+
+}
+
+
+
+
+/*onsite*/
+.onsite_p h2 {
+    text-align: center;
+    padding: 8px 32px 32px;
+    margin-bottom: 24px;
+
+}
+
+
+.onsite_p h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 4px;
+    left: 15px;
+    width: 70px;
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+
+.card_p {
+    /* Add shadows to create the "card" effect */
+
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    text-align: left;
+    margin-bottom: 4px;
+
+
+}
+
+.card_p:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+.card_p a {
+     background:#F2184F;
+     padding:8px 24px;
+     display: inline-block;
+     margin-bottom: 24px;
+     color: white;
+    margin-top: 16px;
+    transition: 1s ease-in-out;
+
+
+ }
+
+.card_p a:hover {
+    background:#6c4a98;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+
+}
+
+
+.card_p p {
+    padding: 0px;
+    margin-bottom: 0;
+    margin-left: 24px;
+
+
+
+}
+
+.card_p p span{
+    font-weight: 600;
+    font-style: italic;
+
+
+
+}
+
+.card_p h4{
+    margin-left: 24px;
+    margin-right: 24px;
+
+
+
+}
+
+
+
+#hbr-btn:hover {
+    cursor: pointer;
+    background: #6c4a98;
+}
+
+
+/*yearlong*/
+.yearlong_p h2 {
+    text-align: center;
+    padding: 8px 32px 32px;
+    margin-bottom: 24px;
+}
+
+.yearlong_p .row {
+    margin: 0px 0 16px;
+}
+
+
+
+.yearlong_p h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 4px;
+    left: 15px;
+    width: 70px;
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+
+
+
+
+
+/*online*/
+.online_p h2 {
+    text-align: center;
+    padding: 8px 32px 32px;
+    margin-bottom: 24px;
+}
+
+.online_p .row {
+    margin: 0px 0 16px;
+}
+
+
+
+.online_p h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 4px;
+    left: 15px;
+    width: 70px;
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+
+
+
+

@@ -1,0 +1,537 @@
+.row {
+
+margin: 0 auto;
+
+}
+
+
+@font-face {
+    font-family: hellifademo;
+    src: url(../font-awesome-4.7.0/fonts/hellifademo.otf);
+}
+
+
+@font-face {
+    font-family: 'Parisienne', cursive;
+}
+
+
+header.container {
+
+
+    margin: 40px;
+
+}
+
+
+
+.jumbotron {
+    background: transparent;
+}
+a:hover{
+    border: 1px solid #cd6b28;
+    text-decoration: none;
+    padding: 10px 30px;
+    color: #cd6b28;
+    background: #cd6b28;
+    cursor: pointer;
+}
+
+
+.header h5 {
+    margin: 40px 0;
+    text-align: center;
+}
+
+
+.header img  {
+    margin: 20px 0;
+
+}
+
+.header a {
+    text-decoration: none;
+    color: #3c3c3c;
+}
+
+.header a:hover {
+    text-decoration: none;
+    color: #3c3c3c;
+    background: none;
+    border: none;
+    text-decoration: underline;
+}
+
+
+
+html,
+body {
+    height: 100%;
+}
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+a.left.carousel-control:hover,a.right.carousel-control:hover{
+    background: #2c2c2c;
+    border: none;
+    opacity: 0.2;
+}
+
+
+div.intro {
+
+    height: 570px;
+    background-size: cover;
+    margin-bottom: 50px;
+
+}
+
+.about .row h1 {
+    text-align: center;
+    margin: 20px auto;
+}
+
+
+.about .row{
+    margin: 0px 83px;
+
+}
+
+
+#startup {
+    margin-bottom: 0px;
+
+
+}
+
+
+.startup .row .col-md-6:nth-child(1){
+    background: url("../image/startup-left.png") center center no-repeat;
+    height: 525px;
+    background-size: cover;
+}
+
+.startup .row .col-md-6:nth-child(2){
+    background-color: #b7d7ed;
+    height: 525px;
+    background-size: cover;
+    text-align: center;
+    padding-top:65px;
+
+}
+
+.startup .row .col-md-6:nth-child(2) a {
+
+    border: 1px solid white;
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+
+}
+
+.startup .row .col-md-6:nth-child(2) p {
+    font-size: 14px;
+    margin: 30px 130px;
+    text-align: left;
+}
+
+div.learning-transition {
+    background-color: #3c3c3c;
+    opacity: 0.9;
+    height: 93px;
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: center;
+
+
+}
+
+.learning-transition h4 {
+    color:white;
+    padding-top: 40px;
+
+}
+
+
+div.learning {
+
+    height: 524px;
+    background: url("../image/learning.jpg") center center no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.learning .row .col-md-6{
+    background-color: #b7d7ed;
+    z-index: 100;
+    height: 524px;
+    padding: 20px 50px;
+    text-align: center;
+}
+
+.learning .row .col-md-6 h3{
+    color: white;
+
+}
+
+.learning .row .col-md-6 h2 {
+    margin-top: 60px;
+}
+
+.learning .row .col-md-6 h5 {
+    color:darkgrey;
+}
+
+.learning .row .col-md-6 p {
+    margin: 40px;
+    text-align: left;
+    padding: 20px;
+    font-size: 16px;
+}
+
+.learning .row .col-md-6 a{
+    border: 1px solid white;
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+}
+
+
+div.performing-transition {
+    background-color: #3c3c3c;
+    opacity: 0.9;
+    height: 93px;
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: center;
+
+
+
+}
+
+.performing-transition h4 {
+    color:white;
+    padding-top: 40px;
+    margin-top: 0px;
+
+}
+
+.performing .row .col-md-6:nth-child(2){
+    background-color: #386f9e;
+    height: 525px;
+    background-size: cover;
+    text-align: center;
+    padding-top:65px;
+
+}
+
+.performing .row .col-md-6:nth-child(1){
+    background: url("../image/performing-left.png") center center no-repeat;
+    height: 525px;
+    background-size: cover;
+}
+
+div#performing.performing.jumbotron {
+    padding: 0;
+    margin: 0px;
+}
+
+
+.performing .row .col-md-6:nth-child(2) a {
+
+    border: 1px solid white;
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+
+}
+
+.performing .row .col-md-6:nth-child(2) p {
+    font-size: 14px;
+    margin: 30px 130px;
+    text-align: left;
+}
+
+
+div.collaborating-transition {
+    background-color: #3c3c3c;
+    opacity: 0.9;
+    height: 93px;
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: center;
+
+
+
+}
+
+.collaborating-transition h4 {
+    color:white;
+    padding-top: 40px;
+    margin-top: 0px;
+
+}
+
+
+.collaborating .row .col-md-3 {
+
+    opacity: 0.7;
+    text-align: center;
+    border: 8px solid #fdfdfd;
+
+
+}
+
+.collaborating img {
+
+}
+
+.collaborating .row .col-md-3 h3 {
+    color: white;
+    margin-top: 40%;
+    font-size: 26px;
+
+}
+
+.collaborating .row .col-md-3 a{
+    border: 1px solid white;
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+
+}
+
+
+
+.collaborating .row .col-md-3:nth-child(1){
+    background: url("../image/cl-1.png") center center no-repeat;
+    height: inherit;
+    background-size: cover;
+    padding-bottom: 60px;
+}
+
+
+.collaborating .row .col-md-3:nth-child(2){
+    background: url("../image/cl-2.png") center center no-repeat;
+    height: inherit;
+    background-size: cover;
+    padding-bottom: 60px;
+}
+
+.collaborating .row .col-md-3:nth-child(3){
+    background: url("../image/cl-3.png") center center no-repeat;
+    height: inherit;
+    background-size: cover;
+    padding-bottom: 60px;
+}
+
+.collaborating .row .col-md-3:nth-child(4){
+    background: url("../image/cl-4.png") center center no-repeat;
+    height: inherit;
+    background-size: cover;
+    padding-bottom: 60px;
+}
+
+.discover h2{
+    text-align: center;
+    margin: 50px auto;
+}
+
+.discover iframe {
+  margin-bottom: 60px;
+
+}
+
+.partner h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+#hide-div{
+    opacity: 0;
+    z-index: 300;
+}
+
+div.partner img {
+    margin: 0 auto;
+
+}
+
+div.footer{
+    margin-top: 40px;
+    height: 390px;
+    background: #2c2c2c;
+}
+
+div#footercontainer {
+    padding-top: 60px;
+}
+
+.footer h3{
+    color: #d4d4d4;
+    font-size: 14px;
+    opacity: 0.6;
+    margin-bottom: 30px;
+}
+
+.footer form {
+    width:65%;
+}
+
+.footer form input {
+    margin: 10px 0 0;
+}
+
+.footer button {
+    margin-left: 85%;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:rgba(50, 137, 199, 1);
+    border: none;
+    color: white;
+}
+
+.footer a{
+    display: block;
+    color: white;
+}
+
+.footer a:hover {
+    background: none;
+    border: none;
+    text-decoration: none;
+    padding: 0px;
+    cursor: pointer;
+}
+
+
+.footer h5{
+    color: white;
+
+}
+
+#footertop  {
+    margin-top: 40px;
+}
+
+.footer span {
+    text-decoration: underline;
+
+
+}
+
+
+.footer {
+    padding-bottom: 100px;
+}
+
+div.footer {
+    height: initial;
+}
+
+.modal-body input{
+    width: 50%;
+    margin: 10px auto;
+}
+
+
+input[type=submit]{
+    background: rgba(50, 137, 199, 1);
+    color: white;
+}
+
+.modal-body {
+    text-align: right;
+}
+
+.modal-body img{
+
+    margin: 30px auto;
+    height: 100px;
+
+
+}
+
+
+.modal-body form{
+    margin: 30px;
+    padding: 10px;
+}
+
+
+div.newuser form p{
+    padding: 10px 90px 10px;
+
+}
+
+
+.modal-body ul li{
+  display: inline;
+
+
+}
+
+.modal-body ul {
+    margin-right: 27%;
+}
+
+
+.modal-body a:hover {
+    background: none;
+    border: none;
+    padding: 0;
+    text-decoration: underline;
+    color: rgba(50, 137, 199, 1);
+}
+
+div#myModal {
+    margin-top: 150px;
+
+}
+
+
+
+@media screen and (max-width: 991px) {
+    .collaborating .row .col-md-3 h3 {
+        margin-top: 20%;
+        margin-bottom: 10%;
+
+    }
+
+    div.collaborating .row .col-md-3 {
+        width: 50%;
+        margin: 0px auto;
+    }
+
+    .header img.img-responsive {
+        display: none;
+    }
+
+
+}

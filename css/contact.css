@@ -1,0 +1,153 @@
+
+
+/*general */
+
+
+
+
+
+
+/*BANNER */
+div.banner {
+    background: url("../image/leaf.jpg") center center no-repeat;
+    min-height: 200px;
+    width: 100%;
+    opacity: 0.8;
+    background-size: cover;
+
+
+}
+
+
+.banner h1 {
+    position: relative;
+    margin-top: 110px;
+    color: #fdfdfd;
+    border-left: 3px solid #f3f3f3;
+    padding-left: 7px;
+}
+
+
+
+/* Contact info */
+div.contact-info {
+    text-align: center;
+    padding: 90px 10px;
+    background-color: #ff3e68;
+    opacity: 0.9;
+    color: white;
+    font-weight: 100;
+}
+
+a:hover { text-decoration: none;
+ }
+
+
+
+
+div.contact-info .row {
+   border: 1px dashed white;
+    padding: 60px;
+
+
+}
+
+
+div.contact-info.containter.row:nth-child(1){
+    margin-top: 20px;
+}
+
+
+/* map div */
+#map {
+    height: 300px;
+    width: 100%;
+
+}
+
+
+
+
+div.map {
+    margin-bottom: 100px;
+    margin-top: 64px;
+}
+
+
+.map .map-title h3:after {
+    background: #F2184F;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 50px;
+    margin-top: 10px;
+}
+
+.map .col-md-12 button{
+    background: #2c2c2c;
+    border-left: 4px solid #F2184F;
+    border-radius: 0;
+    color: whitesmoke;
+    padding: 10px 40px ;
+
+
+}
+
+.map .col-md-12 button:hover{
+    background: #F2184F;
+}
+
+.map input, .map textarea {
+    border-radius: 0;
+    padding: 10px;
+}
+
+.map .form-control:focus {
+    border: 1px solid #F2184F;
+    opacity: 0.5;
+}
+
+
+.contact-info h4 a {
+    color: white;
+}
+
+.col-sm-5 {
+    margin-top: 32px;
+}
+
+#contact-submit-btn {
+
+
+    cursor: pointer;
+    padding: 8px 32px;
+    transition: 0.4s linear;
+    background: #f2184f;
+    color: white;
+    float: right;
+    border-radius: 0; box-shadow: none;
+    border-color:transparent;
+
+}
+
+#contact-submit-btn:hover {
+     text-decoration: none;
+     background:#6c4a98;
+
+
+
+}
+
+
+
+
+body > div.map > div > div > div.col-sm-5 > h5 > a {
+    color: #121212;
+
+}
+
+body > div.map > div > div > div.col-sm-5 > h5 > i {
+    color: #f2184f;
+    font-size: 16px;
+}

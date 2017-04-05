@@ -1,0 +1,703 @@
+
+/*Carousel*/
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+
+.carousel-inner {
+    height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+
+
+a.left.carousel-control:hover,a.right.carousel-control:hover{
+    background: #2c2c2c;
+    border: none;
+    opacity: 0.2;
+}
+
+
+div.intro {
+    height: 76vh;
+    background-size: cover;
+    z-index: 99999999;
+    margin-top: 50px;
+
+}
+
+
+/*CS title*/
+.activity-title {
+    position: absolute;
+    bottom:95px;
+    color: white;
+}
+
+.activity-title  h1:nth-child(1) {
+    font-size: 50px;
+    text-shadow: 2px 2px 5px #5f5f5f;
+}
+
+.activity-title > h5 {
+
+    text-shadow: 2px 2px 5px #5f5f5f;
+}
+
+
+div.container:nth-child(3) {
+    padding: 0 80px;
+}
+
+
+/*about */
+div.about {
+    margin-top: 30px;
+
+}
+
+.about h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.about p {
+    padding: 10px 100px;
+    text-align: justify;
+}
+
+
+.about h2:after{
+    background: #ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+
+
+/*skills*/
+.skills h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.skills h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+.skills p {
+    padding: 0px 100px;
+    text-align: justify;
+}
+
+
+.skills h5 {
+    text-align: center;
+}
+
+
+
+.skills img {
+    width: 75px;
+    height: 75px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+
+}
+
+.skills > div:nth-child(1) > div:nth-child(2) {
+    padding: 10px 270px;
+}
+
+.skills > div:nth-child(1) > div:nth-child(3) {
+    padding: 10px 270px;
+}
+
+div.skills {
+    margin-top: 30px;
+}
+
+
+
+/*Timeline*************************************************************************************************************/
+
+.timeline > div:nth-child(1) {
+    padding: 5px 220px;
+}
+
+.timeline h2{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+
+}
+
+.timeline > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1):after{
+    background: #ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+
+}
+
+
+
+div.timeline {
+    margin-top: 30px;
+}
+
+
+.cbp_tmtimeline {
+    margin: 30px 0 0 0;
+    padding: 0;
+    list-style: none;
+    position: relative;
+}
+
+/* The line */
+.cbp_tmtimeline:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 10px;
+    background: #3a3a3a;
+    left: 20%;
+    margin-left: -10px;
+}
+
+.cbp_tmtimeline > li {
+    position: relative;
+}
+
+/* The date/time */
+.cbp_tmtimeline > li .cbp_tmtime {
+    display: block;
+    width: 25%;
+    padding-right: 100px;
+    position: absolute;
+}
+
+.cbp_tmtimeline > li .cbp_tmtime span {
+    display: block;
+    text-align: right;
+}
+
+.cbp_tmtimeline > li .cbp_tmtime span:first-child {
+    font-size: 0.9em;
+    color: #bdd0db;
+}
+
+.cbp_tmtimeline > li .cbp_tmtime span:last-child {
+    font-size: 12px;
+    color: #ff3e68;
+    font-weight: 500;
+}
+
+.cbp_tmtimeline > li:nth-child(odd) .cbp_tmtime span:last-child {
+    color: #ff3e68;
+    font-weight: 500;
+}
+
+/* Right content */
+.cbp_tmtimeline > li .cbp_tmlabel {
+    margin: 0 0 15px 25%;
+    background: #3a3a3a;
+    color: #fff;
+    padding: 1.2em;
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 1.2;
+    position: relative;
+    border-radius: 5px;
+    opacity: 0.9;
+}
+
+.cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
+    background: #3a3a3a;
+}
+
+.cbp_tmtimeline > li .cbp_tmlabel h2 {
+    margin-top: 0px;
+    padding: 0 0 10px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.4);
+}
+
+/* The triangle */
+.cbp_tmtimeline > li .cbp_tmlabel:after {
+    right: 100%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-right-color: #3a3a3a;
+    border-width: 10px;
+    top: 10px;
+}
+
+
+.cbp_tmtimeline > li:nth-child(2) > div:nth-child(3):after{
+    right: 100%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-right-color:  #3a3a3a;
+    border-width: 10px;
+    top: 10px;
+}
+
+
+.cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel:after {
+    border-right-color: #3a3a3a;
+}
+
+/* The icons */
+.cbp_tmtimeline > li .cbp_tmicon {
+    width: 40px;
+    height: 40px;
+    font-family: 'ecoico';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    font-size: 1.4em;
+    line-height: 40px;
+    -webkit-font-smoothing: antialiased;
+    position: absolute;
+    color: #fff;
+    background:  #ff3e68;
+    border-radius: 50%;
+    box-shadow: 0 0 0 8px #3a3a3a;
+    text-align: center;
+    left: 20%;
+    top: 0;
+    margin: 0 0 0 -25px;
+}
+
+.cbp_tmicon-phone:before {
+    content: "\e000";
+}
+
+.cbp_tmicon-screen:before {
+    content: "\e001";
+}
+
+.cbp_tmicon-mail:before {
+    content: "\e002";
+}
+
+.cbp_tmicon-earth:before {
+    content: "\e003";
+}
+
+
+.cbp_tmtimeline > li ul li {
+    list-style: square;
+
+}
+
+/* Example Media Queries */
+@media screen and (max-width: 65.375em) {
+
+    .cbp_tmtimeline > li .cbp_tmtime span:last-child {
+        font-size: 1.5em;
+    }
+}
+
+@media screen and (max-width: 47.2em) {
+    .cbp_tmtimeline:before {
+        display: none;
+    }
+
+    .cbp_tmtimeline > li .cbp_tmtime {
+        width: 100%;
+        position: relative;
+        padding: 0 0 20px 0;
+    }
+
+    .cbp_tmtimeline > li .cbp_tmtime span {
+        text-align: left;
+    }
+
+    .cbp_tmtimeline > li .cbp_tmlabel {
+        margin: 0 0 30px 0;
+        padding: 1em;
+        font-weight: 400;
+        font-size: 95%;
+    }
+
+    .cbp_tmtimeline > li .cbp_tmlabel:after {
+        right: auto;
+        left: 20px;
+        border-right-color: transparent;
+        border-bottom-color: #ff3e68;
+        top: -20px;
+    }
+
+    .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel:after {
+        border-right-color: transparent;
+        border-bottom-color: #3a3a3a;
+    }
+
+    .cbp_tmtimeline > li .cbp_tmicon {
+        position: relative;
+        float: right;
+        left: auto;
+        margin: -55px 5px 0 0px;
+    }
+}
+
+
+/*Themes **************************************************************************************************************/
+.theme h2{
+
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.theme  h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+.theme h4 {
+
+    display: inline-block;
+    border-left: 2px solid #ff3e68 ;
+
+    padding: 2px 6px;
+    color: #ff3e68;
+}
+
+div.theme {
+    margin-top: 70px;
+}
+
+
+.theme > div:nth-child(1) {
+    padding: 5px 170px;
+}
+
+.theme img {
+    padding: 25px;
+    vertical-align: middle;
+}
+
+
+/* Video case */
+.video h2{
+
+    text-align: center;
+    margin-bottom: 20px;
+
+    color: white;
+
+}
+
+.video h4{
+    color: whitesmoke;
+    padding: 20px 0;
+}
+
+div.video {
+    margin-top: 40px;
+    background: #ff3e68;
+    padding-top: 20px;
+}
+
+.video  h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+
+
+/* Contact **************************************************************************************************************/
+.program-contact button{
+    background: #2c2c2c;
+    border-left: 4px solid #f0f0f0;
+    border-radius: 0;
+    color: whitesmoke;
+    padding: 10px 40px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.program-contact button:hover{
+    background: #f0f0f0;
+    border-left: 4px solid #f3f3f3;
+    border-radius: 0;
+    color: #191919;
+    padding: 10px 40px;
+
+
+    text-align: center;
+}
+
+
+div.program-contact {
+    text-align: center;
+    margin-top: 70px;
+    padding-bottom: 50px;
+    background:  #ff3e68;
+
+
+}
+
+.program-contact  > div:nth-child(1) {
+    padding: 5px 160px;
+}
+
+.program-contact h2 {
+    color: whitesmoke;
+    margin-top: 40px;
+}
+
+
+.program-contact h2:after {
+    background: #ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+.program-contact form {
+    margin-top: 30px;
+}
+
+.program-contact input,.program-contact textarea {
+    border-radius: 0;
+
+
+}
+
+.program-contact input:focus{
+    border: 2px solid #ff3e68;
+    opacity: 1;
+
+
+}
+
+.program-contact textarea:focus{
+    border: 2px solid #ff3e68;
+    opacity: 1;
+}
+
+.program-contact select:focus{
+    border: 2px solid #ff3e68;
+    opacity: 1;
+}
+
+
+.program-contact select {
+    width: 100%;
+    color: gray;
+}
+
+
+/* Activity Panel*/
+
+div.activitypanel {
+  margin-top: 00px;
+
+}
+
+
+.activitypanel h2{
+
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.activitypanel h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+.panel-body > p:nth-child(1) {
+    margin-top: 20px;
+}
+
+
+.activitypanel> div:nth-child(1) {
+    padding: 0px 60px;
+}
+
+.panel-body > div:nth-child(5) {
+    text-align: center;
+}
+
+.panel-body > div:nth-child(6) {
+    margin-bottom: 20px;
+}
+
+
+
+
+body > div.activitypanel > div > div.row > div > div.panel-heading {
+    color: #fff;
+    background-color: #3a3a3a;
+    border-color: #3a3a3a;
+    text-align: center;
+}
+
+
+div.panel.panel-primary {
+    border: 1px dashed #3a3a3a;
+    box-shadow: 5px 5px 5px gray;
+
+}
+
+.panel-body > div:nth-child(5) > div:nth-child(1) >h5:nth-child(1) {
+    color:#ff3e68 ;
+}
+
+.panel-body > div:nth-child(5) > div:nth-child(2) > h5:nth-child(1) {
+    color:#ff3e68 ;
+}
+
+
+
+/** benifits*/
+.benefit h2{
+
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+
+.benefit  h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+.benefit > div:nth-child(1) {
+    padding: 5px 190px;
+}
+
+
+div.benefit {
+    margin: 50px auto 50px;
+    text-align: center;
+}
+
+.benefit image {
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 0px;
+
+}
+
+.benefit i {
+    color:#ff3e68 ;
+    font-weight: 400;
+}
+
+
+/* program map section*/
+div.program-map {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.program-map h2{
+
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+
+.program-map  h2:after {
+    background:#ff3e68;
+    display: block;
+    content: "";
+    height: 2px;
+    left: 15px;
+    width: 70px;
+
+    text-align: center;
+    margin: 10px auto 10px;
+}
+
+#pro-map1,#pro-map2 {
+    height: 250px;
+    width: 80%;
+   margin: 10px auto;
+    padding: 50px;
+}

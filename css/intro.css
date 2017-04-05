@@ -1,0 +1,213 @@
+body,html {
+    width: 100%;
+    overflow-x:hidden;
+
+}
+
+.inner-wrapper h1 {
+    font-size: 20px;
+}
+
+.fa.fa-times {
+    font-size: 35px;
+    margin: 0px 10px;
+    color: #ff1657;
+    font-weight: bold;
+
+
+}
+
+.fa.fa-times:hover {
+    font-size: 35px;
+    cursor: pointer;
+    color: #fdfdfd;
+}
+
+
+div.inner-wrapper>.container {
+
+    background: black;
+    opacity: 0.8;
+    margin-top: 15vh;
+    padding-bottom: 20px;
+    box-shadow: 10px 10px 800px #fdfdfd;
+    border-radius: 0px 60px 0px 60px;
+    padding-left: 40px;
+    padding-right:40px;
+
+
+}
+
+
+a.nav-link {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+a {
+    color: #b6b6b6;
+}
+
+div.form-wrapper {
+    height: 100vh;
+    width: 100%;
+    background: #2c2c2c;
+    opacity: 1;
+    color: white;
+    background: url("../image/wall2.jpg") center center no-repeat;
+    background-size:cover;
+
+
+
+}
+
+h5.cross,hr {
+    margin: 5px;
+
+    opacity: 1;
+    color: whitesmoke;
+
+}
+
+
+
+/*media*/
+@media only screen and (max-width: 992px) {
+   html,body {
+
+   }
+
+
+
+}
+
+
+
+
+
+/*Form */
+div.form_wrapper.container  {
+    color: white;
+}
+
+
+
+.form_header .col-sm-1 {
+    text-align: end;
+}
+
+
+div.error {
+    color: #ff454a;
+}
+
+h5.error-msg {
+  font-size: 25px;
+}
+
+div.tab-content{
+    margin-top: 5vh;
+    padding-bottom: 30px;
+    height: 300px;
+}
+
+ul.nav.point {
+    margin-top: 10vh;
+    color:gray;
+    margin-bottom:30px;
+
+
+}
+
+div.row.form-body{
+
+}
+
+div.nav-tabs {
+    border-bottom: none;
+}
+
+
+div.nav.nav-tabs.point {
+    border-bottom: none;
+}
+
+ul#myTab  {
+    border-bottom: none;
+    font-size: 20px;
+}
+
+
+.nav-tabs>li>a:hover {
+    background: none;
+    border: transparent;
+    color: #ff1657;
+}
+
+.nav-tabs.red li a:hover {
+    background: none;
+    border: transparent;
+    color: #ff1657;
+}
+
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #ff1657;
+    cursor: default;
+    background-color: transparent;
+    border: none;
+    border-bottom-color: transparent;
+}
+
+
+li.nav-item.active {
+    background-color: transparent;
+}
+
+
+
+.tab-content label {
+    font-size: 50px;
+
+}
+
+/* input */
+
+.tab-content .form-control {
+    height: 40px;
+    border-left: none;
+    border-right:none;
+    border-top:none;
+}
+
+
+/* button */
+
+button.btn-default.btn {
+    background-color: #ff1657;
+
+    border-color: #ff1657;
+    padding:8px 40px;
+    color: white;
+    float:END;
+
+
+}
+
+
+div.col-sm-10.btn-div {
+    bottom: -50px;
+}
+
+div.btn-div {
+    text-align: right;
+}
+
+button.btn-default.btn:hover {
+    background-color: #181818;
+
+
+}
+

@@ -1,0 +1,292 @@
+
+/*Carousel*/
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+
+.carousel-inner {
+    height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
+
+}
+
+
+a.left.carousel-control,a.right.carousel-control {
+    background:transparent;
+    border: none;
+}
+
+
+a.left.carousel-control:hover,a.right.carousel-control:hover{
+    background:transparent;
+    border: none;
+    opacity: 0.2;
+}
+
+
+div.intro {
+    height: 70vh;
+    background-size: cover;
+    z-index: 99999999;
+    margin-top: 10px;
+
+}
+
+
+
+
+/*BANNER */
+div.banner {
+    background: url("../image/leaf.jpg") center center no-repeat;
+    min-height: 200px;
+    width: 100%;
+    opacity: 0.8;
+    background-size: cover;
+
+
+}
+
+
+.banner h2 {
+    position: relative;
+    margin-top: 115px;
+    color: #fdfdfd;
+    border-left: 3px solid #f3f3f3;
+    padding-left: 5px;
+}
+
+
+
+
+/*why us*/
+.careerslider h4{
+    text-align: center;
+    margin-top: 35px;
+}
+
+
+.careerslider a{
+    margin: 0 auto;
+}
+
+
+
+
+.careerslider>div>div:nth-child(2){
+    text-align: center;
+    margin: 0 auto;
+    display: table;
+    border-collapse:separate;
+    border-spacing:4px;
+
+}
+
+
+.careerslider>div>div:nth-child(2) ul{
+    padding:0;
+    margin: 0px auto;
+}
+
+
+
+.careerslider>div>div:nth-child(2) li{
+    height: 30px;
+    width: 30px;
+   display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%; /* may require vendor prefixes */
+    background: #ffa6bb;
+    color: white;
+
+}
+
+.careerslider>div>div:nth-child(2) li:hover{
+    background: #ff3e68;
+    cursor: pointer;
+}
+
+
+.careerslider>div>div:nth-child(2) li.active{
+    background: #ff3e68;
+}
+
+
+/* dpt*/
+div.dpt {
+    text-align: center;
+
+    background: url("../image/workhard2.jpg") bottom center no-repeat;
+    background-size: cover;
+    color: white;
+    padding-top: 20px;
+    padding-bottom:70px;
+    box-shadow: 8px 8px 10px gray;
+    margin-bottom: 60px;
+
+
+}
+
+.dpt h2 {
+    margin-bottom: 40px;
+}
+
+
+div.col-md-3 > h5  {
+    margin-top: 0px;
+}
+
+div.col-md-3 > h5:nth-child(5)  {
+    margin-bottom: 20px;
+}
+
+
+
+.dpt i{
+    font-size: 80px;
+    margin-bottom: 15px;
+    color:#ff3e68 ;
+}
+
+
+.dpt a{
+    background: #3a3a3a;
+    color: white;
+    padding: 8px 25px;
+    margin-top: 20px;
+
+}
+
+.dpt a:hover{
+    background: #ff3e68;
+    color: white;
+    padding: 8px 25px;
+    margin-top: 20px;
+
+}
+
+
+/*position*/
+div.position {
+    margin-top: 20px;
+}
+
+
+
+div.panel > div:nth-child(1) {
+    color: #ffffff;
+    background-color: #5f5f5f;
+    border-color: #5f5f5f;
+}
+
+div.panel.panel-danger {
+    margin-bottom: 20px;
+    border-color: #5f5f5f;
+
+}
+
+.position h5:hover{
+    cursor: pointer;
+    color: #ff6b6f;
+}
+
+
+/*modal */
+
+.panel-body>div>div.modal-dialog {
+    width:80%;
+}
+
+
+.panel-body>div>div.modal-dialog form {
+    padding:10px 80px;
+}
+
+.panel-body>div>div.modal-dialog a {
+    background: #ff6b6f;
+    color: white;
+    padding: 8px 30px;
+    margin-top: 40px;
+    text-align: center;
+    border-radius: 0;
+
+}
+
+.panel-body>div>div.modal-dialog h5 {
+
+    color: #ff6b6f;
+
+
+}
+
+
+.panel-body>div>div.modal-dialog form a {
+    background: #3a3a3a;
+    color: white;
+    padding: 8px 30px;
+    margin-top: 20px;
+
+    border-radius: 0;
+}
+
+    /*question */
+
+.arrow-down {
+    width: 0;
+    height: 0;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-top: 15px solid #f3f3f3;
+    position: relative;
+    top:15px;
+    transform: translateX(-50%);
+    left: 50%;
+}
+
+
+
+
+
+/*footer contact*/
+div.footer-contact{
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.footer-contact span {
+    color:#ff3e68;
+    font-weight: 500;
+
+}
+
+.footer-contact h3 {
+    padding: 5px;
+    margin: 5px;
+    color: white;
+    font-weight: normal;
+}
+
+
+div.jumbotron {
+    background: #222222;
+}
+
+
+
