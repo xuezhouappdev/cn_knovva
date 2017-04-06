@@ -185,7 +185,7 @@ include "header.php";
 <div class="teacher section">
     <div class="container">
 
-        <h2>TEACHERS</h2>
+        <h2>师资力量</h2>
 
 
         <div class="row">

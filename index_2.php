@@ -168,7 +168,7 @@ include "header.php";
 
 
             <div class="col-md-6" align="center">
-                <iframe width="100%" height="400px" src="https://www.youtube.com/embed/tkA69Yh5j2M"  allowfullscreen ></iframe>
+                <iframe width="100%" height="400px" src="https://www.youtube.com/embed/wQxpjRl6gvA?autoplay=0&showinfo=0"  ></iframe>
             </div>
         </div>
     </div>

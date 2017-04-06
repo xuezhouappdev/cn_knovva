@@ -47,13 +47,13 @@
             <div class="col-lg-4 footer-links">
 
                 <ul>
-                   <li><a href="index_2.php">Home</a></li>
-                    <li><a href="about.php">About</a></li>
+                   <li><a href="index_2.php">首页</a></li>
+                    <li><a href="about.php">机构简介</a></li>
                    <!-- <li><a href="#">Teacher</a></li>-->
-                    <li><a href="career.php">Career</a></li>
+                    <li><a href="programs.php">学术项目</a></li>
 
                    <!-- <li><a href="#">Blog</a></li>-->
-                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="contact.php">联系方式</a></li>
 <!--                    <li><a href="faq.php">FAQ</a></li>-->
                 </ul>
 
@@ -61,8 +61,8 @@
             <div class="col-lg-4 footer-hours">
 
                 <ul>
-                    <li>Mon - Fri:   9:00am - 5:00pm</li>
-                    <li>Sat - Sun:   Closed</li>
+                    <li>周一 ~ 周五:   9:00am - 5:00pm</li>
+                    <li>周六 ~ 周日:   Closed</li>
                 </ul>
 
                 <div class="col-lg-12 social" style="text-align: center">
