@@ -52,6 +52,8 @@ include "header.php";
 ?>
 
 
+
+
 <!-- top slider -->
 <div id="myCarousel" class="carousel slide home-slider" data-ride="carousel">
     <!-- Indicators -->
@@ -146,6 +148,13 @@ include "header.php";
     </a>-->
 
 </div>
+
+<div class="video-container">
+    <video preload="auto" autoplay="autoplay" loop ="loop"  poster="img/cover.png" width="1960" height="1280" muted>
+        <source src="img/branding.mp4" type="video/mp4">
+
+    </video><!-- end of video-->
+</div> <!-- end of video container-->
 
 
 
