@@ -71,7 +71,7 @@ include "header.php";
                     <h4><b>社会创新创业项目</b></h4>
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>科目: &nbsp;</span>商业</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国波士顿
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国剑桥
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>14-18岁</p>
                     <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>时间: &nbsp;</span>7月 - 8月</p>
@@ -108,7 +108,7 @@ include "header.php";
                     <img src="image/program/global.jpg" alt="Avatar" style="width:100%">
                     <h4><b>青少年领袖外交家项目</b></h4>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>国际政治</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国波士顿
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国剑桥
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>14 -18岁</p>
 
@@ -128,7 +128,7 @@ include "header.php";
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>应用工程、计算机科学</p>
 
 
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国波士顿
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国剑桥
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>14 - 18岁</p>
                     <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>时间: &nbsp;</span>7月 - 8月</p>
@@ -159,22 +159,22 @@ include "header.php";
          </ul>-->
 
         <div class="row">
-            <h2>Online Programs</h2>
+            <h2>在线项目</h2>
         </div>
 
         <div class="row">
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/Landscape.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>Understanding the Landscape of Study</b></h4>
+                    <h4><b>美国高等院校专业及就业选择</b></h4>
 
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>American Culture</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 Weeks</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>美国文化</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>在线</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>14 -18岁</p>
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>时间: &nbsp;</span>7月 - 8月</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>时长: &nbsp;</span>7 周</p>
 
-                    <h5 style="text-align: center"><a href="program_template.php" class="button_p">Read More</a></h5>
+                    <h5 style="text-align: center"><a href="program-landscape.php" class="button_p">了解更多</a></h5>
 
 
                 </div>
@@ -184,29 +184,29 @@ include "header.php";
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/social.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>U.S. Social Media Use and Electronic Correspondence</b></h4>
+                    <h4><b>美国社交媒体和在线沟通要领</b></h4>
 
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>American Culture</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>3 Weeks</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>美国文化</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>在线</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>14 -18岁</p>
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>时间: &nbsp;</span>7月 - 8月</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>时长: &nbsp;</span>3 周</p>
 
-                    <h5 style="text-align: center"><a href="program-socialmedia.php" class="button_p">Read More</a></h5>
+                    <h5 style="text-align: center"><a href="program-socialmedia.php" class="button_p">了解更多</a></h5>
                 </div>
             </div>
 
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/hary.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>The Harry Potter Reading Group</b></h4>
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Literature</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>Sep - Nov</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 Weeks</p>
-                    <br>
-                    <h5 style="text-align: center"><a href="program-harrypotter.php" class="button_p">Read More</a></h5>
+                    <h4><b>哈利波特英文原版阅读小组</b></h4>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>文学</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>在线</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>14 -18岁</p>
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>时间: &nbsp;</span>9月 - 11月</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>时长: &nbsp;</span>7 周</p>
+
+                    <h5 style="text-align: center"><a href="program-harrypotter.php" class="button_p">了解更多</a></h5>
                 </div>
             </div>
 
@@ -216,18 +216,18 @@ include "header.php";
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/creativity.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>The Innovation Reading Group: Creativity and Change in the New Millennium</b></h4>
+                    <h4><b>新世纪创新英文原版阅读小组</b></h4>
 
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Literature</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Online</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>文学</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>在线</p>
 
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>14 -18岁</p>
 
 
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>Sep - Nov</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>7 Weeks</p>
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>时间: &nbsp;</span>9月 - 11月</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>时长: &nbsp;</span>7 周</p>
 
-                    <h5 style="text-align: center"><a href="program-irg.php" class="button_p "  >Read More</a></h5>
+                    <h5 style="text-align: center"><a href="program-irg.php" class="button_p "  >了解更多</a></h5>
 
 
                 </div>

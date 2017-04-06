@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title> Global Affairs Institute
+    <title> 青少年领袖外交家项目
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -42,8 +42,8 @@ include "header.php";
         <div class="row">
 
             <div class="intro-text">
-                <h1>Global Affairs Institute </h1>
-                <a href="applicationform.php">ENROLL NOW</a>
+                <h1>青少年领袖外交家项目 </h1>
+                <a href="applicationform.php">立即报名</a>
             </div>
         </div>
 
@@ -57,18 +57,16 @@ include "header.php";
 <div class="about section">
     <div class="container">
         <ul class="breadcrumb">
-            <li><a href="index_2.php">Home</a></li>
-            <li><a href="programs.php">Program</a></li>
-            <li><a href="#">Global Affairs Institute </a></li>
+            <li><a href="index_2.php">首页</a></li>
+            <li><a href="programs.php">项目浏览</a></li>
+            <li><a href="#">青少年领袖外交家项目</a></li>
         </ul>
 
         <div class="row">
             <div class="col-md-7">
-                <h4>Global Affairs Institute </h4>
+                <h4>青少年领袖外交家项目</h4>
                 <hr>
-                <p>Knovva Academy’s Global Affairs Institute is a two-week summer initiative for a cohort of international high school students seeking to learn about the depths of Global Affairs and International Politics. Students will learn from top MIT and Harvard scholars to understand the people, histories, cultures, and politics that shape the current international landscape. We want to help students understand the underlying nature of the political world, and to propel them forward in their own intellectual and professional careers. This program will inject students into the field of global politics, and embolden them to be leaders in any international environment.<br><br>
-
-                    Complementary online learning will be available after the summer program ends in order to continue exploring and supporting efforts to make an impact around the globe.</p>
+                <p>青少年领袖外交家项目为期两周，于2017年夏季在美国剑桥市举行。项目期间，来自全球各地的高中生将参加由哈佛大学、麻省理工大学专家学者主讲的互动课堂，通过知识学习、校友交流、朋辈交流、导师互动等，深入学习国际政治领域知识（话题涵盖人类发展、历史、文化、政治等），学术研究方向、就业方向等。暑期学期结束后，学生可参与后续在线课程的学习。</p>
             </div>
             <div class="col-md-5" >
 
@@ -78,10 +76,10 @@ include "header.php";
 
 
 
-                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>Political Science</p>
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston, MA</P>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;AGE: </b>Year 14 -18</p>
-                        <p><b><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;TIME: </b>July - August</p>
+                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;主题: </b>政治科学、国际关系</p>
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>美国波士顿</P>
+                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年龄: </b>Year 14 -18</p>
+                        <p><b><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;时间: </b>July - August</p>
                         <p><b><i class="fa fa-clock-o" aria-hidden="true"> </i>&nbsp;&nbsp;DURATION: </b>2 Weeks</p>
 <!--                <a data-toggle="modal" data-target="#myModal" > >> VIEW AGENDA</a>-->
                     </div>
@@ -127,32 +125,31 @@ include "header.php";
 <div class="features section">
     <div class="container">
         <div class="row">
-            <h2>YOUR EXPERIENCE INCLUDES</h2>
+            <h2>项目特色</h2>
         </div>
 
         <div class="row">
             <div class="col-sm-3">
                 <img src="image/icon/icon-deepen.png" class="img img-responsive">
-                <h4><Span>Deepen</Span>&nbsp;your understanding of international politics and governance
+                <h4><Span>深入</Span>&nbsp;理解国际政治议题
                 </h4>
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-connect.png" class="img img-responsive">
-                <h4><Span>Connect</Span>&nbsp;with a peer network that is passionate about making a difference through government
+                <h4><Span>建立</Span>&nbsp;全球青少年领袖网络
 
 
                 </h4>
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-understand.png" class="img img-responsive">
-                <h4><Span>Understand</Span>&nbsp;the underlying principles, philosophies, and values that shape global affairs
+                <h4><Span>深刻</Span>&nbsp;探讨政治科学、哲学原理
 
                 </h4>
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-explore.png" class="img img-responsive">
-                <h4><Span>Explore</Span>&nbsp;the rich history and politics of the city of Boston, MA
-
+                <h4><Span>实践</Span>&nbsp;政治、外交领域技能
 
 
                 </h4>
@@ -172,9 +169,9 @@ include "header.php";
 <div class="calltoaction section">
     <div class="container">
         <div class="row">
-            <h2>Start learning with Knovva Academy.</h2>
-            <p><i>We’ll help you every step of the way.</i></p>
-            <a href="applicationform.php">ENROLL NOW</a>
+            <h2>开启Knovva的旅程</h2>
+            <p><i>探索发现最好的你</i></p>
+            <a href="applicationform.php">立即报名</a>
         </div>
     </div>
 </div>

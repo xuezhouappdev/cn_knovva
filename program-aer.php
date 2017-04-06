@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Applied Engineering & Robotics
+    <title>青少年机器人工程师项目
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -42,8 +42,8 @@ include "header.php";
         <div class="row">
 
             <div class="intro-text">
-                <h1>Applied Engineering & Robotics </h1>
-                <a href="applicationform.php">ENROLL NOW</a>
+                <h1>青少年机器人工程师项目</h1>
+                <a href="applicationform.php">立即报名</a>
             </div>
         </div>
 
@@ -57,18 +57,16 @@ include "header.php";
 <div class="about section">
     <div class="container">
         <ul class="breadcrumb">
-            <li><a href="index_2.php">Home</a></li>
-            <li><a href="programs.php">Program</a></li>
-            <li><a href="#">Applied Engineering & Robotics</a></li>
+            <li><a href="index_2.php">主页</a></li>
+            <li><a href="programs.php">项目浏览</a></li>
+            <li><a href="#">青少年机器人工程师项目</a></li>
         </ul>
 
         <div class="row">
             <div class="col-md-7">
-                <h4>Applied Engineering & Robotics</h4>
+                <h4>青少年机器人工程师项目</h4>
                 <hr>
-                <p>The Applied Engineering & Robotics program begins with two-weeks of in-person learning with top thinkers from MIT and/or Harvard for a fun a challenging immersive experience in robotics and engineering, designed for an elite cohort of international students. This program offers half-day learning laboratory sessions and mentorship, and afternoon classes on product design, engineering design, and project management. Additionally, the participants will have the opportunity to travel and explore the cities of Cambridge and Boston. The program culminates in a new technology, designed and created with your own hands.<br><br>
-
-                    Optional complementary online learning is available post-launch to help students continue to grow their projects and explore models of using their technologies to make an impact.</p>
+                <p>机器人工程师项目为期两周，于2017年夏季在美国剑桥举行。项目集科学教育、创新性思维、动手实践为一体。学生将与来自哈佛大学和麻省理工大学的科学家紧密共事，在学习机器人原理、产品设计开发等课程之外，还进行一系列的动手实验活动。<br><br>夏季学期结束后，学生还可进行科技创新主题的在线课程学习。</p>
             </div>
             <div class="col-md-5" >
                 <div class="panel panel-primary" style="position: relative;top:48px">
@@ -79,7 +77,7 @@ include "header.php";
 
 
 
-                        <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;SUBJECT: </b>Engineering</p>
+                        <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;科目: </b>Engineering</p>
 
                         <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston, MA</P>
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;&nbsp;AGE: </b>Year 14 -18</p>
@@ -129,19 +127,19 @@ include "header.php";
 <div class="features section">
     <div class="container">
         <div class="row">
-            <h2>YOUR EXPERIENCE INCLUDES</h2>
+            <h2>项目特色</h2>
         </div>
 
         <div class="row">
             <div class="col-sm-3">
                 <img src="image/icon/icon-explore.png" class="img img-responsive">
-                <h4><Span>Explore</Span>&nbsp;the principles of engineering and robotics first-hand
+                <h4><Span>探索</Span>&nbsp;应用工程学和机器人发明原理
 
                 </h4>
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-connect.png" class="img img-responsive">
-                <h4><Span>Connect </Span>&nbsp; with a peer network passionate about creative construction
+                <h4><Span>建立 </Span>&nbsp; 全球青少年科学家网络
 
 
 
@@ -149,14 +147,14 @@ include "header.php";
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-learn.png" class="img img-responsive">
-                <h4><Span>Learn</Span>&nbsp;practical soft-skills that facilitate the process of engineering
+                <h4>通过项目合作提升<Span>沟通能力</Span>&nbsp;
 
 
                 </h4>
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-build.png" class="img img-responsive">
-                <h4><Span>Build</Span>&nbsp;something! And have fun while you do it
+                <h4><Span>设计和制作</Span>&nbsp;属于你的机器人
 
 
                 </h4>
@@ -174,9 +172,9 @@ include "header.php";
 <div class="calltoaction section">
     <div class="container">
         <div class="row">
-            <h2>Start learning with Knovva Academy.</h2>
-            <p><i>We’ll help you every step of the way.</i></p>
-            <a href="applicationform.php">ENROLL NOW</a>
+            <h2>开启Knovva的旅程</h2>
+            <p><i>探索发现最好的你</i></p>
+            <a href="applicationform.php">立即报名</a>
         </div>
     </div>
 </div>

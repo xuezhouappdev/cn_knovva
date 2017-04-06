@@ -46,10 +46,10 @@ SEPERATELY-->
                             <a href="program-sie.php">社会创新创业项目</a>
                             <a href="program-gai.php">青少年领袖外交家项目</a>
                             <a href="program-aer.php">青少年机器人工程师项目</a>
-                            <a href="program_template.php">Understanding the Landscape of Study</a>
-                            <a href="program-socialmedia.php">U.S. Social Media Use and Electronic Correspondence</a>
-                            <a href="program-harrypotter.php">The Harry Potter Reading Group (Summer 2017) </a>
-                            <a href="program-irg.php">The Innovation Reading Group: Creativity and Change in the New Millennium (Fall 2017)</a>
+                            <a href="program-landscape.php">美国高等院校专业及就业选择</a>
+                            <a href="program-socialmedia.php">美国社交媒体和在线沟通要领</a>
+                            <a href="program-harrypotter.php">哈利波特英文原版阅读小组</a>
+                            <a href="program-irg.php">新世纪创新英文原版阅读小组</a>
 
 
 

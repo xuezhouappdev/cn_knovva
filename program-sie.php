@@ -42,8 +42,8 @@ include "header.php";
         <div class="row">
 
             <div class="intro-text">
-                <h1>Social Impact and Entrepreneurship</h1>
-                <a href="applicationform.php">ENROLL NOW</a>
+                <h1>社会创新创业项目</h1>
+                <a href="applicationform.php">立即报名</a>
             </div>
         </div>
 
@@ -59,15 +59,17 @@ include "header.php";
         <ul class="breadcrumb">
             <li><a href="index_2.php">首页</a></li>
             <li><a href="programs.php">浏览项目</a></li>
-            <li><a href="#">美国高等教育介绍：了解学习环境
+            <li><a href="#">社会创新创业项目
                 </a></li>
         </ul>
 
         <div class="row">
             <div class="col-md-7">
-                <h4>美国高等教育介绍：了解学习环境</h4>
+                <h4>社会创新创业项目</h4>
                 <hr>
-                <p>7周的课程旨在帮助将要留学的学生了解学习美国大学生活。许多大学会设置数以千计的课程、几十门专业；在这种多样性下，选择一个专业或者学术课程可能会是一个挑战。此交互式线上课程能够使学生了解主修和选修课程的种类以及学校的学习环境，帮助他们在学习生涯中做出明智、实用、深思熟虑的选择。</p>
+                <p>社会创新项目是为期一年的、面向高中生（9-12年级）的混合制学习项目。项目围绕全球亟待解决的社会问题，启发学生挖掘自身潜能、利用创新模式攻克挑战。<br><br>
+                    项目由三部分组成，分别在夏季、冬季和春季进行。夏季小学期为期两周，在哈佛大学所在地剑桥市举办。来自全球各地的学生将以小组为单位，参加美国大学讲座、互动工作坊等，学习创新创业的核心知识、掌握关键技能。同时，小组成员也将重点就一个社会问题进行深入研究。冬季小学期为期一周，在中国南京市举办。小组成员将进行一系列丰富的浸入式文化活动，并与各领域专家一起进行田野调查，进一步理解社会和环境问题。春季学期，学生将学习创新相关的线上课程，并创造解决社会问题的可行方式方法。
+                </p>
             </div>
             <div class="col-md-5" >
 
@@ -78,7 +80,7 @@ include "header.php";
 
 
 
-                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;主题: </b>商业</p>
+                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;主题: </b>商业、社会科学</p>
                         <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>美国波士顿</P>
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"></i>年龄: </b>14 -18 岁</p>
 
@@ -134,30 +136,30 @@ include "header.php";
 <div class="features section">
     <div class="container">
         <div class="row">
-            <h2>YOUR EXPERIENCE INCLUDES</h2>
+            <h2>项目特色</h2>
         </div>
 
         <div class="row">
             <div class="col-sm-3">
                 <img src="image/icon/icon-understand.png" class="img img-responsive">
-                <h4><Span>Understand</Span>&nbsp;social and environmental challenges around the world
+                <h4><Span>深入</Span>&nbsp理解全球重要议题
                 </h4>
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-connect.png" class="img img-responsive">
-                <h4><Span>Connect</Span>&nbsp;with a peer network passionate about making a difference
+                <h4><Span>建立</Span>&nbsp;全球青少年领袖网络
 
                 </h4>
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-strength.png" class="img img-responsive">
-                <h4><Span>Strengthen</Span>&nbsp;your ability to work collaboratively on a long-term project
+                <h4><Span>增强</Span>&nbsp;长期项目合作能力
 
                 </h4>
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-experience.png" class="img img-responsive">
-                <h4><Span>Experience</Span>&nbsp;formative time in the two important hubs of Cambridge, MA, USA and Nanjing, Jiangsu, China
+                <h4><Span>提高</Span>&nbsp;分析解决问题能力
 
 
                 </h4>
@@ -174,9 +176,9 @@ include "header.php";
 <div class="calltoaction section">
     <div class="container">
         <div class="row">
-            <h2>Start learning with Knovva Academy.</h2>
-            <p><i>We’ll help you every step of the way.</i></p>
-            <a href="applicationform.php">ENROLL NOW</a>
+            <h2>开启Knovva的旅程</h2>
+            <p><i>探索发现最好的你</i></p>
+            <a href="applicationform.php">立即报名</a>
         </div>
     </div>
 </div>

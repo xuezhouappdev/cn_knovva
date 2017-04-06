@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Understanding the Landscape of Study
+    <title>美国高等院校专业及就业选择
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -42,8 +42,8 @@ include "header.php";
    <div class="row">
 
        <div class="intro-text">
-           <h1>Understanding the Landscape of Study</h1>
-           <a href="applicationform.php">ENROLL NOW</a>
+           <h1>美国高等院校专业及就业选择</h1>
+           <a href="applicationform.php">立即报名</a>
        </div>
    </div>
 
@@ -57,14 +57,14 @@ include "header.php";
 <div class="about section">
     <div class="container" >
         <ul class="breadcrumb">
-            <li><a href="index_2.php">Home</a></li>
-            <li><a href="programs.php">Program</a></li>
-            <li><a href="#">Understanding the Landscape of Study </a></li>
+            <li><a href="index_2.php">首页</a></li>
+            <li><a href="programs.php">项目浏览</a></li>
+            <li><a href="#">美国高等院校专业及就业选择</a></li>
         </ul>
 
         <div class="row">
             <div class="col-md-7">
-                <h4>Introduction to Higher Education Learning in the U.S: Understanding the Landscape of Study </h4>
+                <h4>美国高等院校专业及就业选择 </h4>
                 <hr>
                 <p>This 7-week course will  help prospective international students understand the landscape of college learning in the U.S. Many colleges have thousands of course offerings and dozens of majors and academic concentrations; navigating this diverse selection of professional or academic trajectories can be challenging. This interactive Online Course is designed to help students understand the variety of Majors and Minors and college learning environments to prepare students to make wise, practical, and deliberate steps in their academic career.</p>
             </div>
@@ -74,8 +74,8 @@ include "header.php";
                     <div class="panel-heading">Facts</div>
                     <div class="panel-body">
 
-                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>American Culture</p>
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Boston, MA</P>
+                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;主题: </b>美国高等教育</p>
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>美国剑桥</P>
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;AGE: </b>Year 14 -18</p>
                         <p><b><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;TIME: </b>July - August</p>
                         <p><b><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;&nbsp;DURATION: </b>7 Weeks</p>
