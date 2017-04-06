@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 
 
-    <title>Programs
+    <title>学术项目
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -37,7 +37,7 @@ include "header.php";
 <div class="banner">
     <div class="container">
         <div class="row">
-            <h1>Programs</h1>
+            <h1>学术项目</h1>
         </div>
     </div>
 </div>
@@ -55,7 +55,7 @@ include "header.php";
         </ul>-->
 
         <div class="row">
-            <h2 >Summer Programs</h2>
+            <h2 >夏季项目</h2>
         </div>
 
         <div class="row">
@@ -68,15 +68,15 @@ include "header.php";
                     </div>
                     <h4 style="position: absolute;top:-7px;left:-9px"  id="hbr-btn"><span class="label label-primary" style="background: #f2184f;padding: 6px 16px;border-radius: 0;font-style:italic">BLENDED LEARNING</span></h4></h4>
 
-                    <h4><b>Social Impact and Entrepreneurship</b></h4>
+                    <h4><b>社会创新创业项目</b></h4>
 
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>Subject: &nbsp;</span>Business</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>科目: &nbsp;</span>商业</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国波士顿
                     </p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
-                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>Duration: &nbsp;</span>2 Weeks</p>
-                    <h5 style="text-align: center"><a href="program-sie.php" class="button_p">Read More</a></h5>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>14-18岁</p>
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>时间: &nbsp;</span>7月 - 8月</p>
+                    <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span>时长: &nbsp;</span>两周</p>
+                    <h5 style="text-align: center"><a href="program-sie.php" class="button_p">了解更多</a></h5>
 
                     <script>
                         $(document).ready(function(){
@@ -106,35 +106,35 @@ include "header.php";
 
                 <div class="card_p">
                     <img src="image/program/global.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>Global Affairs Institute</b></h4>
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Political Science</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
+                    <h4><b>青少年领袖外交家项目</b></h4>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>国际政治</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国波士顿
                     </p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>14 -18岁</p>
 
 
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>时间: &nbsp;</span>7月 - 8月</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
-                        <span>Duration: &nbsp;</span>2 Weeks</p>
-                    <h5 style="text-align: center"> <a href="program-gai.php" class="button_p">Read More</a></h5>
+                        <span>时长: &nbsp;</span>两周</p>
+                    <h5 style="text-align: center"> <a href="program-gai.php" class="button_p">了解更多</a></h5>
                 </div>
             </div>
 
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/rob.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>Applied Engineering & Robotics</b></h4>
+                    <h4><b>青少年机器人工程师项目</b></h4>
 
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>Subject: &nbsp;</span>Engineering</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>应用工程、计算机科学</p>
 
 
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>Location: &nbsp;</span>Boston, Massachusetts
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国波士顿
                     </p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>Age: &nbsp;</span>Year 14 -18</p>
-                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>Time: &nbsp;</span>July - August</p>
+                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>14 - 18岁</p>
+                    <p><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;<span>时间: &nbsp;</span>7月 - 8月</p>
                     <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;
-                        <span>Duration: &nbsp;</span>2 Weeks</p>
-                    <h5 style="text-align: center"><a href="program-aer.php" class="button_p">Read More</a></h5>
+                        <span>时长: &nbsp;</span>两周</p>
+                    <h5 style="text-align: center"><a href="program-aer.php" class="button_p">了解更多</a></h5>
                 </div>
             </div>
 

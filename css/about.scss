@@ -75,20 +75,20 @@ $stripbackground: rgba(128, 128, 128, 0.25);
 
 .header-about  {
 
-    .container {
-      padding:0 14%;
+  .container {
+    padding:0 14%;
 
 
 
-      h1 {
-        font-size:30px;
-        text-align: center;
-        color:$lightprimary;
-      }
-
-
-
+    h1 {
+      font-size:30px;
+      text-align: center;
+      color:$lightprimary;
     }
+
+
+
+  }
 }
 
 
@@ -122,7 +122,7 @@ $stripbackground: rgba(128, 128, 128, 0.25);
   h3 {
 
     margin-top: 64px;
-    }
+  }
 }
 
 .whatwevalue {
@@ -179,38 +179,39 @@ $stripbackground: rgba(128, 128, 128, 0.25);
   }
 
   #myCarousel {
-    background: lighten($lightprimary,5);
+    background: $primary;
     color: white;
 
 
 
     .carousel-inner {
-       .container {
+      .container {
 
-         padding: 48px 88px;
-         text-align: center;
-
-
-
-
-         [class*="col-"] {
-           padding: 24px;
-
-
-         }
+        padding: 48px 88px;
+        text-align: center;
 
 
 
 
-         h4 {
-
-           padding:32px 16px;
-         }
+        [class*="col-"] {
+          padding: 24px;
 
 
+        }
 
 
-       }
+
+
+        h4 {
+
+          padding:8px 16px;
+          line-height: 24px;
+        }
+
+
+
+
+      }
 
 
 
@@ -319,42 +320,6 @@ $stripbackground: rgba(128, 128, 128, 0.25);
 }
 
 
-.number {
-  h2 {
-    text-align: center;
-    margin-bottom: 64px;
-  }
-
-  .container {
-
-    text-align: center;
-    .row:nth-child(1) {
-      padding: 0 56px;
-      h1 {
-        font-size: 64px;
-        text-align: center;
-      }
-
-      h4 {
-        text-align: center;
-        color: $lightprimary;
-      }
-    }
-
-    .row:nth-child(2) {
-
-      margin: 96px auto 0px;
-      a {
-
-
-        @include CTAbtn;
-      }
-    }
-
-
-  }
-}
-
 
 .partner {
   h2 {
@@ -364,23 +329,23 @@ $stripbackground: rgba(128, 128, 128, 0.25);
 
   .container {
 
-    hr {
-      margin: 16px;
-    }
+    padding: 0px 64px;
+
 
     .row {
 
       .img-responsive {
-      margin: 0 auto;
-      padding: 32px;
-    }
+        margin: 0 auto;
+        padding: 32px 64px;
+      }
 
       text-align: center;
 
       a {
         @include CTAbtn;
-        margin-top: 32px;
+        margin-top: 0px;
         display: inline-block;
+
 
 
       }

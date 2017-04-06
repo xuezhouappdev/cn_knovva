@@ -27,7 +27,7 @@ div.programnew.jumbotron {
   margin-top: 30px; }
 .about p {
   margin-top: 20px;
-  line-height: 20px;
+  line-height: 24px;
   margin-bottom: 30px;
   font-size: 16px;
   text-align: justify;
@@ -102,7 +102,7 @@ div.programnew.jumbotron {
     .programnew .container .row .col-md-5 .card p {
       color: #fff;
       text-shadow: 4px 4px 16px #000000;
-      font-size: 16px;
+      font-size: 18px;
       text-align: justify; }
 .programnew.jumbotron p {
   font-size: 16px;
@@ -123,15 +123,17 @@ div.programnew.jumbotron {
     margin: 16px auto 32px;
     text-align: center; }
   .benefit .container .row:nth-child(2) .card {
-    text-align: center;
+    text-align: justify;
     margin-top: 32px; }
     .benefit .container .row:nth-child(2) .card img {
       margin: 0 auto 18px;
       padding: 24px 96px; }
     .benefit .container .row:nth-child(2) .card p {
-      font-size: 16px; }
+      font-size: 16px;
+      line-height: 24px; }
     .benefit .container .row:nth-child(2) .card h4 {
-      color: #f2184f; }
+      color: #f2184f;
+      text-align: center; }
 .benefit h2 {
   margin-bottom: 32px;
   text-align: center; }
@@ -150,7 +152,9 @@ div.programnew.jumbotron {
     .testimonial #myCarousel2 .carousel-inner .container [class*="col-"] {
       padding: 24px; }
     .testimonial #myCarousel2 .carousel-inner .container h4 {
-      padding: 32px 16px; }
+      padding: 8px 16px;
+      font-weight: normal;
+      line-height: 26px; }
 
 .post {
   text-align: center; }

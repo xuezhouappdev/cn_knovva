@@ -43,9 +43,9 @@ SEPERATELY-->
                         <a class="dropbtn" href="programs.php">学术项目</a>
 
                         <div class="dropdown-content"><!--programdropdown content -->
-                            <a href="program-sie.php">美国高等教育介绍：了解学习环境</a>
-                            <a href="program-gai.php">Global Affairs Institute </a>
-                            <a href="program-aer.php">Applied Engineering & Robotics</a>
+                            <a href="program-sie.php">社会创新创业项目</a>
+                            <a href="program-gai.php">青少年领袖外交家项目</a>
+                            <a href="program-aer.php">青少年机器人工程师项目</a>
                             <a href="program_template.php">Understanding the Landscape of Study</a>
                             <a href="program-socialmedia.php">U.S. Social Media Use and Electronic Correspondence</a>
                             <a href="program-harrypotter.php">The Harry Potter Reading Group (Summer 2017) </a>

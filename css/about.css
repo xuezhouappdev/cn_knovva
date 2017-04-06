@@ -71,7 +71,7 @@
   text-align: center;
   margin-bottom: 64px; }
 .testimonial #myCarousel {
-  background: #f66086;
+  background: #f2184f;
   color: white; }
   .testimonial #myCarousel .carousel-inner .container {
     padding: 48px 88px;
@@ -79,7 +79,8 @@
     .testimonial #myCarousel .carousel-inner .container [class*="col-"] {
       padding: 24px; }
     .testimonial #myCarousel .carousel-inner .container h4 {
-      padding: 32px 16px; }
+      padding: 8px 16px;
+      line-height: 24px; }
 
 .ourstory .container p {
   padding-bottom: 32px;
@@ -140,55 +141,28 @@
       padding: 10px;
       cursor: pointer; }
 
-.number h2 {
+.partner h2 {
   text-align: center;
   margin-bottom: 64px; }
-.number .container {
-  text-align: center; }
-  .number .container .row:nth-child(1) {
-    padding: 0 56px; }
-    .number .container .row:nth-child(1) h1 {
-      font-size: 64px;
-      text-align: center; }
-    .number .container .row:nth-child(1) h4 {
-      text-align: center;
-      color: #f54874; }
-  .number .container .row:nth-child(2) {
-    margin: 96px auto 0px; }
-    .number .container .row:nth-child(2) a {
+.partner .container {
+  padding: 0px 64px; }
+  .partner .container .row {
+    text-align: center; }
+    .partner .container .row .img-responsive {
+      margin: 0 auto;
+      padding: 32px 64px; }
+    .partner .container .row a {
       background: #f2184f;
       padding: 8px 32px;
       color: white;
       transition: 0.4s linear;
-      margin-top: 64px; }
-      .number .container .row:nth-child(2) a:hover {
+      margin-top: 64px;
+      margin-top: 0px;
+      display: inline-block; }
+      .partner .container .row a:hover {
         background: #6c4a98;
         color: white;
         text-decoration: none;
         cursor: pointer; }
-
-.partner h2 {
-  text-align: center;
-  margin-bottom: 64px; }
-.partner .container hr {
-  margin: 16px; }
-.partner .container .row {
-  text-align: center; }
-  .partner .container .row .img-responsive {
-    margin: 0 auto;
-    padding: 32px; }
-  .partner .container .row a {
-    background: #f2184f;
-    padding: 8px 32px;
-    color: white;
-    transition: 0.4s linear;
-    margin-top: 64px;
-    margin-top: 32px;
-    display: inline-block; }
-    .partner .container .row a:hover {
-      background: #6c4a98;
-      color: white;
-      text-decoration: none;
-      cursor: pointer; }
 
 /*# sourceMappingURL=about.css.map */

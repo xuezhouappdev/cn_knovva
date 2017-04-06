@@ -148,16 +148,16 @@ div.intro {
 
 
 .card_p a {
-     background:#F2184F;
-     padding:8px 24px;
-     display: inline-block;
-     margin-bottom: 24px;
-     color: white;
+    background:#F2184F;
+    padding:8px 24px;
+    display: inline-block;
+    margin-bottom: 24px;
+    color: white;
     margin-top: 16px;
     transition: 1s ease-in-out;
 
 
- }
+}
 
 .card_p a:hover {
     background:#6c4a98;

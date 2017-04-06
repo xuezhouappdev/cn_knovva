@@ -76,7 +76,7 @@
 
             <h1>WELCOME TO KNOVVA.COM</h1>
             <h2>WE ARE COMING SOON</h2>
-            <a href="index_2.php">Internal Login</a>
+<!--            <a href="index_2.php">Internal Login</a>-->
         </div>
 
 

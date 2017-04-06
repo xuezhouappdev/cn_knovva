@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title> About
+    <title> 机构简介
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -37,7 +37,7 @@ include "header.php";
 <div class="banner">
     <div class="container">
         <div class="row">
-            <h1>About</h1>
+            <h1>关于我们</h1>
         </div>
     </div>
 </div>
@@ -49,7 +49,7 @@ include "header.php";
 <!--introtext-->
 <div class="header-about section">
     <div class="container">
-        <h1>与世界同步，与未来同步。</h1>
+        <h1>Knovva助你拥抱世界、走向未来。</h1>
     </div>
 </div>
 
@@ -59,8 +59,8 @@ include "header.php";
     <div class="container">
         <div class="row">
             <div class="col-md-6 ">
-               <h3>Who We Are</h3>
-                <p>Knovva Academy是一家总部位于马萨诸塞州剑桥市的国际教育公司。KA由一帮志同道合致力于教育，社区发展，电视制作和公共政策等多元行业的有志之士组成，致力于帮助青少年探索个人发展、学术和职业.
+               <h3>关于我们</h3>
+                <p>Knovva Academy Inc. 是美国剑桥市的创新教育机构，创始团队由世界顶尖高校的毕业生组成。Knovvoa旨在为青少年提供丰富互动的学术课程及浸入式项目制学习体验，支持青少年寻找自我、设立宏愿、追逐梦想。
                 </p>
             </div>
             <div class="col-md-6 ">
@@ -80,11 +80,11 @@ include "header.php";
 
             </div>
             <div class="col-md-6 ">
-                <h3>What We Do</h3>
-                <p>Knovva Academy面向全球的学生，利用线上数字化课程和线下系统化课程来提升学习的体验；侧重培养学生的批判性思维、创造力、自主学习和沟通协作等，并向学生提供公立学校系统无法提供的个性化学习内容，结合实际的课题设计和互动环节，借助项目性学习体验人文科学，工程，计算机科学，文学等学科领域，激发学生求知天性和兴趣。
+                <h3>学术项目</h3>
+                <p>Knovva Academy致力于通过跨文化跨学科的互动线上线下课程为全世界的青少年成长助力。我们的学术项目主题涵盖政治科学、机械工程、计算机科学、英美文学等，为学生提供丰富选择，培养主动学习、善于反思、具有国际视野和社会责任心的世界公民和未来青年领袖。
 
                 </p>
-                <a href="programs.php">Our Programs</a>
+                <a href="programs.php">学术项目</a>
             </div>
         </div>
     </div>
@@ -171,11 +171,11 @@ include "header.php";
 
             </div>
             <div class="col-md-6 ">
-                <h3>我们的团队</h3>
-                <p>除了依托北美，南美，中东，西非和东南亚等地区领先的教育资源和经验，我们也与波士顿地区教育研究院和教育机构达成战略合作伙伴关系，整合全球各地的教育教学资源，为全球学生开发成功的学术课程奠定基础。
+                <h3>团队成员</h3>
+                <p>我们的团队成员拥有在全球各地（北美、南美、中东、西非、东南亚等）丰富的教学和科研经验。在此基础上，我们还与大波士顿地区的顶尖高校和其他教育机构共同合作，将世界领先的教育理念和科研成果运用于项目设计，为学生提供卓越的成长体验。
 
                 </p>
-                <a href="programs.php">Our Programs</a>
+                <a href="programs.php">学术项目</a>
             </div>
         </div>
     </div>
@@ -193,7 +193,7 @@ include "header.php";
                 <div class="card"  >
                     <img src="image/teachers/Ross.jpg" class="img-responsive "alt="Avatar" >
                     <div class="overlay">
-                        <div class="text"><h5>Ross completed his Master’s degree at the Harvard’s Graduate School of Education. He has worked in remote lands, like in the Arctic Circle and in the Chihuahuan desert, and also worked in cityscapes in the U.S., like at the Johns Hopkins University School of Medicine in Baltimore and at Harvard's Psychology Department in Cambridge</h5></div>
+                        <div class="text"><h5>Weissman老师是哈佛大学教育学院硕士毕业生，曾就职于哈佛大学心理学系、约翰霍普金斯大学医学院，曾在阿拉斯加、美西沙漠等地组织夏令营活动。</h5></div>
                     </div>
                     <h4><b>Ross Weissman</b></h4>
 
@@ -204,7 +204,7 @@ include "header.php";
                 <div class="card" >
                     <img src="image/teachers/pat.jpg" class="img-responsive " alt="Avatar"  >
                     <div class="overlay">
-                        <div class="text"><h5>Patricia holds a Master’s degree in Public Administration from Harvard Kennedy School and a Master in Corporate Law with an specialization in Public Services by Pontifical University at Peru. Ms. Lozada is an attorney specialized in Public Services and Public Administration.
+                        <div class="text"><h5>Lozada老师毕业于哈佛大学肯尼迪政府学院公共管理系，是Pontifical大学企业法硕士。她是公共服务管理领域的律师。
                             </h5></div>
                     </div>
                     <h4><b>Patricia Lozada</b></h4>
@@ -218,7 +218,7 @@ include "header.php";
                     <img src="image/teachers/Abby.jpg" class="img-responsive " alt="Avatar"  >
 
                     <div class="overlay">
-                        <div class="text"><h5>Abby holds a Master’s degree in Public Policy from the Harvard Kennedy School of Government and a B.S. in Applied Economics from the Renmin University of China. In the past, she served as Co-Chair of the China Society at Harvard Kennedy School.</h5></div>
+                        <div class="text"><h5>Abby硕士毕业于哈佛大学肯尼迪政府学院公共政策管理系，本科毕业于中国人民大学应用经济专业。她曾任职于领导力培训机构EduRunner，为中国的留守儿童和新市民子弟提供丰富多彩的夏令营活动。</h5></div>
                     </div>
 
                     <h4><b>Abby Hu</b></h4>
@@ -238,7 +238,7 @@ include "header.php";
                 <div class="card" >
                     <img src="image/teachers/neil.jpg" class="img-responsive " alt="Avatar"  >
                     <div class="overlay">
-                        <div class="text"><h5>Neilson is a Boston native that graduated with honors from the Sawyer Business School at Suffolk University, majored in global businessand management. He is also a certified ESL (English as Second Language) instructor.</h5>
+                        <div class="text"><h5>Neilson来自于波士顿，他以优异成绩毕业于萨福克大学商学院。他是英语为第二外语认证教师。</h5>
                         </div>
                     </div>
                     <h4><b>Neilson Lam</b></h4>
@@ -251,7 +251,7 @@ include "header.php";
                 <div class="card"  >
                     <img src="image/teachers/chunxiao.jpg" class="img-responsive "alt="Avatar" >
                     <div class="overlay">
-                        <div class="text"><h5>Chunxiao is a graduate student of the Language and Literacy Program at Harvard Graduate School of Education. She worked as a full-time language teacher in the New Oriental School and E-plus for K-12, BFSU.
+                        <div class="text"><h5>Chunxiao就读于哈佛大学教育学院语言文学专业。她曾任教于北京新东方、北京外国语学校。
                             </h5></div>
                     </div>
                     <h4><b>Chunxiao Han</b></h4>
@@ -385,25 +385,26 @@ include "header.php";
 <!-- partner -->
 <div class="partner section">
     <div class="container">
-        <h2>PARTNERS</h2>
-           <div class="row">
-               <div class="col-sm-3">
-                   <img src="image/partner/p-bps.png" class="img img-responsive">
-               </div>
-               <div class="col-sm-3">
-                   <img src="image/partner/p-nuvu.jpg" class="img img-responsive">
-               </div>
-               <div class="col-sm-3">
-                   <img src="image/partner/p-huceic.png" class="img img-responsive">
-               </div>
+        <!--        <h2>PARTNERS</h2>-->
+        <!--           <div class="row">-->
+        <!---->
+        <!--               <div class="col-sm-4">-->
+        <!--                   <img src="image/partner/p-huceic2.png" class="img img-responsive">-->
+        <!--               </div>-->
+        <!---->
+        <!--               <div class="col-sm-4">-->
+        <!--                   <img src="image/partner/p-nuvu.jpg" class="img img-responsive">-->
+        <!--               </div>-->
+        <!---->
+        <!---->
+        <!--               <div class="col-sm-4">-->
+        <!--                   <img src="image/partner/p-rola.jpg" class="img img-responsive">-->
+        <!--               </div>-->
+        <!--           </div>-->
+        <hr>
 
-               <div class="col-sm-3">
-                   <img src="image/partner/rola.jpg" class="img img-responsive">
-               </div>
-           </div>
-    <hr>
         <div class="row">
-            <a href="programs.php">Find A Program</a>
+            <a href="programs.php">学术项目</a>
         </div>
     </div>
 </div>

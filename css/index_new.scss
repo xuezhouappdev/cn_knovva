@@ -61,6 +61,9 @@ div {
 }
 
 
+
+
+
 .about {
   h5 {
     color: $color_shady_lady_approx;
@@ -73,7 +76,7 @@ div {
   }
   p {
     margin-top: 20px;
-    line-height: 20px;
+    line-height: 24px;
     margin-bottom: 30px;
     font-size:16px;
     text-align: justify;
@@ -163,7 +166,7 @@ div {
         p {
           color: $white;
           text-shadow: 4px 4px 16px #000000;
-          font-size: 16px;
+          font-size: 18px;
           text-align: justify;
         }
       }
@@ -213,17 +216,22 @@ div {
         text-align: center;
       }
       &:nth-child(2) .card {
-        text-align: center;
+        text-align: justify;
         margin-top: 32px;
         img {
           margin: 0 auto 18px;
           padding: 24px 96px;
         }
+
         p {
           font-size: 16px;
+          line-height: 24px;
+
+
         }
         h4 {
           color: $primary;
+          text-align: center;
         }
       }
     }
@@ -271,8 +279,9 @@ div {
 
 
         h4 {
-
-          padding:32px 16px;
+          padding:8px 16px;
+          font-weight: normal;
+          line-height: 26px;
         }
 
 

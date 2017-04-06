@@ -21,7 +21,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Knovva Home</title>
+    <title>Knovva 首页</title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
@@ -159,11 +159,11 @@ include "header.php";
         <div class="row">
             <div class="col-md-6">
               <h5 style="opacity: 0">机构简介</h5>
-              <h2>和Knovva Academy一起发现无限可能</h2>
+              <h2>Knovva Academy助你发掘潜能、成就梦想</h2>
 <!--                <h4>Lorem ipsum dolor sit amet soluta saepe odit error, maxime praesentium sunt udiandae!</h4>-->
-                <p>Knovva Academy是创新型学习的领先机构，致力于通过跨文化、跨学科的互动线上线下课程为青少年成长助力，培养主动学习、善于反思、具有国际视野和社会责任心的世界公民和未来青年领袖。
+                <p>Knovva Academy是创新型学习的领先机构，致力于通过跨文化跨学科的互动线上线下课程为青少年成长助力，培养主动学习、善于反思、具有国际视野和社会责任心的世界公民和未来青年领袖。
                 </p>
-                <a href="about.php">学术项目</a>
+                <a href="about.php">了解更多</a>
             </div>
 
 
@@ -182,7 +182,7 @@ include "header.php";
     <div class="container">
 
         <div class="row">
-            <h2>我们的<span>项目</span></h2>
+            <h2>学术<span>项目</span></h2>
         </div>
 
         <div class="row">
@@ -197,7 +197,7 @@ include "header.php";
                     <div class="btnwrapper" >
                         <br>
                         <br>
-                        <a href="programs.php">更多详情</a>
+                        <a href="programs.php">更多信息</a>
                     </div>
                 </div>
             </div>
@@ -207,12 +207,11 @@ include "header.php";
                 <div class="card" style='background: url("image/home/home-program2.jpg") center center no-repeat;background-size: cover; '>
 
                     <h3>在线项目</h3>
-                    <p>Knovva Academy的互动在线课程涵盖面向全球学生，提供不同于学校大纲的互动式在线课程，让你足不出户听遍优质课程，学习专业知识，与世界同步。
-
+                    <p>Knovva Academy互动在线课程面向全球学生，主题涵盖语言学习、人生规划、技能提升等，让你足不出户享尽顶尖学习资源，与世界青少年共同成长。
                     </p>
                     <div class="btnwrapper">
                         <br><br><br>
-                        <a href="programs.php#onlineprogram">了解更多</a>
+                        <a href="programs.php#onlineprogram">更多信息</a>
                     </div>
                 </div>
             </div>
@@ -238,7 +237,7 @@ include "header.php";
 <div class="benefit">
     <div class="container">
         <div class="row">
-            <h2>我们的<span>优势</span></h2>
+            <h2>项目<span>特色</span></h2>
         </div>
 
         <div class="row">
@@ -286,8 +285,7 @@ include "header.php";
 
 <div class="testimonial section">
 
-
-    <div id="myCarousel2" class="carousel slide" data-ride="carousel">
+    <div id="myCarousel2" class="carousel slide home-slider" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
             <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
@@ -302,10 +300,8 @@ include "header.php";
                 <div class="container">
                     <div class="row">
 
-                        <h4>"Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better."
+                        <h4>"Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better." - Participant from Boston Latin School
                         </h4><br>
-                        <p>Student from Boston Latin Academy
-                        </p>
 
                     </div>
                 </div>
@@ -318,9 +314,8 @@ include "header.php";
 
 
 
-                        <h4>"They made learning fun and exciting! Knovva Academy showed something different, a different style of learning and discovering new concepts."</h4><br>
-                        <p>Student from Fenway High School
-                        </p>
+                        <h4>"They made learning fun and exciting! Knovva Academy showed something different, a different style of learning and discovering new concepts." - Participant from Fenway High School</h4><br>
+
 
                     </div>
                 </div>
@@ -332,8 +327,7 @@ include "header.php";
 
 
 
-                        <h4>"I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy." </h4><br>
-                        <p>Student from Liuzhou High School</p>
+                        <h4>"I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy." - Participant from Liuzhou High School</h4><br>
 
                     </div>
                 </div>
@@ -344,8 +338,8 @@ include "header.php";
                     <div class="row">
 
 
-                        <h4>"I’m always trying to find programs to improve myself because I want to make an impact to the world or the people around me. At Knovva Academy, I got to develop new practical skills, build connection with different cultures, and understand the responsibility of being a global citizen. Thank you everyone." </h4>
-                        <p>Student from Dalian No. 24 High School</p>
+                        <h4>"I’m always trying to find programs to improve myself because I want to make an impact to the world or the people around me. At Knovva Academy, I got to develop new practical skills, build connection with different cultures, and understand the responsibility of being a global citizen. Thank you everyone." - Participant from Dalian No. 24 High School</h4>
+
 
                     </div>
                 </div>
@@ -468,9 +462,9 @@ include "header.php";
 <div class="calltoaction section">
     <div class="container">
         <div class="row">
-            <h2>Start learning with Knovva Academy.</h2>
-            <p><i>We’ll help you every step of the way.</i></p>
-            <a href="applicationform.php">ENROLL NOW</a>
+            <h2>开启Knovva的旅程</h2>
+            <p><i>探索发现最好的你</i></p>
+            <a href="applicationform.php">立即报名</a>
         </div>
     </div>
 </div>
