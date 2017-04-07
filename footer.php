@@ -24,10 +24,10 @@
                 <img src="image/logo-trim.png"  class="img-responsive">
             </div>
             <div class="col-lg-4">
-                <h4>Links</h4>
+                <h4>相关链接</h4>
             </div>
             <div class="col-lg-4">
-                <h4>Operating Hours</h4>
+                <h4>运营时间</h4>
             </div>
         </div>
         <div class="row ">
