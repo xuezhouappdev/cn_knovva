@@ -290,8 +290,8 @@ include "header.php";
         <ol class="carousel-indicators">
             <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel2" data-slide-to="1"></li>
-            <li data-target="#myCarousel2" data-slide-to="2"></li>
-            <li data-target="#myCarousel2" data-slide-to="3"></li>
+<!--            <li data-target="#myCarousel2" data-slide-to="2"></li>-->
+<!--            <li data-target="#myCarousel2" data-slide-to="3"></li>-->
         </ol>
 
         <!-- Wrapper for slides -->
@@ -300,7 +300,7 @@ include "header.php";
                 <div class="container">
                     <div class="row">
 
-                        <h4>"Seeing how much I liked this program, I predict other Knovva Academy programs would be just as good or even better." - Participant from Boston Latin School
+                        <h4>"两天半的时间，能让一个人从对世界局势产生多深的理解呢？这次MG20峰会，着实让我体验到了从量变到质变，不只依靠个人的努力，它更是一个小团队合作的结果，一个大团队交流的结晶。来自世界各地的一百多个高中生齐聚一堂，组成了一个小世界，但我们却能从这个小世界里窥见无数文化与历史的交织，而正是它们才组成了我们现在的世界，也就是这个属于我们所有人的地球村。" - 山东省实验中学 王子睿
                         </h4><br>
 
                     </div>
@@ -313,37 +313,38 @@ include "header.php";
                     <div class="row">
 
 
-
-                        <h4>"They made learning fun and exciting! Knovva Academy showed something different, a different style of learning and discovering new concepts." - Participant from Fenway High School</h4><br>
-
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="item">
-                <div class="container">
-                    <div class="row">
-
-
-
-                        <h4>"I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy." - Participant from Liuzhou High School</h4><br>
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="item">
-                <div class="container">
-                    <div class="row">
-
-
-                        <h4>"I’m always trying to find programs to improve myself because I want to make an impact to the world or the people around me. At Knovva Academy, I got to develop new practical skills, build connection with different cultures, and understand the responsibility of being a global citizen. Thank you everyone." - Participant from Dalian No. 24 High School</h4>
+                        <br><br>
+                        <h4>"如果你愿意与来自不同区域、文化、性格的人交流，G20是一个不容错过的机会。这里有大咖云集的教授，他们生动幽默、侃侃而谈；这里有世界各地的青少年，他们和你都有同一个梦想：make the world a better place！"——重庆南开中学 林炜菡
+                        </h4><br><br>
 
 
                     </div>
                 </div>
             </div>
+
+<!--            <div class="item">-->
+<!--                <div class="container">-->
+<!--                    <div class="row">-->
+<!---->
+<!---->
+<!---->
+<!--                        <h4>"I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy." - Participant from Liuzhou High School</h4><br>-->
+<!---->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="item">-->
+<!--                <div class="container">-->
+<!--                    <div class="row">-->
+<!---->
+<!---->
+<!--                        <h4>"I’m always trying to find programs to improve myself because I want to make an impact to the world or the people around me. At Knovva Academy, I got to develop new practical skills, build connection with different cultures, and understand the responsibility of being a global citizen. Thank you everyone." - Participant from Dalian No. 24 High School</h4>-->
+<!---->
+<!---->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
 
 
         </div>
@@ -381,20 +382,22 @@ include "header.php";
                     <div class="container">
                         <div class="row">
                             <div class="col-md-3">
-                                <img class="img-responsive img img-thumbnail" src="image/post/cambridge.jpg">
-                                <p><a href="http://finance.yahoo.com/news/cambridge-education-foundation-attracts-big-120100747.html">Cambridge Education Foundation Attracts Big Names and International Students</a></p>
+                                <img class="img-responsive img img-thumbnail" src="image/post/1.jpg">
+                                <p><a href="http://sd.sina.com.cn/edu/xykd/2016-02-29/105114132.html">哈佛大学模拟G20峰会落幕 山东省实验中学代表表现优秀</a></p>
                             </div>
                             <div class="col-md-3">
-                                <img class="img-responsive img img-thumbnail" src="image/post/fenway.jpg">
-                                <p><a href="http://www.fenwayhs.org/2017/02/28/fenway-students-at-2017-model-g20-summit/">Fenway Students at 2017 Model G20 Summit</a></p>
+                                <img class="img-responsive img img-thumbnail" src="image/post/2.jpg">
+                                <p><a href="http://www.modelg20cn.org/single-post/shandongexperimentalschoolnews">
+                                        山东省实验中学优秀学生赴美参加2017年第二届哈佛国际青少年模拟G20峰会</a></p>
                             </div>
                             <div class="col-md-3">
                                 <img class="img-responsive img img-thumbnail" src="image/post/5g20.jpg">
-                                <p><a href="http://www.bls.org/apps/news/show_news.jsp?REC_ID=442233&id=10">Five Students Participate in Model G20 Summit</a></p>
+                                <p><a href="http://www.bilingochina.cn/index.php?c=content&a=show&id=291">UFEIC学子赴哈佛参加国际青少年模拟G20峰会载誉归来</a></p>
                             </div>
                             <div class="col-md-3">
-                                <img class="img-responsive img img-thumbnail" src="image/post/triptochina.jpg">
-                                <p><a href="http://www.modelg20.org/single-post/2016/12/12/Our-Inspiration-Trip-to-China">Our Inspirational Trip to China</a></p>
+                                <img class="img-responsive img img-thumbnail" src="image/post/4.jpg">
+                                <p><a href="http://www.modelg20cn.org/single-post/2017/01/05/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E8%A7%84%E5%88%92%E6%B4%BB%E5%8A%A8">
+                                        如何高效规划活动</a></p>
                             </div>
                         </div>
                     </div>

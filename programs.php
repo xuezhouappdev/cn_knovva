@@ -72,8 +72,8 @@ include "header.php";
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>科目: &nbsp;</span>商业, 社会科学</p>
 
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>时间&地点: &nbsp;</span>2017春季/美国剑桥;<br>
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017冬季/中国南京;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018春季/线上课程
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>时间&地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017春季<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国南京 &nbsp| &nbsp2017冬季<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;线上 &nbsp| &nbsp2017春季
 
                     </p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
@@ -110,7 +110,7 @@ include "header.php";
                     <img src="image/program/global.jpg" alt="Avatar" style="width:100%">
                     <h4><b>青少年领袖外交家项目</b></h4>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>国际政治</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>时间&地点: &nbsp;</span>2017夏季/美国剑桥<br></p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017夏季<br></p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
 
 
@@ -128,7 +128,7 @@ include "header.php";
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>应用工程、计算机科学</p>
 
 
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>时间&地点: &nbsp;</span>2017夏季/美国剑桥<br></p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>时间&地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017夏季<br></p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
 
                     <br> <br>

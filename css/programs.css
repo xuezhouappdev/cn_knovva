@@ -1,4 +1,15 @@
+
+@font-face
+{
+    font-family: myFancyFont;
+    src: url('../font/chinese/fancy.ttf');
+}
+
+
+
+
 body, html {
+    font-family: "myFancyFont",sans-serif; !important;
     height: 100%;
     background-color: transparent;
     position: relative;
