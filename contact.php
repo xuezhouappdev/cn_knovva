@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Contact</title>
+    <title>联系我们</title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
@@ -25,7 +25,7 @@ include "header.php";
 <div class="banner">
     <div class="container">
         <div class="row">
-       <h1>Contact</h1>
+       <h1>联系我们</h1>
         </div>
     </div>
 </div>
@@ -52,14 +52,14 @@ include "header.php";
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="firstname">First Name*</label>
+                                <label for="firstname">名*</label>
                                 <input type="text" class="form-control" name="contact_fn"  placeholder="First Name" >
 
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="lastname">Last Name*</label>
+                                <label for="lastname">姓*</label>
                                 <input type="text" class="form-control" name="contact_ln"  placeholder="Last Name" >
 
                             </div>
@@ -69,14 +69,14 @@ include "header.php";
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="email">Email*</label>
+                                <label for="email">邮箱*</label>
                                 <input type="email" class="form-control" name="contact_email" placeholder="Email" >
 
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="phone">Phone</label>
+                                <label for="phone">电话*</label>
                                 <input type="number" class="form-control" name="contact_phone"  placeholder="Phone" >
 
                             </div>
@@ -87,7 +87,7 @@ include "header.php";
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="form-group">
-                                <label for="message">Message</label>
+                                <label for="message">信息*</label>
                                 <textarea class="form-control" rows="11" name="contact_textarea" ></textarea>
                             </div>
                         </div>
@@ -97,7 +97,7 @@ include "header.php";
                         <div class="col-sm-12">
 
 
-                            <button type="submit" name="submit" id="contact-submit-btn" class="btn btn-default">SEND</button>
+                            <button type="submit" name="submit" id="contact-submit-btn" class="btn btn-default">发送</button>
                         </div>
                     </div>
 

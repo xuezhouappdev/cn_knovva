@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>The Innovation Reading Group: Creativity and Change in the New Millennium (Fall 2017)
+    <title>英文原版精读之科技前沿
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -42,7 +42,7 @@ include "header.php";
         <div class="row">
 
             <div class="intro-text">
-                <h1>Creativity and Change in the New Millennium </h1>
+                <h1>英文原版精读之科技前沿</h1>
                 <a href="applicationform.php">ENROLL NOW</a>
             </div>
         </div>
@@ -57,19 +57,16 @@ include "header.php";
 <div class="about section">
     <div class="container" >
         <ul class="breadcrumb">
-            <li><a href="index_2.php">Home</a></li>
-            <li><a href="programs.php">Program</a></li>
-            <li><a href="#">Creativity and Change in the New Millennium</a></li>
+            <li><a href="index_2.php">主页</a></li>
+            <li><a href="programs.php">项目浏览</a></li>
+            <li><a href="#">英文原版精读之科技前沿</a></li>
         </ul>
 
         <div class="row">
             <div class="col-md-7">
-                <h4>The Innovation Reading Group: Creativity and Change in the New Millennium</h4>
+                <h4>英文原版精读之科技前沿</h4>
                 <hr>
-                <p>One of the new demands of the twenty-first century is growing an ability to adapt and make-new in the quickly changing world. In this reading group, students explore the meaning of innovation: what does it mean to innovate across sectors: in technology, business, or in the home? What did it mean in the information age? What could it mean as artificial intelligence expands its presence in our technology landscape?
-                    <br><br>
-
-                    This group will explore scientific progress, philosophy, literature, and more to develop a sophisticated notion of how innovation can be used, nurtured, and applied to their respective sectors of studies and work. Designed for students with intermediate to advanced English skills, learning will be segmented, and differentiated reading assignments will be offered for different levels of language learning.
+                <p>进入21世纪以来，科技创新对各行各业人才技能的要求日新月异。快速创新和快速适应是新时期人才的必备能力。在该阅读小组中，学生将对“创新”这一话题进行深入的探讨，主题包括：什么是信息时代的跨界创新？人工智能会对世界产生怎样的影响？创新如何造福人类？等等。
                 </p>
             </div>
             <div class="col-md-5" >
@@ -80,13 +77,9 @@ include "header.php";
 
 
 
-                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>Literature</p>
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Online</P>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;AGE: </b>Year 14 -18</p>
-
-
-                        <p><b><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;TIME: </b>Sep - Nov</p>
-                        <p><b><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;&nbsp;DURATION: </b>7 Weeks</p>
+                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;主题: </b>科技，创新</p>
+                        <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;时间 & 地点: </b>2017秋季/线上课程;</p>
+                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
 <!--                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>-->
                     </div>
                 </div>
@@ -133,20 +126,20 @@ include "header.php";
 <div class="features section">
     <div class="container">
         <div class="row">
-            <h2>YOUR EXPERIENCE INCLUDES</h2>
+            <h2>项目特色</h2>
         </div>
 
         <div class="row">
             <div class="col-sm-3">
                 <img src="image/icon/icon-deepen.png" class="img img-responsive">
-                <h4><Span>Deepen</Span>&nbsp;your English reading abilities
+                <h4><Span>拓展</Span>&nbsp;原版英文小说阅读能力
 
 
                 </h4>
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-polish.png" class="img img-responsive">
-                <h4><Span>Polish</Span>&nbsp;your analytical skills
+                <h4><Span>提高</Span>&nbsp;文学分析能力
 
 
 
@@ -155,7 +148,7 @@ include "header.php";
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-apply.png" class="img img-responsive">
-                <h4><Span>Apply</Span>&nbsp;theories, trends and concepts of innovation into your own projects and work
+                <h4><Span>紧跟</Span>&nbsp;全球创新潮流
 
 
 
@@ -164,7 +157,7 @@ include "header.php";
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-connect.png" class="img img-responsive">
-                <h4><Span>Read</Span>&nbsp;with a community of students, passionate about reading and innovating
+                <h4>为<Span>应用创新理论</Span>奠定基础</h4>
 
 
 
@@ -186,12 +179,13 @@ include "header.php";
 <div class="calltoaction section">
     <div class="container">
         <div class="row">
-            <h2>Start learning with Knovva Academy.</h2>
-            <p><i>We’ll help you every step of the way.</i></p>
-            <a href="applicationform.php">ENROLL NOW</a>
+            <h2>开启Knovva的旅程</h2>
+            <p><i>探索发现最好的你</i></p>
+            <a href="applicationform.php">立即报名</a>
         </div>
     </div>
 </div>
+
 
 
 

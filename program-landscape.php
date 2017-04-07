@@ -66,7 +66,7 @@ include "header.php";
             <div class="col-md-7">
                 <h4>美国高等院校专业及就业选择 </h4>
                 <hr>
-                <p>This 7-week course will  help prospective international students understand the landscape of college learning in the U.S. Many colleges have thousands of course offerings and dozens of majors and academic concentrations; navigating this diverse selection of professional or academic trajectories can be challenging. This interactive Online Course is designed to help students understand the variety of Majors and Minors and college learning environments to prepare students to make wise, practical, and deliberate steps in their academic career.</p>
+                <p>美国高等教育系统机构繁多、结构复杂，各院校自主权较大、专业设置灵活、信息庞杂，为非英语为母语国家的申请者科学地进行专业选择和就学准备带来了挑战。美国高等院校专业及就业选择为期7周，旨在促进有志来美就读本科或研究生的国际学生系统理解美国高等教育的机构设置、学科设置、就业前景等，为学生择校择业提供参考。</p>
             </div>
             <div class="col-md-5" >
 
@@ -126,20 +126,20 @@ include "header.php";
 <div class="features section">
     <div class="container">
         <div class="row">
-            <h2>YOUR EXPERIENCE INCLUDES</h2>
+            <h2>项目特色</h2>
         </div>
 
         <div class="row">
             <div class="col-sm-3">
                 <img src="image/icon/icon-explore.png" class="img img-responsive">
-                <h4><Span>Explore</Span>&nbsp;the educational diversity of an American university
+                <h4><Span>系统</Span>&nbsp;了解美国高等教育体系
 
 
                 </h4>
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-deepen.png" class="img img-responsive">
-                <h4><Span>Deepen  </Span>&nbsp; your understanding of your academic interests
+                <h4><Span>深入  </Span>&nbsp;探索不同专业的知识技能
 
 
 
@@ -148,7 +148,7 @@ include "header.php";
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-understand.png" class="img img-responsive">
-                <h4><Span>Understand</Span>&nbsp;the link between your studies and your professional path
+                <h4><Span>前瞻</Span>&nbsp;不同专业的职业前景
 
 
 
@@ -156,7 +156,7 @@ include "header.php";
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-discover.png" class="img img-responsive">
-                <h4><Span>Discover</Span>&nbsp;your interests, passions and the possibilities that lay before you
+                <h4><Span>  发现</Span>&nbsp;人生的无限可能
 
 
                 </h4>
@@ -172,9 +172,9 @@ include "header.php";
 <div class="calltoaction section">
     <div class="container">
         <div class="row">
-             <h2>READY TO TAKE YOUR SYLLABUS ABROAD?</h2>
-             <p><i>We’ll help you every step of the way.</i></p>
-              <a href="applicationform.php">ENROLL NOW</a>
+             <h2>开启Knovva的旅程</h2>
+             <p><i>探索发现最好的你</i></p>
+              <a href="applicationform.php">立即报名</a>
         </div>
     </div>
 </div>

@@ -77,10 +77,8 @@ include "header.php";
 
 
                         <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;主题: </b>政治科学、国际关系</p>
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>美国波士顿</P>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年龄: </b>Year 14 -18</p>
-                        <p><b><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;时间: </b>July - August</p>
-                        <p><b><i class="fa fa-clock-o" aria-hidden="true"> </i>&nbsp;&nbsp;DURATION: </b>2 Weeks</p>
+                        <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;时间 & 地点: </b>2017夏季/美国剑桥;</p>
+                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
 <!--                <a data-toggle="modal" data-target="#myModal" > >> VIEW AGENDA</a>-->
                     </div>
                 </div>

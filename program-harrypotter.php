@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>The Harry Potter Reading Group (Summer 2017)
+    <title>英文原版精读之哈利波特系列
     </title>
 
     <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
@@ -42,8 +42,8 @@ include "header.php";
         <div class="row">
 
             <div class="intro-text">
-                <h1>The Harry Potter Reading Group</h1>
-                <a href="applicationform.php">ENROLL NOW</a>
+                <h1>英文原版精读之哈利波特系列</h1>
+                <a href="applicationform.php">现在报名</a>
             </div>
         </div>
 
@@ -57,18 +57,16 @@ include "header.php";
 <div class="about section">
     <div class="container">
         <ul class="breadcrumb">
-            <li><a href="index_2.php">Home</a></li>
-            <li><a href="programs.php">Program</a></li>
-            <li><a href="#">The Harry Potter Reading Group</a></li>
+            <li><a href="index_2.php">主页</a></li>
+            <li><a href="programs.php">项目浏览</a></li>
+            <li><a href="#">英文原版精读之哈利波特系列</a></li>
         </ul>
 
         <div class="row">
             <div class="col-md-7">
-                <h4>The Harry Potter Reading Group </h4>
+                <h4>英文原版精读之哈利波特系列 </h4>
                 <hr>
-                <p>The Harry Potter Reading Group is an online reading group for high school students interested in engaging with the Harry Potter novel series together under academic and literary guidance. Students will explore relevant sources of history and literature to enhance their creative and analytical thinking along side their familiarity with the imaginative and cultural constructions that led to the creation of this series. Through reading, multimedia, and discussion participants will learn about literary analysis and delve into the themes and ideas of this well-loved series.<br><br>
-
-                    Students will spend twelve weeks reading Harry Potter and the Sorcerer’s Stone. Designed for students of intermediate to advanced English skills, additional reading will be available for advanced students to engage in critical scholarship on Rowling’s writing and in the fantastical - Harry Potter series.</p>
+                <p>英文原版精读小组借鉴英美博雅教育的研讨会形式，为高中生创造一个互动互助的在线阅读社区。在为期12周的学习中，学生将会在有丰富经验的哈佛学者带领下精读哈利波特的精选章节和相关的文化历史文献，一起分析小说的文学创作手法，在提高英语阅读能力的同时培养批判性思维。本系列课程适用于英语阅读水平中高级的学生。</p>
             </div>
             <div class="col-md-5" >
                 <div class="panel panel-primary" style="position: relative;top:48px">
@@ -77,13 +75,12 @@ include "header.php";
 
 
 
-                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;SUBJECT: </b>Literature</p>
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;LOCATION: </b>Online</P>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;AGE: </b>Year 14 -18</p>
+                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;主题: </b>文学，小说</p>
+                        <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;时间 & 地点: </b>2017夏季/美国剑桥;</p>
+                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
 
 
-                        <p><b><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;TIME: </b>Sep - Nov</p>
-                        <p><b><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;&nbsp;DURATION: </b>7 Weeks</p>
+
 <!--                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>-->
 
                     </div>
@@ -131,20 +128,20 @@ include "header.php";
 <div class="features section">
     <div class="container">
         <div class="row">
-            <h2>YOUR EXPERIENCE INCLUDES</h2>
+            <h2>项目特色</h2>
         </div>
 
         <div class="row">
             <div class="col-sm-3">
                 <img src="image/icon/icon-experience.png" class="img img-responsive">
-                <h4><Span>Expand</Span>&nbsp;your English reading abilities
+                <h4><Span>拓展</Span>&nbsp;原版英文小说阅读能力
 
 
                 </h4>
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-polish.png" class="img img-responsive">
-                <h4><Span>Polish</Span>&nbsp;your analytical skills
+                <h4><Span>提高</Span>&nbsp;文学分析能力
 
 
 
@@ -153,7 +150,7 @@ include "header.php";
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-learn.png" class="img img-responsive">
-                <h4><Span>Learn</Span>&nbsp;about literature, history and contemporary culture
+                <h4><Span>涉猎</Span>&nbsp;当代西方文学、历史、文化
 
 
 
@@ -162,7 +159,7 @@ include "header.php";
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-connect.png" class="img img-responsive">
-                <h4><Span>Read</Span>&nbsp with a community of students, passionate about reading and Harry Potter
+                <h4><Span>探讨</Span>&nbsp 哈利波特的世界影响力
 
 
 
@@ -181,13 +178,13 @@ include "header.php";
 <div class="calltoaction section">
     <div class="container">
         <div class="row">
-            <h2>Start learning with Knovva Academy.
-            </h2>
-            <p><i>We’ll help you every step of the way.</i></p>
-            <a href="applicationform.php">ENROLL NOW</a>
+            <h2>开启Knovva的旅程</h2>
+            <p><i>探索发现最好的你</i></p>
+            <a href="applicationform.php">立即报名</a>
         </div>
     </div>
 </div>
+
 
 
 
