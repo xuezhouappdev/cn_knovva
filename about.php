@@ -49,7 +49,7 @@ include "header.php";
 <!--introtext-->
 <div class="header-about section">
     <div class="container">
-        <h1>Knovva助你拥抱世界、走向未来。</h1>
+        <h1>Knovva Academy助你拥抱世界、走向未来。</h1>
     </div>
 </div>
 
@@ -60,7 +60,7 @@ include "header.php";
         <div class="row">
             <div class="col-md-6 ">
                <h3>关于我们</h3>
-                <p>Knovva Academy Inc. 是美国剑桥市的创新教育机构，创始团队由世界顶尖高校的毕业生组成。Knovvoa旨在为青少年提供丰富互动的学术课程及浸入式项目制学习体验，支持青少年寻找自我、设立宏愿、追逐梦想。
+                <p>Knovva Academy 是美国剑桥市的创新教育机构，创始团队由世界顶尖高校的毕业生组成。Knovva Academy旨在为青少年提供丰富互动的学术课程及浸入式项目制学习体验，支持青少年寻找自我、设立宏愿、追逐梦想。
                 </p>
             </div>
             <div class="col-md-6 ">
