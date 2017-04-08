@@ -81,7 +81,7 @@ include "header.php";
 
 
                         <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;主题: </b>高等教育</p>
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;时间& 地点: </b>2017夏季/线上课程</P>
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>线上课程&nbsp;|&nbsp;2017夏季</P>
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
 
 

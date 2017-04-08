@@ -78,9 +78,9 @@ include "header.php";
 
                         <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;科目: </b>美国文化， 沟通艺术</p>
 
-                        <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;时间 & 地点: </b>2017夏季/美国剑桥;</p>
+                        <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>线上课程&nbsp;|&nbsp;2017夏季</p>
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
-               <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>
+               <a data-toggle="modal" data-target="#myModal" > >>浏览课程安排</a>
                     </div>
                 </div>
             </div>

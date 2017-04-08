@@ -1,6 +1,6 @@
 //colors
 $white: #fff;
-$primary: #5764ae;
+$primary: #ff1657;
 $black: #121212;
 $purple: #6c4a98;
 $lightprimary: lighten($primary,10);
@@ -169,7 +169,7 @@ div {
         p {
           color: $white;
           text-shadow: 4px 4px 16px #000000;
-          font-size: 18px;
+          font-size: 16px;
           text-align: justify;
         }
       }

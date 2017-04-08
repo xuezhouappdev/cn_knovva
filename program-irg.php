@@ -43,13 +43,14 @@ include "header.php";
 
             <div class="intro-text">
                 <h1>英文原版精读之科技前沿</h1>
-                <a href="applicationform.php">ENROLL NOW</a>
+                <a href="applicationform.php">现在报名</a>
             </div>
         </div>
 
     </div>
 
 </div>
+
 
 
 
@@ -78,7 +79,7 @@ include "header.php";
 
 
                         <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;主题: </b>科技，创新</p>
-                        <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;时间 & 地点: </b>2017秋季/线上课程;</p>
+                        <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>线上课程&nbsp;|&nbsp;2017秋季</p>
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
 <!--                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>-->
                     </div>

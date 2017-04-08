@@ -79,7 +79,7 @@ include "header.php";
 
                         <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;&nbsp;科目: </b>应用工程、计算机科学</p>
 
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;时间& 地点: </b>2017夏季/美国剑桥</P>
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>线上课程&nbsp| &nbsp2017夏季</P>
                         <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
 
 <!--                <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>-->

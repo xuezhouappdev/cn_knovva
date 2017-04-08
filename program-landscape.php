@@ -75,11 +75,10 @@ include "header.php";
                     <div class="panel-body">
 
                         <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;主题: </b>美国高等教育</p>
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>美国剑桥</P>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;AGE: </b>Year 14 -18</p>
-                        <p><b><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;TIME: </b>July - August</p>
-                        <p><b><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;&nbsp;DURATION: </b>7 Weeks</p>
-              <a data-toggle="modal" data-target="#myModal" >>>VIEW AGENDA</a>
+                        <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>线上课程&nbsp;|&nbsp;2017夏季</p>
+                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年龄: </b>高中一年级 - 高中三年级</p>
+
+              <a data-toggle="modal" data-target="#myModal" >>>浏览课程安排</a>
 
                     </div>
                 </div>

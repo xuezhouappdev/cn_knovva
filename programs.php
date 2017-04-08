@@ -128,7 +128,7 @@ include "header.php";
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>应用工程、计算机科学</p>
 
 
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>时间&地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017夏季<br></p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017夏季<br></p>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
 
                     <br> <br>
@@ -167,7 +167,7 @@ include "header.php";
                     <h4><b>美国高等院校专业及就业选择</b></h4>
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>高等教育</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>时间&地点: &nbsp;</span>2017夏季/线上课程<br>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 — 高中三年级</p>
 
 
@@ -184,7 +184,7 @@ include "header.php";
                     <h4><b>美国社交媒体和在线沟通要领</b></h4>
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>美国文化， 沟通艺术</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>时间&地点: &nbsp;</span>2017夏季/线上课程<br>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 — 高中三年级</p>
 
 
@@ -197,7 +197,7 @@ include "header.php";
                     <img src="image/program/hary.jpg" alt="Avatar" style="width:100%">
                     <h4><b>哈利波特英文原版阅读小组</b></h4>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>文学，小说</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>时间&地点: &nbsp;</span>2017夏季/线上课程<br>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 — 高中三年级</p>
 
 
@@ -214,7 +214,7 @@ include "header.php";
                     <h4><b>新世纪创新英文原版阅读小组</b></h4>
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>科技，创新</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>时间&地点: &nbsp;</span>2017秋季/线上课程<br>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
                     <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 — 高中三年级</p>
 
 
