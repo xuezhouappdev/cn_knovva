@@ -68,7 +68,7 @@ include "header.php";
     <div class="carousel-inner home-slider" role="listbox">
 
         <div class="item active" style='
-        background: url("image/skyatlas2.jpg") center center no-repeat;
+        background: url("image/skyatlas2.jpeg") center center no-repeat;
         min-height: 110vh;
         width: 100%;
         -webkit-background-size: cover;
