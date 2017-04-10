@@ -1,10 +1,16 @@
 /*font*/
 
-
-
-body {
-
+@font-face{
+    font-family: myFancyFont;
+    src: url("../font/chinese/pingfang.ttf"), url("../font/chinese/pingfang.ttf");
 }
+
+body{
+    font-family: myFancyFont,"sans-serif" !important;
+    font-weight: bold;
+}
+
+
 
 a:hover {
     cursor: pointer;
