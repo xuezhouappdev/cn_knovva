@@ -290,8 +290,8 @@ include "header.php";
         <ol class="carousel-indicators">
             <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel2" data-slide-to="1"></li>
-<!--            <li data-target="#myCarousel2" data-slide-to="2"></li>-->
-<!--            <li data-target="#myCarousel2" data-slide-to="3"></li>-->
+            <li data-target="#myCarousel2" data-slide-to="2"></li>
+            <li data-target="#myCarousel2" data-slide-to="3"></li>
         </ol>
 
         <!-- Wrapper for slides -->
@@ -322,29 +322,28 @@ include "header.php";
                 </div>
             </div>
 
-<!--            <div class="item">-->
-<!--                <div class="container">-->
-<!--                    <div class="row">-->
-<!---->
-<!---->
-<!---->
-<!--                        <h4>"I had an awesome experience and got the chance to improve myself. I will take any opportunities to enrich my life with Knovva Academy." - Participant from Liuzhou High School</h4><br>-->
-<!---->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!---->
-<!--            <div class="item">-->
-<!--                <div class="container">-->
-<!--                    <div class="row">-->
-<!---->
-<!---->
-<!--                        <h4>"I’m always trying to find programs to improve myself because I want to make an impact to the world or the people around me. At Knovva Academy, I got to develop new practical skills, build connection with different cultures, and understand the responsibility of being a global citizen. Thank you everyone." - Participant from Dalian No. 24 High School</h4>-->
-<!---->
-<!---->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
+            <div class="item">
+                <div class="container">
+                    <div class="row">
+
+                        <br>
+                        <h4>"The amount of things I’ve learned here is so much greater than what I could learn from reading a textbook from a classroom or listening to a lecture. This way of learning is definitely better than through, the traditional learning class system" - Federico Rollo from Boston Latin School </h4><br>
+                        <br>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="container">
+                    <div class="row">
+
+                        <br><br>
+                        <h4>"I met all these amazing people and they really had a great impact on my life. There is nothing I would trade in the world for this memory. Thank you." - Adelene Jeneid from Norwood High School</h4>
+                        <br><br>
+
+                    </div>
+                </div>
+            </div>
 
 
         </div>

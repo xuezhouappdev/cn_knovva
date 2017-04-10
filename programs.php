@@ -72,7 +72,7 @@ include "header.php";
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>科目: &nbsp;</span>商业, 社会科学</p>
 
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>时间&地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017春季<br>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017春季<br>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国南京 &nbsp| &nbsp2017冬季<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;线上 &nbsp| &nbsp2017春季
 
                     </p>

@@ -262,6 +262,9 @@ include "header.php";
             </div>
 
 
+
+
+
         </div>
     </div>
 </div>
@@ -277,11 +280,14 @@ include "header.php";
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2" ></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
 
         </ol>
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
+
             <div class="item active">
                 <div class="container">
                     <div class="row">
@@ -299,15 +305,38 @@ include "header.php";
                     <div class="row">
 
 
-                        <br>
-                        <h4>"如果你愿意与来自不同区域、文化、性格的人交流，G20是一个不容错过的机会。这里有大咖云集的教授，他们生动幽默、侃侃而谈；这里有世界各地的青少年，他们和你都有同一个梦想：make the world a better place！" — 重庆南开中学 林炜菡
-                        </h4><br>
-                        <br>
+                        <br><br>
+                        <h4>"如果你愿意与来自不同区域、文化、性格的人交流，G20是一个不容错过的机会。这里有大咖云集的教授，他们生动幽默、侃侃而谈；这里有世界各地的青少年，他们和你都有同一个梦想：make the world a better place！" - 重庆南开中学 林炜菡
+                        </h4><br><br>
 
 
                     </div>
                 </div>
             </div>
+
+            <div class="item">
+                <div class="container">
+                    <div class="row">
+
+                        <br>
+                        <h4>"The amount of things I’ve learned here is so much greater than what I could learn from reading a textbook from a classroom or listening to a lecture. This way of learning is definitely better than through, the traditional learning class system" - Federico Rollo from Boston Latin School </h4><br>
+                        <br>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="container">
+                    <div class="row">
+
+                        <br><br>
+                        <h4>"I met all these amazing people and they really had a great impact on my life. There is nothing I would trade in the world for this memory. Thank you." - Adelene Jeneid from Norwood High School</h4>
+                        <br><br>
+
+                    </div>
+                </div>
+            </div>
+
 
 
 
