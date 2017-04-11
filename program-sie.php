@@ -43,7 +43,7 @@ include "header.php";
 
             <div class="intro-text">
                 <h1>社会创新创业项目</h1>
-                <a href="applicationform.php">立即报名</a>
+                <a href="applicationform.php">立即申请</a>
             </div>
         </div>
 
@@ -58,7 +58,7 @@ include "header.php";
     <div class="container">
         <ul class="breadcrumb">
             <li><a href="index_2.php">首页</a></li>
-            <li><a href="programs.php">浏览项目</a></li>
+            <li><a href="programs.php">项目浏览</a></li>
             <li><a href="#">社会创新创业项目
                 </a></li>
         </ul>
@@ -67,22 +67,22 @@ include "header.php";
             <div class="col-md-7">
                 <h4>社会创新创业项目</h4>
                 <hr>
-                <p>社会创新项目是为期一年的、面向高中生（9-12年级）的混合制学习项目。项目围绕全球亟待解决的社会问题，启发学生挖掘自身潜能、利用创新模式攻克挑战。<br><br>
-                    项目由三部分组成，分别在夏季、冬季和春季进行。夏季小学期为期两周，在哈佛大学所在地剑桥市举办。来自全球各地的学生将以小组为单位，参加美国大学讲座、互动工作坊等，学习创新创业的核心知识、掌握关键技能。同时，小组成员也将重点就一个社会问题进行深入研究。冬季小学期为期一周，在中国南京市举办。小组成员将进行一系列丰富的浸入式文化活动，并与各领域专家一起进行田野调查，进一步理解社会和环境问题。春季学期，学生将学习创新相关的线上课程，并创造解决社会问题的可行方式方法。
+                <p>社会创新创业项目是为期一年的、面向高中生的混合制学习项目。项目围绕全球亟待解决的社会问题，启发学生挖掘自身潜能、利用创新模式攻克挑战。<br><br>
+                    项目由三部分组成，分别在夏季、秋季和冬季进行。夏季小学期为期两周，在哈佛大学所在地剑桥市举办。来自全球各地的学生将以小组为单位，参加美国大学讲座、互动工作坊等，学习创新创业的核心知识、掌握关键技能。同时，小组成员也将重点就一个社会问题进行深入研究。秋季学期，学生将学习创新相关的线上课程，并创造解决社会问题的可行方式方法。冬季小学期为期一周，在中国南京市举办。小组成员将进行一系列丰富的浸入式文化活动，并与各领域专家一起进行田野调查，进一步理解社会和环境问题。
                 </p>
             </div>
             <div class="col-md-5" >
 
                 <div class="panel panel-primary" style="position: relative;top:48px">
-                    <div class="panel-heading">Facts</div>
+                    <div class="panel-heading">概况</div>
                     <div class="panel-body">
 
 
 
-
-                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;主题: </b>高等教育</p>
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>线上课程&nbsp;|&nbsp;2017夏季</P>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
+                        <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;科目: </b>商业、社会科学</p>
+                        <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>美国剑桥  |  2017夏季<br>&nbsp;&nbsp;&nbsp;&nbsp;中国南京  |  2017冬季<br>&nbsp;&nbsp;&nbsp;&nbsp;线上  |  2017秋季
+                                                      </p>
+                        <p><b><i class="fa fa-user" aria-hidden="true"></i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
 
 
 <!--                        <a data-toggle="modal" data-target="#myModal" >>> VIEW AGENDA</a>-->
@@ -175,7 +175,7 @@ include "header.php";
         <div class="row">
             <h2>开启Knovva的旅程</h2>
             <p><i>探索发现最好的你</i></p>
-            <a href="applicationform.php">立即报名</a>
+            <a href="applicationform.php">立即申请</a>
         </div>
     </div>
 </div>

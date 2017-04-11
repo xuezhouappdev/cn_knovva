@@ -43,7 +43,7 @@ include "header.php";
 
             <div class="intro-text">
                 <h1>英文原版精读之科技前沿</h1>
-                <a href="applicationform.php">现在报名</a>
+                <a href="applicationform.php">现在申请</a>
             </div>
         </div>
 
@@ -67,20 +67,20 @@ include "header.php";
             <div class="col-md-7">
                 <h4>英文原版精读之科技前沿</h4>
                 <hr>
-                <p>进入21世纪以来，科技创新对各行各业人才技能的要求日新月异。快速创新和快速适应是新时期人才的必备能力。在该阅读小组中，学生将对“创新”这一话题进行深入的探讨，主题包括：什么是信息时代的跨界创新？人工智能会对世界产生怎样的影响？创新如何造福人类？等等。
+                <p>进入21世纪以来，科技创新对各行各业人才技能的要求日新月异。快速创新和快速适应是新时期人才的必备能力。在该阅读小组中，学生将对“创新”这一话题进行深入的探讨，主题包括：什么是信息时代的跨界创新？人工智能会对世界产生怎样的影响？创新如何造福人类？等等。通过对权威期刊、杂志、书本章节的阅读和反思，学生将提高科学阅读和科学写作能力，为留学美国做好准备。
                 </p>
             </div>
             <div class="col-md-5" >
 
                 <div class="panel panel-primary" style="position: relative;top:48px">
-                    <div class="panel-heading">Facts</div>
+                    <div class="panel-heading">概况</div>
                     <div class="panel-body">
 
 
 
-                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;主题: </b>科技，创新</p>
+                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;科目: </b>科技、创新</p>
                         <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>线上课程&nbsp;|&nbsp;2017秋季</p>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
+                        <p><b><i class="fa fa-user" aria-hidden="true"> </i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
 <!--                <a data-toggle="modal" data-target="#myModal" > >>VIEW AGENDA</a>-->
                     </div>
                 </div>
@@ -133,14 +133,14 @@ include "header.php";
         <div class="row">
             <div class="col-sm-3">
                 <img src="image/icon/icon-deepen.png" class="img img-responsive">
-                <h4><Span>拓展</Span>&nbsp;原版英文小说阅读能力
+                <h4><Span>拓展</Span>&nbsp;原版英文阅读能力
 
 
                 </h4>
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-polish.png" class="img img-responsive">
-                <h4><Span>提高</Span>&nbsp;文学分析能力
+                <h4><Span>提高</Span>&nbsp;科学阅读写作能力
 
 
 
@@ -158,7 +158,7 @@ include "header.php";
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-connect.png" class="img img-responsive">
-                <h4>为<Span>应用创新理论</Span>奠定基础</h4>
+                <h4><Span>奠定 </Span>留学美国基础</h4>
 
 
 
@@ -182,7 +182,7 @@ include "header.php";
         <div class="row">
             <h2>开启Knovva的旅程</h2>
             <p><i>探索发现最好的你</i></p>
-            <a href="applicationform.php">立即报名</a>
+            <a href="applicationform.php">立即申请</a>
         </div>
     </div>
 </div>

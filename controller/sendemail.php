@@ -29,13 +29,13 @@ if(isset($_POST['contact_fn'])) {
   $contact_textarea = test_input($_POST['contact_textarea']);
 
 
-  if ($contact_fn=="" || $contact_ln=="" ||$contact_email=="" ||$contact_phone=="" ||$contact_textarea== "") {
+  if ($contact_fn=="" || $contact_ln=="" ||$contact_email=="" ||$contact_textarea== "") {
     echo "Please make sure all the information is complete";
 
   }
   else {
     $from = $contact_email;
-    $to = "test@skyatlasintl.com";
+    $to = "admin@skyatlasintl.com";
     $subject = "New Question from Prospective Client";
 
 

@@ -43,7 +43,7 @@ include "header.php";
 
             <div class="intro-text">
                 <h1>青少年领袖外交家项目 </h1>
-                <a href="applicationform.php">立即报名</a>
+                <a href="applicationform.php">立即申请</a>
             </div>
         </div>
 
@@ -76,9 +76,9 @@ include "header.php";
 
 
 
-                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;主题: </b>政治科学、国际关系</p>
+                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;科目: </b>政治科学、国际关系</p>
                         <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>美国剑桥&nbsp;|&nbsp;2017夏季 </p>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
+                        <p><b><i class="fa fa-user" aria-hidden="true"> </i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
 <!--                <a data-toggle="modal" data-target="#myModal" > >> VIEW AGENDA</a>-->
                     </div>
                 </div>
@@ -141,7 +141,7 @@ include "header.php";
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-understand.png" class="img img-responsive">
-                <h4><Span>深刻</Span>&nbsp;探讨政治科学、哲学原理
+                <h4><Span>深刻</Span>&nbsp;探讨政治科学、哲学
 
                 </h4>
             </div>
@@ -169,7 +169,7 @@ include "header.php";
         <div class="row">
             <h2>开启Knovva的旅程</h2>
             <p><i>探索发现最好的你</i></p>
-            <a href="applicationform.php">立即报名</a>
+            <a href="applicationform.php">立即申请</a>
         </div>
     </div>
 </div>

@@ -66,19 +66,19 @@ include "header.php";
                     <div class="sie-overlay" style="position: absolute;top:64px;left:0;padding:16px;background: #F2184F;transition: 0.5s linear;opacity:0;margin:0 15px">
                           <p style="text-align: justify;color:white;margin-left:0">This course is also available for blended learning. It includes a combination of interactive online and blended year-long courses.</p>
                     </div>
-                    <h4 style="position: absolute;top:-7px;left:-9px"  id="hbr-btn"><span class="label label-primary" style="background: #f2184f;padding: 6px 16px;border-radius: 0;font-style:italic">混成学习</span></h4></h4>
+                    <h4 style="position: absolute;top:-5px;left:-9px"  id="hbr-btn"><span class="label label-primary" style="background: #f2184f;padding: 6px 16px;border-radius: 0;font-style:italic">混合一年制</span></h4></h4>
 
                     <h4><b>社会创新创业项目</b></h4>
 
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>科目: &nbsp;</span>商业, 社会科学</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>科目: &nbsp;</span>商业、社会科学</p>
 
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017春季<br>
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国南京 &nbsp| &nbsp2017冬季<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;线上 &nbsp| &nbsp2017春季
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;<span>地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017夏季<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国南京 &nbsp| &nbsp2017冬季<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;线上 &nbsp| &nbsp2017秋季
 
                     </p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
+                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
 
-                    <h5 style="text-align: center"><a href="program-sie.php" class="button_p">了解更多</a></h5>
+                    <h5 style="text-align: center"><a href="program-sie.php" class="button_p">了解详情</a></h5>
 
                     <script>
                         $(document).ready(function(){
@@ -109,14 +109,14 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/global.jpg" alt="Avatar" style="width:100%">
                     <h4><b>青少年领袖外交家项目</b></h4>
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>国际政治</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017夏季<br></p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>政治科学、国际关系</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017夏季<br></p>
+                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
 
 
 
                     <br> <br>
-                    <h5 style="text-align: center"> <a href="program-gai.php" class="button_p">了解更多</a></h5>
+                    <h5 style="text-align: center"> <a href="program-gai.php" class="button_p">了解详情</a></h5>
                 </div>
             </div>
 
@@ -128,11 +128,11 @@ include "header.php";
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>应用工程、计算机科学</p>
 
 
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017夏季<br></p>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017夏季<br></p>
+                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
 
                     <br> <br>
-                    <h5 style="text-align: center"><a href="program-aer.php" class="button_p">了解更多</a></h5>
+                    <h5 style="text-align: center"><a href="program-aer.php" class="button_p">了解详情</a></h5>
                 </div>
             </div>
 
@@ -157,7 +157,7 @@ include "header.php";
          </ul>-->
 
         <div class="row">
-            <h2>在线项目</h2>
+            <h2>在线课程</h2>
         </div>
 
         <div class="row">
@@ -167,11 +167,11 @@ include "header.php";
                     <h4><b>美国高等院校专业及就业选择</b></h4>
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>高等教育</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 — 高中三年级</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
+                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
 
 
-                    <h5 style="text-align: center"><a href="program-landscape.php" class="button_p">了解更多</a></h5>
+                    <h5 style="text-align: center"><a href="program-landscape.php" class="button_p">了解详情</a></h5>
 
 
                 </div>
@@ -183,12 +183,12 @@ include "header.php";
                     <img src="image/program/social.jpg" alt="Avatar" style="width:100%">
                     <h4><b>美国社交媒体和在线沟通要领</b></h4>
 
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>美国文化， 沟通艺术</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 — 高中三年级</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>美国文化、沟通艺术</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
+                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
 
 
-                    <h5 style="text-align: center"><a href="program-socialmedia.php" class="button_p">了解更多</a></h5>
+                    <h5 style="text-align: center"><a href="program-socialmedia.php" class="button_p">了解详情</a></h5>
                 </div>
             </div>
 
@@ -196,12 +196,12 @@ include "header.php";
                 <div class="card_p">
                     <img src="image/program/hary.jpg" alt="Avatar" style="width:100%">
                     <h4><b>哈利波特英文原版阅读小组</b></h4>
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>文学，小说</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 — 高中三年级</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>英美文学、阅读写作</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
+                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
 
 
-                    <h5 style="text-align: center"><a href="program-harrypotter.php" class="button_p">了解更多</a></h5>
+                    <h5 style="text-align: center"><a href="program-harrypotter.php" class="button_p">了解详情</a></h5>
                 </div>
             </div>
 
@@ -213,14 +213,14 @@ include "header.php";
                     <img src="image/program/creativity.jpg" alt="Avatar" style="width:100%">
                     <h4><b>新世纪创新英文原版阅读小组</b></h4>
 
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>科技，创新</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;<span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 — 高中三年级</p>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>科技、创新</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
+                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
 
 
 
 
-                    <h5 style="text-align: center"><a href="program-irg.php" class="button_p "  >了解更多</a></h5>
+                    <h5 style="text-align: center"><a href="program-irg.php" class="button_p "  >了解详情</a></h5>
 
 
                 </div>

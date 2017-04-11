@@ -24,10 +24,10 @@
                 <img src="image/logo-trim.png"  class="img-responsive">
             </div>
             <div class="col-lg-4">
-                <h4>相关链接</h4>
+                <h4 style="display: none">相关链接</h4>
             </div>
             <div class="col-lg-4">
-                <h4>运营时间</h4>
+                <h4 style="display: none">运营时间</h4>
             </div>
         </div>
         <div class="row ">
@@ -61,8 +61,8 @@
             <div class="col-lg-4 footer-hours">
 
                 <ul>
-                    <li>周一 ~ 周五:   9:00am - 5:00pm</li>
-                    <li>周六 ~ 周日:   休息</li>
+                    <li>周一 - 周五:   9:00 am - 5:00 pm</li>
+                    <li>周六 - 周日:   休息</li>
                 </ul>
 
                 <div class="col-lg-12 social" style="text-align: center">

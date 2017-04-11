@@ -64,7 +64,7 @@ SEPERATELY-->
 <!--                    <li><a href="blog/" target="_blank"> Blog </a></li>-->
 
                     <li><a href="contact.php"> 联系方式 </a></li>
-                    <li><a href="applicationform.php" style="border: solid 2px #f0f9f6;padding: 3px 12px 5px">申请参加</a></li>
+                    <li><a href="applicationform.php" style="border: solid 2px #f0f9f6;padding: 3px 12px 5px">立即申请</a></li>
                  <!--   <li><a href="faq.php"> FAQ </a></li>-->
                    <!-- <li> <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a></li>-->
 
@@ -146,7 +146,7 @@ SEPERATELY-->
 
             if(url === (this.href)) {
 
-                $(this).css({"color":"#F2184F ","font-weight":"500"});
+                $(this).css({"color":"#F2184F ","font-weight":"bold","font-size":"16px"});
             }
         });
     });

@@ -43,7 +43,7 @@ include "header.php";
 
        <div class="intro-text">
            <h1>美国高等院校专业及就业选择</h1>
-           <a href="applicationform.php">立即报名</a>
+           <a href="applicationform.php">立即申请</a>
        </div>
    </div>
 
@@ -66,17 +66,17 @@ include "header.php";
             <div class="col-md-7">
                 <h4>美国高等院校专业及就业选择 </h4>
                 <hr>
-                <p>美国高等教育系统机构繁多、结构复杂，各院校自主权较大、专业设置灵活、信息庞杂，为非英语为母语国家的申请者科学地进行专业选择和就学准备带来了挑战。美国高等院校专业及就业选择为期7周，旨在促进有志来美就读本科或研究生的国际学生系统理解美国高等教育的机构设置、学科设置、就业前景等，为学生择校择业提供参考。</p>
+                <p>美国高等教育系统机构繁多、结构复杂，各院校自主权较大、专业设置灵活、信息庞杂，为非英语为母语国家的申请者科学地进行专业选择和就学准备带来了挑战。“美国高等院校专业及就业选择” 课程为期7周，旨在促进有志来美就读本科或研究生的国际学生系统理解美国高等教育的机构设置、学科设置、就业前景等，为学生择校择业提供参考。</p>
             </div>
             <div class="col-md-5" >
 
                 <div class="panel panel-primary" style="position: relative;top:48px">
-                    <div class="panel-heading">Facts</div>
+                    <div class="panel-heading">概况</div>
                     <div class="panel-body">
 
-                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;主题: </b>美国高等教育</p>
+                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;科目: </b>美国高等教育</p>
                         <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>线上课程&nbsp;|&nbsp;2017夏季</p>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年龄: </b>高中一年级 - 高中三年级</p>
+                        <p><b><i class="fa fa-user" aria-hidden="true"> </i>&nbsp;&nbsp;年龄: </b>高中一年级 - 高中三年级</p>
 
               <a data-toggle="modal" data-target="#myModal" >>>浏览课程安排</a>
 
@@ -131,14 +131,14 @@ include "header.php";
         <div class="row">
             <div class="col-sm-3">
                 <img src="image/icon/icon-explore.png" class="img img-responsive">
-                <h4><Span>系统</Span>&nbsp;了解美国高等教育体系
+                <h4><Span>了解 </Span>美国高等教育体系
 
 
                 </h4>
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-deepen.png" class="img img-responsive">
-                <h4><Span>深入  </Span>&nbsp;探索不同专业的知识技能
+                <h4><Span>探索 </Span>不同专业的知识技能
 
 
 
@@ -155,7 +155,7 @@ include "header.php";
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-discover.png" class="img img-responsive">
-                <h4><Span>  发现</Span>&nbsp;人生的无限可能
+                <h4><Span>发现</Span>&nbsp;人生的无限可能
 
 
                 </h4>
@@ -173,7 +173,7 @@ include "header.php";
         <div class="row">
              <h2>开启Knovva的旅程</h2>
              <p><i>探索发现最好的你</i></p>
-              <a href="applicationform.php">立即报名</a>
+              <a href="applicationform.php">立即申请</a>
         </div>
     </div>
 </div>

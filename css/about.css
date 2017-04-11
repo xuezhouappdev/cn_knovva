@@ -19,7 +19,7 @@
   .header-about .container h1 {
     font-size: 30px;
     text-align: center;
-    color: #f54874; }
+    color: #f2184f; }
 
 .whatwedo .container p {
   text-align: justify;
@@ -81,6 +81,8 @@
     .testimonial #myCarousel .carousel-inner .container h4 {
       padding: 8px 16px;
       line-height: 24px; }
+    .testimonial #myCarousel .carousel-inner .container p {
+      text-align: center; }
 
 .ourstory .container p {
   padding-bottom: 32px;
@@ -117,7 +119,7 @@
       top: 0;
       left: 0;
       right: 0;
-      background-color: #f54874;
+      background-color: #f2184f;
       overflow: hidden;
       width: 65%;
       height: 0;
@@ -133,6 +135,9 @@
         -ms-transform: translate(-50%, -50%);
         width: 80%;
         text-align: left; }
+        .teacher .container .row .card .overlay .text h5 {
+          line-height: 18px;
+          font-size: 14px; }
     .teacher .container .row .card:hover {
       box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.29);
       cursor: pointer; }

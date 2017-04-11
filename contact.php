@@ -52,16 +52,17 @@ include "header.php";
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="firstname">名*</label>
-                                <input type="text" class="form-control" name="contact_fn"  placeholder="First Name" >
+                                <label for="lastname">姓*</label>
+                                <input type="text" class="form-control" name="contact_ln"  placeholder="Last Name" >
+
 
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="lastname">姓*</label>
-                                <input type="text" class="form-control" name="contact_ln"  placeholder="Last Name" >
 
+                                <label for="firstname">名*</label>
+                                <input type="text" class="form-control" name="contact_fn"  placeholder="First Name" >
                             </div>
                         </div>
                     </div>
@@ -76,7 +77,7 @@ include "header.php";
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="phone">电话*</label>
+                                <label for="phone">电话</label>
                                 <input type="number" class="form-control" name="contact_phone"  placeholder="Phone" >
 
                             </div>

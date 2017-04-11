@@ -84,7 +84,7 @@ include "header.php";
                     color: white;
 
 ' >
-                <h1 style="font-size:56px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 72px">胸有丘壑万千<br>眼有星辰大海</h1>
+                <h1 style="font-size:56px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 72px">胸有丘壑万千<br>眼有星海万年</h1>
                 <a href="programs.php">学术项目</a>
             </div>
 
@@ -159,11 +159,11 @@ include "header.php";
         <div class="row">
             <div class="col-md-6">
               <h5 style="opacity: 0">机构简介</h5>
-              <h2>Knovva Academy助你发掘潜能、成就梦想</h2>
+              <h2>Knovva Academy —— <br>未来领袖的摇篮</h2>
 <!--                <h4>Lorem ipsum dolor sit amet soluta saepe odit error, maxime praesentium sunt udiandae!</h4>-->
-                <p>Knovva Academy是创新型学习的领先机构，致力于通过跨文化跨学科的互动线上线下课程为青少年成长助力，培养主动学习、善于反思、具有国际视野和社会责任心的世界公民和未来青年领袖。
+                <p>Knovva Academy是创新型学习的领先机构，致力于通过跨文化跨学科的互动线上线下课程为青少年成长助力，培养主动学习、善于反思、具有国际视野和社会责任心的未来青年领袖。
                 </p>
-                <a href="about.php">了解更多</a>
+                <a href="about.php">了解详情</a>
             </div>
 
 
@@ -191,13 +191,13 @@ include "header.php";
                 <div class="card" style='background: url("image/home/home-program1.jpg") center center no-repeat ;background-size: cover; '>
 
                     <h3>夏季项目</h3>
-                    <p>Knovva Academy夏季项目为期两周，在哈佛大学所在地波士顿地区举办。项目期间，来自世界各国的高中生将就社会创新、国际外交等主题进行项目制学习，完成主题相关的内容学习和小组任务。
+                    <p>Knovva Academy夏季项目为期两周，在哈佛大学所在地美国麻州剑桥市举办。项目期间，来自世界各国的高中生将就社会创新、国际外交等主题进行项目制学习，完成主题相关的内容学习和团队任务。
                     </p>
 
                     <div class="btnwrapper" >
                         <br>
                         <br>
-                        <a href="programs.php">更多信息</a>
+                        <a href="programs.php">了解详情</a>
                     </div>
                 </div>
             </div>
@@ -211,7 +211,7 @@ include "header.php";
                     </p>
                     <div class="btnwrapper">
                         <br><br><br>
-                        <a href="programs.php#onlineprogram">更多信息</a>
+                        <a href="programs.php#onlineprogram">了解详情</a>
                     </div>
                 </div>
             </div>
@@ -245,8 +245,8 @@ include "header.php";
             <div class="col-sm-4">
                 <div class="card">
                     <img class="img img-responsive " src="image/home/home-benefit.png">
-                    <h4><b>国际大本营 </b></h4>
-                    <p>有机会认识来自世界各地包括北美，南美和非洲等地区的朋友，结交小伙伴，体验不同文化的碰撞
+                    <h4><b>文化交融 </b></h4>
+                    <p>项目全程与世界各地优秀青年共同学习，结交好友，体验文化碰撞，搭建全球网络。
 
                     </p>
                 </div>
@@ -254,8 +254,8 @@ include "header.php";
             <div class="col-sm-4">
                 <div class="card">
                     <img class="img img-responsive " src="image/home/home-benefit2.png" >
-                        <h4><b>创新型互动课程</b></h4>
-                        <p>从哈佛学者开发的严谨、体系化的众多学科中选择最感兴趣的课程，实现个性化学习，学习并应用全新的理念和概念
+                        <h4><b>创新互动</b></h4>
+                        <p>从哈佛学者开发的严谨、体系化的学科中选择最感兴趣的课程，实现个性化学习并应用国际前沿理念。
 
 
                         </p>
@@ -267,8 +267,8 @@ include "header.php";
             <div class="col-sm-4" >
                 <div class="card">
                     <img class="img img-responsive " src="image/home/home-benifit3.png" >
-                    <h4><b>客户关怀</b></h4>
-                    <p>我们为学生及家长提供安全、细致、周到的服务，从项目开始之前直至结束之后
+                    <h4><b>学生关怀</b></h4>
+                    <p>我们为学生及家长提供安全、细致、周到的服务，项目前、中、后均得到资深教师、项目工作人员的学业和成长辅导。
 
                     </p>
                 </div>
@@ -300,22 +300,28 @@ include "header.php";
                 <div class="container">
                     <div class="row">
 
-                        <h4>"两天半的时间，能让一个人从对世界局势产生多深的理解呢？这次MG20峰会，着实让我体验到了从量变到质变，不只依靠个人的努力，它更是一个小团队合作的结果，一个大团队交流的结晶。来自世界各地的一百多个高中生齐聚一堂，组成了一个小世界，但我们却能从这个小世界里窥见无数文化与历史的交织，而正是它们才组成了我们现在的世界，也就是这个属于我们所有人的地球村。" - 山东省实验中学 王子睿
+                        <h4>“ 两天半的时间，能让一个人从对世界局势产生多深的理解呢？这次MG20峰会，着实让我体验到了从量变到质变，不只依靠个人的努力，它更是一个小团队合作的结果，一个大团队交流的结晶。来自世界各地的一百多个高中生齐聚一堂，组成了一个小世界，但我们却能从这个小世界里窥见无数文化与历史的交织，而正是它们才组成了我们现在的世界，也就是这个属于我们所有人的地球村。”
+                        </h4>
+
+                        <p >—— 山东省实验中学 王子睿</p>
+                        <br>
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="item">
+                <div class="container">
+                    <div class="row">
+
+
+                        <br><br>
+                        <h4>“ 如果你愿意与来自不同区域、文化、性格的人交流，G20是一个不容错过的机会。这里有大咖云集的教授，他们生动幽默、侃侃而谈；这里有世界各地的青少年，他们和你都有同一个梦想：make the world a better place！”
                         </h4><br>
 
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="item">
-                <div class="container">
-                    <div class="row">
-
-
-                        <br><br>
-                        <h4>"如果你愿意与来自不同区域、文化、性格的人交流，G20是一个不容错过的机会。这里有大咖云集的教授，他们生动幽默、侃侃而谈；这里有世界各地的青少年，他们和你都有同一个梦想：make the world a better place！" - 重庆南开中学 林炜菡
-                        </h4><br><br>
+                        <p > —— 重庆南开中学 林炜菡</p>
+                        <br>
 
 
                     </div>
@@ -327,7 +333,9 @@ include "header.php";
                     <div class="row">
 
                         <br>
-                        <h4>"The amount of things I’ve learned here is so much greater than what I could learn from reading a textbook from a classroom or listening to a lecture. This way of learning is definitely better than through, the traditional learning class system" - Federico Rollo from Boston Latin School </h4><br>
+                        <h4>“ The amount of things I’ve learned here is so much greater than what I could learn from reading a textbook from a classroom or listening to a lecture. This way of learning is definitely better than through, the traditional learning class system. " </h4>
+
+                        <p> - Federico Rollo from Boston Latin School </p>
                         <br>
                     </div>
                 </div>
@@ -338,8 +346,10 @@ include "header.php";
                     <div class="row">
 
                         <br><br>
-                        <h4>"I met all these amazing people and they really had a great impact on my life. There is nothing I would trade in the world for this memory. Thank you." - Adelene Jeneid from Norwood High School</h4>
-                        <br><br>
+                        <h4>“ I met all these amazing people and they really had a great impact on my life. There is nothing I would trade in the world for this memory. Thank you. " </h4>
+                        <p> - Adelene Jeneid from Norwood High School</p>
+                        <br>
+                        <br>
 
                     </div>
                 </div>
@@ -367,7 +377,7 @@ include "header.php";
 <div class="post ">
     <div class="container">
         <div class="row">
-            <h2>最近<span>新闻</span></h2>
+            <h2>最新<span>动态</span></h2>
         </div>
 
         <!--slider-->
@@ -381,22 +391,21 @@ include "header.php";
                     <div class="container">
                         <div class="row">
                             <div class="col-md-3">
-                                <img class="img-responsive img img-thumbnail" src="image/post/1.jpg">
+                                <a href="http://sd.sina.com.cn/edu/xykd/2016-02-29/105114132.html"><img class="img-responsive img img-thumbnail" src="image/post/1.jpg"></a>
                                 <p><a href="http://sd.sina.com.cn/edu/xykd/2016-02-29/105114132.html">哈佛大学模拟G20峰会落幕 山东省实验中学代表表现优秀</a></p>
                             </div>
                             <div class="col-md-3">
-                                <img class="img-responsive img img-thumbnail" src="image/post/2.jpg">
+                                <a href="http://www.modelg20cn.org/single-post/shandongexperimentalschoolnews"><img class="img-responsive img img-thumbnail" src="image/post/2.jpg"></a>
                                 <p><a href="http://www.modelg20cn.org/single-post/shandongexperimentalschoolnews">
                                         山东省实验中学优秀学生赴美参加2017年第二届哈佛国际青少年模拟G20峰会</a></p>
                             </div>
                             <div class="col-md-3">
-                                <img class="img-responsive img img-thumbnail" src="image/post/5g20.jpg">
+                                <a href="http://www.bilingochina.cn/index.php?c=content&a=show&id=291"><img class="img-responsive img img-thumbnail" src="image/post/5g20.jpg"></a>
                                 <p><a href="http://www.bilingochina.cn/index.php?c=content&a=show&id=291">UFEIC学子赴哈佛参加国际青少年模拟G20峰会载誉归来</a></p>
                             </div>
                             <div class="col-md-3">
-                                <img class="img-responsive img img-thumbnail" src="image/post/4.jpg">
-                                <p><a href="http://www.modelg20cn.org/single-post/2017/01/05/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E8%A7%84%E5%88%92%E6%B4%BB%E5%8A%A8">
-                                        如何高效规划活动</a></p>
+                                <a href="http://www.modelg20cn.org/single-post/2017/01/05/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E8%A7%84%E5%88%92%E6%B4%BB%E5%8A%A8"><img class="img-responsive img img-thumbnail" src="image/post/4.jpg"></a>
+                                <p><a>哈佛学者讲座：如何高效规划活动</a></p>
                             </div>
                         </div>
                     </div>
@@ -466,7 +475,7 @@ include "header.php";
         <div class="row">
             <h2>开启Knovva的旅程</h2>
             <p><i>探索发现最好的你</i></p>
-            <a href="applicationform.php">立即报名</a>
+            <a href="applicationform.php">立即申请</a>
         </div>
     </div>
 </div>

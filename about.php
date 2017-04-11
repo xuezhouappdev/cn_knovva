@@ -20,14 +20,7 @@
     <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
 
 <style>
-    @font-face{
-        font-family: myFancyFont;
-        src: url("/font/chinese/fancy.ttf"), url("/font/chinese/fancy.ttf");
-    }
 
-    body{
-        font-family: myFancyFont,"sans-serif"; !important;
-    }
 
 
 </style>
@@ -48,7 +41,7 @@ include "header.php";
 <div class="banner">
     <div class="container">
         <div class="row">
-            <h1>关于我们</h1>
+            <h1>机构简介</h1>
         </div>
     </div>
 </div>
@@ -60,7 +53,7 @@ include "header.php";
 <!--introtext-->
 <div class="header-about section">
     <div class="container">
-        <h1>Knovva Academy助你拥抱世界、走向未来。</h1>
+        <h1>Knovva Academy —— 未来领袖的摇篮</h1>
     </div>
 </div>
 
@@ -71,7 +64,7 @@ include "header.php";
         <div class="row">
             <div class="col-md-6 ">
                <h3>关于我们</h3>
-                <p>Knovva Academy 是美国剑桥市的创新教育机构，创始团队由世界顶尖高校的毕业生组成。Knovva Academy旨在为青少年提供丰富互动的学术课程及浸入式项目制学习体验，支持青少年寻找自我、设立宏愿、追逐梦想。
+                <p>Knovva Academy 是美国麻州剑桥市的创新教育机构，创始团队由世界顶尖高校的毕业生组成。Knovva Academy旨在为青少年提供丰富互动的学术课程及浸入式项目制学习体验，支持青少年寻找自我、设立宏愿、追逐梦想。
                 </p>
             </div>
             <div class="col-md-6 ">
@@ -92,10 +85,10 @@ include "header.php";
             </div>
             <div class="col-md-6 ">
                 <h3>学术项目</h3>
-                <p>Knovva Academy致力于通过跨文化跨学科的互动线上线下课程为全世界的青少年成长助力。我们的学术项目主题涵盖政治科学、机械工程、计算机科学、英美文学等，为学生提供丰富选择，培养主动学习、善于反思、具有国际视野和社会责任心的世界公民和未来青年领袖。
+                <p>Knovva Academy致力于通过跨文化跨学科的互动线上线下课程为全世界青少年成长助力。我们的学术项目主题涵盖政治科学、机械工程、计算机科学、英美文学等，为学生提供丰富选择，培养主动学习、善于反思、具有国际视野和社会责任心的未来青年领袖。
 
                 </p>
-                <a href="programs.php">学术项目</a>
+                <a href="programs.php">了解详情</a>
             </div>
         </div>
     </div>
@@ -106,7 +99,7 @@ include "header.php";
     <div class="container">
         <div class="row">
             <div class="col-md-6 ">
-                <h3>What We Value</h3>
+                <h3>项目特色</h3>
                 <p>在课程期间，我们通过线上线下直播和宣讲会、电话、新媒体等建立社群，保持与家长和学生的互动。我们团队拥有多样的语言背景，包括普通话，粤语，英语和西班牙语等，确保与家长和学生的沟通清晰且顺畅。在往期的课程中，家长给Knovva Academy予高度评价，因为他们也深深地参与到学生的学习过程中，见证了学生的成长。
 
                 </p>
@@ -298,39 +291,46 @@ include "header.php";
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
-
             <div class="item active">
                 <div class="container">
                     <div class="row">
 
-                        <h4>"两天半的时间，能让一个人从对世界局势产生多深的理解呢？这次MG20峰会，着实让我体验到了从量变到质变，不只依靠个人的努力，它更是一个小团队合作的结果，一个大团队交流的结晶。来自世界各地的一百多个高中生齐聚一堂，组成了一个小世界，但我们却能从这个小世界里窥见无数文化与历史的交织，而正是它们才组成了我们现在的世界，也就是这个属于我们所有人的地球村。" - 山东省实验中学 王子睿
+                        <h4>“ 两天半的时间，能让一个人从对世界局势产生多深的理解呢？这次MG20峰会，着实让我体验到了从量变到质变，不只依靠个人的努力，它更是一个小团队合作的结果，一个大团队交流的结晶。来自世界各地的一百多个高中生齐聚一堂，组成了一个小世界，但我们却能从这个小世界里窥见无数文化与历史的交织，而正是它们才组成了我们现在的世界，也就是这个属于我们所有人的地球村。”
+                        </h4>
+
+                        <p >—— 山东省实验中学 王子睿</p>
+                        <br>
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="item">
+                <div class="container">
+                    <div class="row">
+
+
+                        <br><br>
+                        <h4>“ 如果你愿意与来自不同区域、文化、性格的人交流，G20是一个不容错过的机会。这里有大咖云集的教授，他们生动幽默、侃侃而谈；这里有世界各地的青少年，他们和你都有同一个梦想：make the world a better place！”
                         </h4><br>
 
+                        <p > —— 重庆南开中学 林炜菡</p>
+                        <br>
+
+
                     </div>
                 </div>
-
             </div>
 
             <div class="item">
                 <div class="container">
                     <div class="row">
-
 
                         <br><br>
-                        <h4>"如果你愿意与来自不同区域、文化、性格的人交流，G20是一个不容错过的机会。这里有大咖云集的教授，他们生动幽默、侃侃而谈；这里有世界各地的青少年，他们和你都有同一个梦想：make the world a better place！" - 重庆南开中学 林炜菡
-                        </h4><br><br>
+                        <h4>“ The amount of things I’ve learned here is so much greater than what I could learn from reading a textbook from a classroom or listening to a lecture. This way of learning is definitely better than through, the traditional learning class system. " </h4>
 
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="item">
-                <div class="container">
-                    <div class="row">
-
-                        <br>
-                        <h4>"The amount of things I’ve learned here is so much greater than what I could learn from reading a textbook from a classroom or listening to a lecture. This way of learning is definitely better than through, the traditional learning class system" - Federico Rollo from Boston Latin School </h4><br>
+                        <p> - Federico Rollo from Boston Latin School </p>
                         <br>
                     </div>
                 </div>
@@ -341,15 +341,14 @@ include "header.php";
                     <div class="row">
 
                         <br><br>
-                        <h4>"I met all these amazing people and they really had a great impact on my life. There is nothing I would trade in the world for this memory. Thank you." - Adelene Jeneid from Norwood High School</h4>
-                        <br><br>
+                        <h4>“ I met all these amazing people and they really had a great impact on my life. There is nothing I would trade in the world for this memory. Thank you. " </h4>
+                        <p> - Adelene Jeneid from Norwood High School</p>
+                        <br>
+                        <br>
 
                     </div>
                 </div>
             </div>
-
-
-
 
 
         </div>

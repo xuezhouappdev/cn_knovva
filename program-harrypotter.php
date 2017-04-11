@@ -43,7 +43,7 @@ include "header.php";
 
             <div class="intro-text">
                 <h1>英文原版精读之哈利波特系列</h1>
-                <a href="applicationform.php">现在报名</a>
+                <a href="applicationform.php">现在申请</a>
             </div>
         </div>
 
@@ -66,18 +66,18 @@ include "header.php";
             <div class="col-md-7">
                 <h4>英文原版精读之哈利波特系列 </h4>
                 <hr>
-                <p>英文原版精读小组借鉴英美博雅教育的研讨会形式，为高中生创造一个互动互助的在线阅读社区。在为期12周的学习中，学生将会在有丰富经验的哈佛学者带领下精读哈利波特的精选章节和相关的文化历史文献，一起分析小说的文学创作手法，在提高英语阅读能力的同时培养批判性思维。本系列课程适用于英语阅读水平中高级的学生。</p>
+                <p>英文原版精读小组借鉴英美博雅教育的研讨会形式，为高中生创造一个互动互助的在线阅读社区。在为期12周的学习中，学生将会在有丰富经验的哈佛学者带领下精读哈利波特的精选章节和相关文化历史文献，一起分析小说的文学创作手法，在提高英语阅读能力的同时培养批判性思维。为高级英文写作奠定坚实基础。本系列课程适用于英语阅读水平中高级的学生。</p>
             </div>
             <div class="col-md-5" >
                 <div class="panel panel-primary" style="position: relative;top:48px">
-                    <div class="panel-heading">Facts</div>
+                    <div class="panel-heading">概况</div>
                     <div class="panel-body">
 
 
 
-                        <p><b><i class="fa fa-book" aria-hidden="true"> </i>&nbsp;&nbsp;主题: </b>文学，小说</p>
+                        <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;科目: </b>英美文学、阅读写作</p>
                         <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>线上课程&nbsp;|&nbsp;2017夏季</p>
-                        <p><b><i class="fa fa-graduation-cap" aria-hidden="true"> </i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
+                        <p><b><i class="fa fa-user" aria-hidden="true"></i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
 
 
 
@@ -134,14 +134,14 @@ include "header.php";
         <div class="row">
             <div class="col-sm-3">
                 <img src="image/icon/icon-experience.png" class="img img-responsive">
-                <h4><Span>拓展</Span>&nbsp;原版英文小说阅读能力
+                <h4><Span>拓展 </Span>原版英文阅读能力
 
 
                 </h4>
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-polish.png" class="img img-responsive">
-                <h4><Span>提高</Span>&nbsp;文学分析能力
+                <h4><Span>提高</Span>&nbsp;文学深入分析能力
 
 
 
@@ -159,7 +159,7 @@ include "header.php";
             </div>
             <div class="col-sm-3">
                 <img src="image/icon/icon-connect.png" class="img img-responsive">
-                <h4><Span>探讨</Span>&nbsp 哈利波特的世界影响力
+                <h4><Span>探讨</Span>&nbsp哈利波特世界影响力
 
 
 
@@ -180,7 +180,7 @@ include "header.php";
         <div class="row">
             <h2>开启Knovva的旅程</h2>
             <p><i>探索发现最好的你</i></p>
-            <a href="applicationform.php">立即报名</a>
+            <a href="applicationform.php">立即申请</a>
         </div>
     </div>
 </div>
