@@ -104,14 +104,20 @@ include "header.php";
 
                 </form>
             </div>
+
             <div class="col-sm-5">
-               <h5>  <i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp <a href="https://www.google.com/maps/place/222+Third+St,+Cambridge,+MA+02142/@42.367156,-71.0823859,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370bb6afb650b:0x7bf7a9af0f3613cd!8m2!3d42.3671521!4d-71.0801972" target="_blank">222 3rd Street, Suite 3150, Cambridge, MA 02142</a></h5>
-                <h5><i class="fa fa-phone" aria-hidden="true"></i>&nbsp <a href="callto:6175777770">&nbsp617-577-7770</a></h5>
-               <h5> <i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp<a href="mailto:info@knovva.com">&nbsp;info@knovva.com</a></h5>
+               <h5><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp <a href="https://www.google.com/maps/place/222+Third+St,+Cambridge,+MA+02142/@42.367156,-71.0823859,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370bb6afb650b:0x7bf7a9af0f3613cd!8m2!3d42.3671521!4d-71.0801972" target="_blank">222 3rd Street, Suite 3150, Cambridge, MA 02142</a></h5>
+                <h5><i class="fa fa-phone" aria-hidden="true"></i>&nbsp <a href="callto:6175777770">617-577-7770</a></h5>
+               <h5> <i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp<a href="mailto:info@knovva.com">info@knovva.com</a></h5>
 
-                <div id="map" style="top:25px;"></div>
 
-                <script src="js/contact-map.js"></script>
+
+                <img src="image/map.png" class="img img-responsive" style="margin-top:64px">
+
+
+
+
+<!--                <script src="js/contact-map.js"></script>-->
             </div>
 
 

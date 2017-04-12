@@ -17,12 +17,27 @@
 
     
 </head>
+
+<style>
+    .affix {
+        top: 0px;
+        width: 100%;
+        -webkit-transition: all .5s ease-in-out;
+        transition: all .5s ease-in-out;
+        background-color: blue;
+        border-color: #F44336;
+        z-index: 9999;
+
+    }
+</style>
+
+
 <body>
 <!--NOTE! THIS IS FOR RESUING ON THE PAGES NOT INCLUDING INDEX PAGE, INDEX PAGE HAS A FULL-WIDTH BACKGROUND, WHICH SHOULD BE DEALT WITH
 SEPERATELY-->
 
 <!--Header-->
-<div class="header">
+<div class="header" data-spy="affix" data-offset-top="19">
     <div class="container">
 
         <div class="navbar-fixed-top">

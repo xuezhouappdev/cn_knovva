@@ -67,7 +67,7 @@ include "header.php";
 
 <div class="form-wrapper" style="margin-top: 56px">
     <div class="container">
-        <script type="text/javascript" src="https://form.jotform.us/jsform/70966206252153"></script>
+        <iframe height="2750px" width="100%" src="https://wj.qq.com/s/1263554/a95c" frameborder="0" allowfullscreen scrolling="no"></iframe>
 
 
     </div>

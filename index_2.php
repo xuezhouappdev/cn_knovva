@@ -42,7 +42,7 @@
 
 
 </head>
-<body >
+<body data-spy="scroll" data-target=".header" data-offset="250">
 
 
 <?php
@@ -85,7 +85,7 @@ include "header.php";
 
 ' >
                 <h1 style="font-size:56px;text-shadow: 5px 5px 10px rgba(0,0,0,0.68);text-transform: uppercase;line-height: 72px">胸有丘壑万千<br>眼有星海万年</h1>
-                <a href="programs.php">学术项目</a>
+                <a href="#programs">学术项目</a>
             </div>
 
         </div>
@@ -178,7 +178,7 @@ include "header.php";
 
 
 <!--  program new -->
-<div class="programnew jumbotron">
+<div class="programnew jumbotron" id="programs">
     <div class="container">
 
         <div class="row">

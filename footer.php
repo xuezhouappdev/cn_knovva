@@ -71,7 +71,7 @@
 
                     <a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
                     <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                    <a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+                    <a href="https://space.bilibili.com/100964349/#!/"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
                     <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 
 

@@ -30,12 +30,14 @@
 </head>
 
 
+
+
+<body  >
+
 <?php
 // include header
 include "header.php";
 ?>
-
-<body>
 
 <!-- Banner-->
 <div class="banner">
