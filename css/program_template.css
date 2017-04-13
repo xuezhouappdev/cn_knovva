@@ -53,7 +53,7 @@ div.intro {
 .intro-text a {
     font-size: 16px;
     color: white;
-    background-color: #F2184F;
+    background-color: #6e539e;
     padding: 8px 24px;
     top: 32px;
     position: relative;
@@ -64,7 +64,7 @@ div.intro {
 .intro-text a:hover {
     font-size: 16px;
     color: white;
-    background-color: #6c4a98;
+    background-color: #000000;
     padding: 8px 24px;
     text-decoration: none;
     position: relative;
@@ -76,7 +76,7 @@ div.intro {
 .about .col-md-5 a {
 
     padding: 8px 24px;
-    color: #f2184f;
+    color: #6e539e;
     font-size: 14px;
     text-align: center;
 
@@ -106,7 +106,7 @@ div.intro {
 }
 
 .about ul li a{
-    color:  #F2184F;
+    color:  #6e539e;
     font-weight: 500;
 }
 
@@ -165,7 +165,7 @@ div.intro {
 }
 
 .features.section span {
-    color: #F2184F;
+    color: #6e539e;
     font-weight: 600;
 }
 
@@ -216,7 +216,7 @@ div.teacher h2 {
     top: 0;
     left: 0;
     right: 0;
-    background-color: #F2184F;
+    background-color: #6e539e;
     overflow: hidden;
     width: 65%;
     height: 0;
@@ -275,7 +275,7 @@ div.teacher h2 {
 .calltoaction {
     text-align: center;
     padding: 64px;
-    background: #F2184F;
+    background: #6e539e;
     margin-bottom: 0;
     padding-bottom: 96px;
 }
@@ -292,7 +292,7 @@ div.teacher h2 {
 
 .calltoaction a {
     font-size: 16px;
-    color: #F2184F;
+    color: #6e539e;
     background-color: #f0f9f6;
     padding: 8px 24px;
     top: 32px;
@@ -324,14 +324,14 @@ div.teacher h2 {
 
 body > div.about.section > div > div > div.col-md-5 > div > div.panel-heading {
     color: #fff;
-    background-color: #f2184f;
-    border-color: #f2184f;
+    background-color: #6e539e;
+    border-color: #6e539e;
 }
 
 
 body > div.about.section > div > div > div.col-md-5 > div {
 
-    border: 1px solid #f2184f;
+    border: 1px solid #6e539e;
 }
 
 

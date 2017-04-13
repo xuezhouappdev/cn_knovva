@@ -63,10 +63,10 @@ include "header.php";
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/sie.jpg" alt="Avatar" style="width:100%" class="img img-responsive">
-                    <div class="sie-overlay" style="position: absolute;top:64px;left:0;padding:16px;background: #F2184F;transition: 0.5s linear;opacity:0;margin:0 15px">
+                    <div class="sie-overlay" style="position: absolute;top:64px;left:0;padding:16px;background: #6E539E;transition: 0.5s linear;opacity:0;margin:0 15px">
                           <p style="text-align: justify;color:white;margin-left:0">This course is also available for blended learning. It includes a combination of interactive online and blended year-long courses.</p>
                     </div>
-                    <h4 style="position: absolute;top:-5px;left:-9px"  id="hbr-btn"><span class="label label-primary" style="background: #f2184f;padding: 6px 16px;border-radius: 0;font-style:italic">混合一年制</span></h4></h4>
+                    <h4 style="position: absolute;top:-5px;left:-9px"  id="hbr-btn"><span class="label label-primary" style="background: #6E539E;padding: 6px 16px;border-radius: 0;font-style:italic">混合一年制</span></h4></h4>
 
                     <h4><b>社会创新创业项目</b></h4>
 

@@ -43,7 +43,7 @@
             <div class="col-lg-4 footer-links">
 
                 <ul>
-                   <li><a href="index_2.php">首页</a></li>
+                   <li><a href="index.php">首页</a></li>
                     <li><a href="about.php">机构简介</a></li>
                    <!-- <li><a href="#">Teacher</a></li>-->
                     <li><a href="programs.php">学术项目</a></li>

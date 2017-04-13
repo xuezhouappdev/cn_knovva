@@ -83,7 +83,7 @@ div.about {
 
 
 .about h2:after{
-    background: #ff3e68;
+    background: #6E539E;
     display: block;
     content: "";
     height: 2px;
@@ -103,7 +103,7 @@ div.about {
 }
 
 .skills h2:after {
-    background:#ff3e68;
+    background:#6E539E;
     display: block;
     content: "";
     height: 2px;
@@ -163,7 +163,7 @@ div.skills {
 }
 
 .timeline > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1):after{
-    background: #ff3e68;
+    background: #6E539E;
     display: block;
     content: "";
     height: 2px;
@@ -225,12 +225,12 @@ div.timeline {
 
 .cbp_tmtimeline > li .cbp_tmtime span:last-child {
     font-size: 12px;
-    color: #ff3e68;
+    color: #6E539E;
     font-weight: 500;
 }
 
 .cbp_tmtimeline > li:nth-child(odd) .cbp_tmtime span:last-child {
-    color: #ff3e68;
+    color: #6E539E;
     font-weight: 500;
 }
 
@@ -306,7 +306,7 @@ div.timeline {
     -webkit-font-smoothing: antialiased;
     position: absolute;
     color: #fff;
-    background:  #ff3e68;
+    background:  #6E539E;
     border-radius: 50%;
     box-shadow: 0 0 0 8px #3a3a3a;
     text-align: center;
@@ -371,7 +371,7 @@ div.timeline {
         right: auto;
         left: 20px;
         border-right-color: transparent;
-        border-bottom-color: #ff3e68;
+        border-bottom-color: #6E539E;
         top: -20px;
     }
 
@@ -398,7 +398,7 @@ div.timeline {
 }
 
 .theme  h2:after {
-    background:#ff3e68;
+    background:#6E539E;
     display: block;
     content: "";
     height: 2px;
@@ -412,10 +412,10 @@ div.timeline {
 .theme h4 {
 
     display: inline-block;
-    border-left: 2px solid #ff3e68 ;
+    border-left: 2px solid #6E539E ;
 
     padding: 2px 6px;
-    color: #ff3e68;
+    color: #6E539E;
 }
 
 div.theme {
@@ -450,12 +450,12 @@ div.theme {
 
 div.video {
     margin-top: 40px;
-    background: #ff3e68;
+    background: #6E539E;
     padding-top: 20px;
 }
 
 .video  h2:after {
-    background:#ff3e68;
+    background:#6E539E;
     display: block;
     content: "";
     height: 2px;
@@ -495,7 +495,7 @@ div.program-contact {
     text-align: center;
     margin-top: 70px;
     padding-bottom: 50px;
-    background:  #ff3e68;
+    background:  #6E539E;
 
 
 }
@@ -511,7 +511,7 @@ div.program-contact {
 
 
 .program-contact h2:after {
-    background: #ff3e68;
+    background: #6E539E;
     display: block;
     content: "";
     height: 2px;
@@ -533,19 +533,19 @@ div.program-contact {
 }
 
 .program-contact input:focus{
-    border: 2px solid #ff3e68;
+    border: 2px solid #6E539E;
     opacity: 1;
 
 
 }
 
 .program-contact textarea:focus{
-    border: 2px solid #ff3e68;
+    border: 2px solid #6E539E;
     opacity: 1;
 }
 
 .program-contact select:focus{
-    border: 2px solid #ff3e68;
+    border: 2px solid #6E539E;
     opacity: 1;
 }
 
@@ -572,7 +572,7 @@ div.activitypanel {
 }
 
 .activitypanel h2:after {
-    background:#ff3e68;
+    background:#6E539E;
     display: block;
     content: "";
     height: 2px;
@@ -618,11 +618,11 @@ div.panel.panel-primary {
 }
 
 .panel-body > div:nth-child(5) > div:nth-child(1) >h5:nth-child(1) {
-    color:#ff3e68 ;
+    color:#6E539E ;
 }
 
 .panel-body > div:nth-child(5) > div:nth-child(2) > h5:nth-child(1) {
-    color:#ff3e68 ;
+    color:#6E539E ;
 }
 
 
@@ -636,7 +636,7 @@ div.panel.panel-primary {
 }
 
 .benefit  h2:after {
-    background:#ff3e68;
+    background:#6E539E;
     display: block;
     content: "";
     height: 2px;
@@ -665,7 +665,7 @@ div.benefit {
 }
 
 .benefit i {
-    color:#ff3e68 ;
+    color:#6E539E ;
     font-weight: 400;
 }
 
@@ -684,7 +684,7 @@ div.program-map {
 }
 
 .program-map  h2:after {
-    background:#ff3e68;
+    background:#6E539E;
     display: block;
     content: "";
     height: 2px;

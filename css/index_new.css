@@ -46,12 +46,12 @@ div.programnew.jumbotron {
   cursor: pointer;
   padding: 8px 32px;
   transition: 0.4s linear;
-  background: #ff1657;
+  background: #6E539E;
   color: #fff;
   box-shadow: 4px 4px 8px rgba(128, 128, 128, 0.25); }
   .about .col-md-6 a:hover {
     text-decoration: none;
-    background: #6c4a98; }
+    background: #D874BD; }
 
 .programnew .container .row {
   text-align: center; }
@@ -59,9 +59,9 @@ div.programnew.jumbotron {
     margin-bottom: 40px;
     text-align: center; }
     .programnew .container .row h2 span {
-      color: #ff1657; }
+      color: #6E539E; }
     .programnew .container .row h2::after {
-      background: #ff1657;
+      background: #6E539E;
       display: block;
       content: "";
       height: 2px;
@@ -84,7 +84,7 @@ div.programnew.jumbotron {
       filter: blur(5px); }
     .programnew .container .row .col-md-5 .card a {
       padding: 8px 32px;
-      background-color: #ff1657;
+      background-color: #6E539E;
       color: #fff;
       text-align: center;
       display: inline-block;
@@ -93,12 +93,12 @@ div.programnew.jumbotron {
       cursor: pointer;
       padding: 8px 32px;
       transition: 0.4s linear;
-      background: #ff1657;
+      background: #6E539E;
       color: #fff;
       box-shadow: 4px 4px 8px rgba(128, 128, 128, 0.25); }
       .programnew .container .row .col-md-5 .card a:hover {
         text-decoration: none;
-        background: #6c4a98; }
+        background: #D874BD; }
     .programnew .container .row .col-md-5 .card p {
       color: #fff;
       text-shadow: 4px 4px 16px #000000;
@@ -114,7 +114,7 @@ div.programnew.jumbotron {
   .benefit .container .row:nth-child(1) {
     text-align: center; }
   .benefit .container .row h2::after {
-    background: #ff1657;
+    background: #6E539E;
     display: block;
     content: "";
     height: 2px;
@@ -132,19 +132,19 @@ div.programnew.jumbotron {
       font-size: 16px;
       line-height: 24px; }
     .benefit .container .row:nth-child(2) .card h4 {
-      color: #ff1657;
+      color: #6E539E;
       text-align: center; }
 .benefit h2 {
   margin-bottom: 32px;
   text-align: center; }
   .benefit h2 span {
-    color: #ff1657; }
+    color: #6E539E; }
 
 .testimonial h2 {
   text-align: center;
   margin-bottom: 64px; }
 .testimonial #myCarousel2 {
-  background: #ff1657;
+  background: #6E539E;
   color: white; }
   .testimonial #myCarousel2 .carousel-inner .container {
     padding: 48px 88px;
@@ -167,7 +167,7 @@ div.programnew.jumbotron {
     margin: 72px auto 32px;
     text-align: center; }
     .post h2::after {
-      background: #ff1657;
+      background: #6E539E;
       display: block;
       content: "";
       height: 2px;
@@ -176,16 +176,16 @@ div.programnew.jumbotron {
       margin: 16px auto 32px;
       text-align: center; }
     .post h2 span {
-      color: #ff1657; }
+      color: #6E539E; }
   .post p a {
     color: #0f0f0f; }
     .post p a:hover {
-      color: #ff1657;
+      color: #6E539E;
       text-decoration: none; }
 
 .calltoaction {
   text-align: center;
-  background: #ff1657;
+  background: #6E539E;
   margin-bottom: 0;
   margin-top: 72px;
   padding: 64px 0 96px; }
@@ -196,7 +196,7 @@ div.programnew.jumbotron {
     color: #fff; }
   .calltoaction a {
     font-size: 16px;
-    color: #ff1657;
+    color: #6E539E;
     background-color: #fff;
     padding: 8px 24px;
     top: 32px;
@@ -205,7 +205,7 @@ div.programnew.jumbotron {
     text-decoration: none;
     transition: 0.4s linear; }
     .calltoaction a:hover {
-      background: #6c4a98;
+      background: #D874BD;
       color: white;
       cursor: pointer;
       text-decoration: none; }
@@ -215,14 +215,13 @@ div.programnew.jumbotron {
 
 #myCarousel > div > div > div > a {
   padding: 8px 32px;
-  background-color: #ff1657;
+  background-color: #6E539E;
   color: #fff;
   display: inline-block;
   margin-top: 32px;
-  transition: 0.4s linear;
-  box-shadow: 5px 5px 8px #121212; }
+  transition: 0.4s linear; }
   #myCarousel > div > div > div > a:hover {
-    background-color: #6c4a98;
+    background-color: #D874BD;
     color: #fff;
     text-decoration: none; }
 

@@ -30,13 +30,13 @@ a:hover {
 
 .header ul li a:hover {
     text-decoration: none;
-    color:#F2184F;
+    color:#6E539E;
     font-weight: bold;
 
 }
 
 .header ul li a {
-    color: white;
+    color: #3E4A5D;
     font-weight: bold;
 }
 
@@ -54,7 +54,7 @@ a:hover {
 }
 
 .header ul li:hover {
-    color:#F2184F;
+    color:#6E539E;
     text-decoration: none;
 }
 
@@ -72,11 +72,11 @@ a:hover {
 
 
 div.navbar-fixed-top {
-    background-color: #2c2c2c;
+    background-color:  #eeeeee;
     opacity: 1;
     padding: 0 20px;
     height: 60px;
-    border-bottom: 2px solid #f2184f;
+    border-bottom: 2px solid #6E539E;
 }
 
 
@@ -87,7 +87,7 @@ div.navbar-fixed-top {
     opacity: 0;
 
     position: absolute;
-    background-color: #ff3e68;
+    background-color:  #eeeeee;
     min-width: 260px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     top:56px;
@@ -110,7 +110,7 @@ div.navbar-fixed-top {
 
 
 .dropdown-content a {
-    color: black;
+    color: #f0f9f6;
     padding: 4px 16px;
     text-decoration: none;
     display: block;
@@ -168,37 +168,6 @@ div.input-group.middle{
 /*Media */
 
 
-
-@media only screen and (max-width: 767px){
-
-
-}
-
-
-
-
-
-
-@media only screen and (min-width: 768px) and (max-width: 991px){
-
-
-
-
-
-}
-
-   @media only screen and (min-width: 992px) and (max-width: 1199px){
-
-
-
-
-}
-
-   @media only screen and (min-width: 1200px) {
-
-
-
-}
 
 
 

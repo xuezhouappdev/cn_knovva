@@ -55,7 +55,7 @@ $(document).ready(function(){
 
     //jump to index page;
     $("#cross-btn").click(function(){
-        window.location.href = "../index_2.php";
+        window.location.href = "../index.php";
     })
 
 });

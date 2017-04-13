@@ -19,16 +19,7 @@
 </head>
 
 <style>
-    .affix {
-        top: 0px;
-        width: 100%;
-        -webkit-transition: all .5s ease-in-out;
-        transition: all .5s ease-in-out;
-        background-color: blue;
-        border-color: #F44336;
-        z-index: 9999;
 
-    }
 </style>
 
 
@@ -37,7 +28,7 @@
 SEPERATELY-->
 
 <!--Header-->
-<div class="header" data-spy="affix" data-offset-top="19">
+<div class="header" >
     <div class="container">
 
         <div class="navbar-fixed-top">
@@ -45,14 +36,14 @@ SEPERATELY-->
 
 
 
-              <a href="index_2.php"><img id="logo" src="image/logo-trim.png" class="img-responsive img" ></a>
+              <a href="index.php"><img id="logo" src="image/logo-trim.png" class="img-responsive img" ></a>
 
 
 
 
 
                 <ul id="menuitem" >
-                    <li><a href="index_2.php"> 首页 </a></li>
+                    <li><a href="index.php"> 首页 </a></li>
                     <li><a href="about.php"> 机构简介 </a></li>
 
                     <li class="dropdown"> <!--programdropdown -->
@@ -79,7 +70,7 @@ SEPERATELY-->
 <!--                    <li><a href="blog/" target="_blank"> Blog </a></li>-->
 
                     <li><a href="contact.php"> 联系方式 </a></li>
-                    <li><a href="applicationform.php" style="border: solid 2px #f0f9f6;padding: 3px 12px 5px">立即申请</a></li>
+                    <li><a href="applicationform.php" style="border: solid 2px #3E4A5D;padding: 5px 12px 5px">立即申请</a></li>
                  <!--   <li><a href="faq.php"> FAQ </a></li>-->
                    <!-- <li> <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a></li>-->
 
@@ -161,7 +152,7 @@ SEPERATELY-->
 
             if(url === (this.href)) {
 
-                $(this).css({"color":"#F2184F ","font-weight":"bold","font-size":"16px"});
+                $(this).css({"color":"#6E539E ","font-weight":"bold","font-size":"16px"});
             }
         });
     });

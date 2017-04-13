@@ -57,7 +57,7 @@ include "header.php";
 <div class="about section">
     <div class="container">
         <ul class="breadcrumb">
-            <li><a href="index_2.php">主页</a></li>
+            <li><a href="index.php">主页</a></li>
             <li><a href="programs.php">项目浏览</a></li>
             <li><a href="#">美国社交媒体和在线沟通要领</a></li>
         </ul>

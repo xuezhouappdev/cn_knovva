@@ -1,9 +1,10 @@
 //colors
 $white: #fff;
-$primary: #ff1657;
+$primary: #6E539E;
 $black: #121212;
+$lightblack: #D874BD;
 $purple: #6c4a98;
-$lightprimary: lighten($primary,10);
+$lightprimary: #D874BD;
 
 $color_shady_lady_approx: #a9a9a9;
 $gray: #000000;
@@ -26,7 +27,7 @@ $gray_25: rgba(128, 128, 128, 0.25);
 
   &:hover {
     text-decoration: none;
-    background:$purple;
+    background:$lightblack;
 
 
   }
@@ -382,7 +383,7 @@ div {
     transition: 0.4s linear;
 
     &:hover {
-      background: $purple;
+      background: $lightblack;
       color: white;
       cursor: pointer;
       text-decoration: none;
@@ -403,9 +404,9 @@ div {
   //Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
   transition: 0.4s linear;
   //Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
-  box-shadow: 5px 5px 8px $black;
+  //box-shadow: 5px 5px 8px $black;
   &:hover {
-    background-color: $purple;
+    background-color: $lightblack;
     color: $white;
     text-decoration: none;
   }

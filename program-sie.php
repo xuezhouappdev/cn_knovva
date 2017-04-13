@@ -57,7 +57,7 @@ include "header.php";
 <div class="about section">
     <div class="container">
         <ul class="breadcrumb">
-            <li><a href="index_2.php">首页</a></li>
+            <li><a href="index.php">首页</a></li>
             <li><a href="programs.php">项目浏览</a></li>
             <li><a href="#">社会创新创业项目
                 </a></li>
