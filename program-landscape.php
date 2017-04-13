@@ -78,7 +78,7 @@ include "header.php";
                         <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>线上课程&nbsp;|&nbsp;2017夏季</p>
                         <p><b><i class="fa fa-user" aria-hidden="true"> </i>&nbsp;&nbsp;年龄: </b>高中一年级 - 高中三年级</p>
 
-              <a data-toggle="modal" data-target="#myModal" >>>浏览课程安排</a>
+<!--              <a data-toggle="modal" data-target="#myModal" >>>浏览课程安排</a>-->
 
                     </div>
                 </div>

@@ -5,7 +5,7 @@
       <paths name="bluehost">
         <serverdata>
           <mappings>
-            <mapping deploy="cn/knovva" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="cn/" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
