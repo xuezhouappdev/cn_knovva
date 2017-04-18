@@ -206,18 +206,23 @@ include "header.php";
 
                 </div>
             </div>
+
             <div class="col-sm-4">
+
                 <div class="card" >
-                    <img src="image/teachers/pat.jpg" class="img-responsive " alt="Avatar"  >
+                    <img src="image/teachers/neil.jpg" class="img-responsive " alt="Avatar"  >
                     <div class="overlay">
-                        <div class="text"><h5>Lozada老师毕业于哈佛大学肯尼迪政府学院公共管理系，是Pontifical大学企业法硕士。她是公共服务管理领域的律师。
-                            </h5></div>
+                        <div class="text"><h5>Neilson来自于波士顿，他以优异成绩毕业于萨福克大学商学院。他是英语为第二外语认证教师。</h5>
+                        </div>
                     </div>
-                    <h4><b>Patricia Lozada</b></h4>
+                    <h4><b>Neilson Lam</b></h4>
 
 
                 </div>
+
             </div>
+
+
 
             <div class="col-sm-4">
                 <div class="card" >
@@ -238,40 +243,40 @@ include "header.php";
             </div>
         </div>
 
-        <div class="row">
-            <div class="col-sm-4">
-
-                <div class="card" >
-                    <img src="image/teachers/neil.jpg" class="img-responsive " alt="Avatar"  >
-                    <div class="overlay">
-                        <div class="text"><h5>Neilson来自于波士顿，他以优异成绩毕业于萨福克大学商学院。他是英语为第二外语认证教师。</h5>
-                        </div>
-                    </div>
-                    <h4><b>Neilson Lam</b></h4>
-
-
-                </div>
-
-            </div>
-            <div class="col-sm-4">
-                <div class="card"  >
-                    <img src="image/teachers/chunxiao.jpg" class="img-responsive "alt="Avatar" >
-                    <div class="overlay">
-                        <div class="text"><h5>Chunxiao现就读于哈佛大学教育学院语言和读写能力专业，本科毕业于北京外国语大学英语专业。她曾任教于北京新东方学校，并在非洲喀麦隆、盲人学校、希望社区等支教。
-                            </h5></div>
-                    </div>
-                    <h4><b>Chunxiao Han</b></h4>
-
-
-                </div>
-
-            </div>
-
-
-
-
-
-        </div>
+<!--        <div class="row">-->
+<!--            <div class="col-sm-4">-->
+<!--                <div class="card" >-->
+<!--                    <img src="image/teachers/pat.jpg" class="img-responsive " alt="Avatar"  >-->
+<!--                    <div class="overlay">-->
+<!--                        <div class="text"><h5>Lozada老师毕业于哈佛大学肯尼迪政府学院公共管理系，是Pontifical大学企业法硕士。她是公共服务管理领域的律师。-->
+<!--                            </h5></div>-->
+<!--                    </div>-->
+<!--                    <h4><b>Patricia Lozada</b></h4>-->
+<!---->
+<!---->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!---->
+<!--            <div class="col-sm-4">-->
+<!--                <div class="card"  >-->
+<!--                    <img src="image/teachers/chunxiao.jpg" class="img-responsive "alt="Avatar" >-->
+<!--                    <div class="overlay">-->
+<!--                        <div class="text"><h5>Chunxiao现就读于哈佛大学教育学院语言和读写能力专业，本科毕业于北京外国语大学英语专业。她曾任教于北京新东方学校，并在非洲喀麦隆、盲人学校、希望社区等支教。-->
+<!--                            </h5></div>-->
+<!--                    </div>-->
+<!--                    <h4><b>Chunxiao Han</b></h4>-->
+<!---->
+<!---->
+<!--                </div>-->
+<!---->
+<!--            </div>-->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!--        </div>-->
     </div>
 </div>
 
