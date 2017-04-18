@@ -18,7 +18,7 @@ if(isset($_POST['contact_fn'])) {
     $contact_phone = test_input($_POST['contact_phone']);
     $contact_textarea = test_input($_POST['contact_textarea']);
     if ($contact_fn=="" || $contact_ln=="" ||$contact_email=="" ||$contact_textarea== "") {
-        echo "Please make sure all the information is complete";
+        echo "请确保信息完整。";
     }
     else {
         $from = "admin@cn.knovva.com";
@@ -68,5 +68,5 @@ if($send) {
     echo '<br>';
     echo '谢谢，我们将尽快与您联系！';
 } else {
-    echo '!';
+    echo '发送失败，请重试。';
 }
