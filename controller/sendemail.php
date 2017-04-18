@@ -21,13 +21,13 @@ if(isset($_POST['contact_fn'])) {
         echo "Please make sure all the information is complete";
     }
     else {
-        $from = $contact_email;
+        $from = "admin@cn.knovva.com";
         $to = "xue.zhou@giantbugedu.com";
         $subject = "New Question from Prospective Client";
         //header
         $headers = 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-        $headers .= 'From:  ' . $contact_fn . ' <' . $contact_email . '>' . " \r\n" .
-            'Reply-To: ' . $contact_email . "\r\n" .
+        $headers .= 'From:  ' .'Knovva Admin' . ' <' .'admin@cn.knovva.com' . '>' . " \r\n" .
+            'Reply-To: ' . 'admin@cn.knovva.com' . "\r\n" .
             'X-Mailer: PHP/' . phpversion();
         $message = '<html><body>';
         $message .= '<center>';
@@ -63,9 +63,10 @@ if(isset($_POST['contact_fn'])) {
 
 //send
 $send = mail($to,$subject,$message,$headers,$params);
+
 if($send) {
     echo '<br>';
-    echo 'Thank you and we will be with you soon';
+    echo '谢谢，我们将尽快与您联系！';
 } else {
     echo '!';
 }
