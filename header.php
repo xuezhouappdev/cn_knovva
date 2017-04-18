@@ -43,20 +43,20 @@ SEPERATELY-->
 
 
                 <ul id="menuitem" >
-                    <li><a href="index.php"> 首页 </a></li>
-                    <li><a href="about.php"> 机构简介 </a></li>
+                    <li><a href="index"> 首页 </a></li>
+                    <li><a href="about"> 机构简介 </a></li>
 
                     <li class="dropdown"> <!--programdropdown -->
-                        <a class="dropbtn" href="programs.php">学术项目</a>
+                        <a class="dropbtn" href="programs">学术项目</a>
 
                         <div class="dropdown-content"><!--programdropdown content -->
-                            <a href="program-sie.php">社会创新创业项目</a>
-                            <a href="program-gai.php">青少年领袖外交家项目</a>
-                            <a href="program-aer.php">青少年机器人工程师项目</a>
-                            <a href="program-landscape.php">美国高等院校专业及就业选择</a>
-                            <a href="program-socialmedia.php">美国社交媒体和在线沟通要领</a>
-                            <a href="program-harrypotter.php">哈利波特英文原版阅读小组</a>
-                            <a href="program-irg.php">新世纪创新英文原版阅读小组</a>
+                            <a href="program-sie">社会创新创业项目</a>
+                            <a href="program-gai">青少年领袖外交家项目</a>
+                            <a href="program-aer">青少年机器人工程师项目</a>
+                            <a href="program-landscape">美国高等院校专业及就业选择</a>
+                            <a href="program-socialmedia">美国社交媒体和在线沟通要领</a>
+                            <a href="program-harrypotter">英文原版精读之哈利波特系列</a>
+                            <a href="program-irg">英文原版精读之科技前沿</a>
 
 
 
@@ -68,9 +68,9 @@ SEPERATELY-->
                    <!-- <li><a href="gallery.php" class="disabled"> Gallery </a></li>-->
                   <!--  <li><a href="career.php"> Career </a></li>-->
 <!--                    <li><a href="blog/" target="_blank"> Blog </a></li>-->
-
-                    <li><a href="contact.php"> 联系方式 </a></li>
-                    <li><a href="applicationform.php" style="border: solid 2px #3E4A5D;padding: 5px 12px 5px">立即申请</a></li>
+                    <li><a href="blog"> 最近新闻 </a></li>
+                    <li><a href="contact"> 联系方式 </a></li>
+                    <li><a href="applicationform" style="background: #7c5eb2;padding: 8px 16px;border-radius: 5%;color: white"><i class="fa fa-hand-o-up" aria-hidden="true"></i>&nbsp;立即申请</a></li>
                  <!--   <li><a href="faq.php"> FAQ </a></li>-->
                    <!-- <li> <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a></li>-->
 
@@ -146,13 +146,13 @@ SEPERATELY-->
         //alert(url)
 
         // passes on every "a" tag
-        $(".header ul >li >a").each(function() {
+        $(".header ul >li:not(:last-child) >a").each(function() {
             // checks if its the same on the address bar
 
 
             if(url === (this.href)) {
 
-                $(this).css({"color":"#6E539E ","font-weight":"bold","font-size":"16px"});
+                $(this).css({"color":"#6e539e","font-weight":"500"});
             }
         });
     });

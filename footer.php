@@ -10,6 +10,10 @@
     <link rel="stylesheet" href="css/footer.css">
 
 
+
+
+
+
 </head>
 <body>
 
@@ -43,13 +47,13 @@
             <div class="col-lg-4 footer-links">
 
                 <ul>
-                   <li><a href="index.php">首页</a></li>
-                    <li><a href="about.php">机构简介</a></li>
+                   <li><a href="index">首页</a></li>
+                    <li><a href="about">机构简介</a></li>
                    <!-- <li><a href="#">Teacher</a></li>-->
-                    <li><a href="programs.php">学术项目</a></li>
+                    <li><a href="programs">学术项目</a></li>
 
                    <!-- <li><a href="#">Blog</a></li>-->
-                    <li><a href="contact.php">联系方式</a></li>
+                    <li><a href="contact">联系方式</a></li>
 <!--                    <li><a href="faq.php">FAQ</a></li>-->
                 </ul>
 
@@ -67,7 +71,8 @@
 
                     <a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
                     <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                    <a href="https://space.bilibili.com/100964349/#!/"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+
+                    <a href="http://space.bilibili.com/100964349/#!/"><i class="demo-icon icon-bilibili">&#xe800;</i></a>
                     <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 
 

@@ -257,7 +257,7 @@ include "header.php";
                 <div class="card"  >
                     <img src="image/teachers/chunxiao.jpg" class="img-responsive "alt="Avatar" >
                     <div class="overlay">
-                        <div class="text"><h5>Chunxiao就读于哈佛大学教育学院语言文学专业。她曾任教于北京新东方、北京外国语学校。
+                        <div class="text"><h5>Chunxiao现就读于哈佛大学教育学院语言和读写能力专业，本科毕业于北京外国语大学英语专业。她曾任教于北京新东方学校，并在非洲喀麦隆、盲人学校、希望社区等支教。
                             </h5></div>
                     </div>
                     <h4><b>Chunxiao Han</b></h4>

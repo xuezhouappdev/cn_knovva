@@ -64,7 +64,7 @@ div.intro {
 .intro-text a:hover {
     font-size: 16px;
     color: white;
-    background-color: #000000;
+    background-color: #D874BD;
     padding: 8px 24px;
     text-decoration: none;
     position: relative;
@@ -305,7 +305,7 @@ div.teacher h2 {
 .calltoaction a:hover {
     font-size: 16px;
     color: white;
-    background-color: #6c4a98;
+    background-color:#D874BD;
     padding: 8px 24px;
     text-decoration: none;
     position: relative;

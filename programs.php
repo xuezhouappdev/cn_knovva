@@ -195,7 +195,7 @@ include "header.php";
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/hary.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>英文原版精度之哈利波特系列</b></h4>
+                    <h4><b>英文原版精读之哈利波特系列</b></h4>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>英美文学、阅读写作</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
                     <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
@@ -211,7 +211,7 @@ include "header.php";
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/creativity.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>英文原版精度之科技前沿</b></h4>
+                    <h4><b>英文原版精读之科技前沿</b></h4>
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>科技、创新</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>

@@ -85,7 +85,7 @@ include "header.php";
 
 ' >
                 <h1 style="font-size:56px;text-transform: uppercase;line-height: 72px">胸有丘壑万千<br>眼有星海万年</h1>
-                <a href="#programs">学术项目</a>
+                <a href="programs">学术项目</a>
             </div>
 
         </div>
