@@ -208,23 +208,6 @@ include "header.php";
             </div>
 
             <div class="col-sm-4">
-
-                <div class="card" >
-                    <img src="image/teachers/neil.jpg" class="img-responsive " alt="Avatar"  >
-                    <div class="overlay">
-                        <div class="text"><h5>Neilson来自于波士顿，他以优异成绩毕业于萨福克大学商学院。他是英语为第二外语认证教师。</h5>
-                        </div>
-                    </div>
-                    <h4><b>Neilson Lam</b></h4>
-
-
-                </div>
-
-            </div>
-
-
-
-            <div class="col-sm-4">
                 <div class="card" >
                     <img src="image/teachers/Abby.jpg" class="img-responsive " alt="Avatar"  >
 
@@ -236,6 +219,24 @@ include "header.php";
 
 
 
+
+
+                </div>
+
+
+
+            </div>
+
+
+
+            <div class="col-sm-4">
+                <div class="card" >
+                    <img src="image/teachers/neil.jpg" class="img-responsive " alt="Avatar"  >
+                    <div class="overlay">
+                        <div class="text"><h5>Neilson来自于波士顿，他以优异成绩毕业于萨福克大学商学院。他是英语为第二外语认证教师。</h5>
+                        </div>
+                    </div>
+                    <h4><b>Neilson Lam</b></h4>
 
 
                 </div>

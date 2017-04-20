@@ -80,7 +80,7 @@ include "header.php";
 
 
                         <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;科目: </b>商业、社会科学</p>
-                        <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>美国剑桥  |  2017夏季<br>&nbsp;&nbsp;&nbsp;&nbsp;中国南京  |  2017冬季<br>&nbsp;&nbsp;&nbsp;&nbsp;线上  |  2017秋季
+                        <p><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>美国剑桥  |  2017夏季<br>&nbsp;&nbsp;&nbsp;&nbsp;中国  |  2017冬季<br>&nbsp;&nbsp;&nbsp;&nbsp;线上  |  2017秋季
                                                       </p>
                         <p><b><i class="fa fa-user" aria-hidden="true"></i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
 
