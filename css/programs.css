@@ -15,11 +15,18 @@ a, a:hover{
 
 /*BANNER */
 div.banner {
-    background: url("../image/leaf.jpeg") center center no-repeat;
+    background: #D874BD; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#D874BD,  #6E539E ); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#D874BD,  #6E539E ); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#D874BD,  #6E539E ); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#D874BD,  #6E539E ); /* Standard syntax */
+
+
     min-height: 200px;
     width: 100%;
     opacity: 0.8;
     background-size: cover;
+    color: white;
 
 
 }
@@ -152,8 +159,6 @@ div.intro {
     color: white;
     margin-top: 16px;
     transition: 1s ease-in-out;
-
-
 }
 
 .card_p a:hover {
@@ -185,9 +190,6 @@ div.intro {
 .card_p h4{
     margin-left: 24px;
     margin-right: 24px;
-
-
-
 }
 
 
@@ -198,35 +200,6 @@ div.intro {
 }
 
 
-/*yearlong*/
-.yearlong_p h2 {
-    text-align: center;
-    padding: 8px 32px 32px;
-    margin-bottom: 24px;
-}
-
-.yearlong_p .row {
-    margin: 0px 0 16px;
-}
-
-
-
-.yearlong_p h2:after {
-    background:#6E539E;
-    display: block;
-    content: "";
-    height: 4px;
-    left: 15px;
-    width: 70px;
-    text-align: center;
-    margin: 10px auto 10px;
-}
-
-
-
-
-
-
 /*online*/
 .online_p h2 {
     text-align: center;
@@ -235,7 +208,11 @@ div.intro {
 }
 
 .online_p .row {
-    margin: 0px 0 16px;
+    margin-bottom: 16px;
+}
+
+.onsite_p .row {
+    margin-bottom: 16px;
 }
 
 

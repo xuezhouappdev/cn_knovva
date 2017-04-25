@@ -1,0 +1,103 @@
+//colors
+@import 'variables';
+
+$white: #fff;
+
+$dark:darken($primary,20%);
+$hover: #D874BD;
+
+
+section {
+  margin-bottom: 0px;
+}
+
+
+
+
+
+.live {
+  background: white; /* For browsers that do not support gradients */
+  min-height: 500px;
+  width: 100%;
+  opacity: 0.8;
+  background-size: cover;
+  margin-top: 104px;
+  margin-bottom: 48px;
+  a {
+    color:black;
+    transition: all 0.3s linear;
+
+
+    &:hover {
+      color:$primary;
+      text-decoration: none;
+    }
+  }
+
+
+  .container {
+    padding: 32px;
+
+
+     .col-md-8 {
+       iframe {
+         border: 2px solid gray ;
+         padding: 8px;
+         background: #242424;
+
+
+       }
+
+     }
+
+     .col-md-4 {
+
+       .panel-default {
+         border: 1px solid gray;
+         max-height: 500px;
+         overflow: scroll;
+
+
+         .panel-heading {
+           background: $primary;
+
+           background: -webkit-linear-gradient($purple,  $primary ); /* For Safari 5.1 to 6.0 */
+           background: -o-linear-gradient($purple,  $primary ); /* For Opera 11.1 to 12.0 */
+           background: -moz-linear-gradient($purple,  $primary ); /* For Firefox 3.6 to 15 */
+           background: linear-gradient($purple,  $primary ); /* Standard syntax */
+
+
+
+           border-color: $primary;
+           color:white;
+           text-align: center;
+         }
+
+         .panel-body {
+           .fa {
+             color: $primary;
+             font-size: 20px;
+
+           }
+
+
+
+         }
+
+       };
+
+
+
+
+
+     }
+
+
+  }
+
+
+
+
+}
+
+

@@ -1,39 +1,20 @@
-<?php
-
-//function authenticate() {
-//    if($_SERVER['PHP_AUTH_USER'] !=='admin' && $_SERVER['PHP_AUTH_PW'] !=='22233150' ) {
-//
-//        header('WWW-Authenticate: Basic realm="Only for internal use"');
-//        header('HTTP/1.0 401 Unauthorized');
-//        echo "error";
-//        exit;
-//    }
-//
-//}
-//
-//authenticate();
-
-?>
-
-
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="cn">
 <head>
     <meta charset="UTF-8">
     <title>Knovva 首页</title>
 
-    <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
+    <!--vencer css-->
+    <link rel="stylesheet" href="vendor/bootstrap-3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="vendor/font-awesome-4.7.0/css/font-awesome.css">
 
-    <!--font-->
-    <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
+    <!--customer css-->
     <link rel="stylesheet" href="css/index_new.css">
 
 
     <!--JS-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-    <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
+    <script src="vendor/bootstrap-3.3.7/js/bootstrap.min.js"></script>
 
 
 
@@ -56,20 +37,11 @@ include "header.php";
 
 <!-- top slider -->
 <div id="myCarousel" class="carousel slide home-slider" data-ride="carousel">
-    <!-- Indicators -->
-  <!--  <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-
-    </ol>
--->
     <!-- Wrapper for slides -->
     <div class="carousel-inner home-slider" role="listbox">
-
         <div class="item active" style='
         background: url("image/skyatlas2.jpeg") center center no-repeat;
-        min-height: 110vh;
+        min-height: 100vh;
         width: 100%;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -87,65 +59,40 @@ include "header.php";
                 <h1 style="font-size:56px;text-transform: uppercase;line-height: 72px">胸有丘壑万千<br>眼有星海万年</h1>
                 <a href="programs">学术项目</a>
             </div>
-
         </div>
+    </div>
 
-        <!--<div class="item" style='
-        background: url("image/home/home_brand4.jpg") center center no-repeat;
-        min-height: 100vh;
-        width: 100%;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;'>
-            <div class="slidertextwrapper" style='
-                    text-align: center;
-                    position: absolute;
-                    top: 50%;
-                    left: 50%;
-                    transform: translate(-50%, -50%);
-                    color: white;
+    <div class="row textwrapper" style="">
 
-' >
-                <h1 style="font-size:50px;">Connect to the World, Connect to Your Future</h1>
-            </div>
-
-        </div>
-
-        <div class="item" style='
-        background: url("image/home/home_brand3.jpg") center center no-repeat;
-        min-height: 100vh;
-        width: 100%;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;'>
-            <div class="slidertextwrapper" style='
-                    text-align: center;
-                    position: absolute;
-                    top: 50%;
-                    left: 50%;
-                    transform: translate(-50%, -50%);
-                    color: white;
-
-' >
-                <h1 style="font-size:50px;">Connect to the World, Connect to Your Future</h1>
-            </div>
-
-        </div>-->
-
+        <h4>下滑浏览更多</h4>
+        <h5 style=""><a href="#programs" id="downbutton"><i class="fa fa-chevron-down animated infinite fadeInUp" aria-hidden="true"></i></a></h5>
 
     </div>
 
-    <!-- Left and right controls -->
-    <!--<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>-->
+    <script>
+        $(document).ready(function(){
+            $("#downbutton").on('click', function(event) {
+
+                if(this.hash !=="") {
+                    event.preventDefault();
+
+                    var hash = this.hash;
+
+                    $('html, body').animate({
+                        scrollTop: $(hash).offset().top - 80
+                    }, 800, function(){
+
+                        // Add hash (#) to URL when done scrolling (default click behavior)
+                        window.location.hash = hash;
+                    });
+                } //end if
+            });
+
+
+        })
+
+    </script>
+
 
 </div>
 
@@ -215,18 +162,6 @@ include "header.php";
                     </div>
                 </div>
             </div>
-<!--            -->
-<!--            <div class="col-sm-4">-->
-<!--                <div class="card" style='background: url("image/home/home_brand6.jpg") center right no-repeat'>-->
-<!---->
-<!--                    <h3>Blended Learning</h3>-->
-<!--                    <p>Knovva Academy provides a variety of interactive online and blended year-long courses and programs to maximize your learning, motivation and direction in your fields of interest.</p>-->
-<!--                    <div class="btnwrapper">-->
-<!--                        <br><br>-->
-<!--                        <a href="programs.php#yearlongprogram">Read More</a>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
 
         </div>
     </div>
@@ -385,7 +320,7 @@ include "header.php";
             <!-- Wrapper for Slides -->
             <div class="carousel-inner">
 
-                <div class="item active">
+                <div class="item active" >
                     <!-- Set the first background image using inline CSS below. -->
 
                     <div class="container">

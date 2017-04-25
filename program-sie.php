@@ -5,7 +5,7 @@
     <title> 美国高等教育介绍：了解学习环境
     </title>
 
-    <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/bootstrap-3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="vendor/font-awesome-4.7.0/css/font-awesome.css">
 
@@ -206,7 +206,7 @@ include "header.php";
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-<script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
+<script src="vendor/bootstrap-3.3.7/js/bootstrap.min.js"></script>
 <script src="js/index.js"></script>
 
 

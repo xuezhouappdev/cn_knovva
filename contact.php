@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>联系我们</title>
+    <title>联系方式</title>
 
-    <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/bootstrap-3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="vendor/font-awesome-4.7.0/css/font-awesome.css">
     <!--font-->
     <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
@@ -25,7 +25,7 @@ include "header.php";
 <div class="banner">
     <div class="container">
         <div class="row">
-            <h1>联系我们</h1>
+            <h1>联系方式</h1>
         </div>
     </div>
 </div>
@@ -175,7 +175,7 @@ include "header.php";
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-<script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
+<script src="vendor/bootstrap-3.3.7/js/bootstrap.min.js"></script>
 
 
 

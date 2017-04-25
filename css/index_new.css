@@ -215,7 +215,7 @@ div.programnew.jumbotron {
 
 #myCarousel > div > div > div > a {
   padding: 8px 32px;
-  background-color: #6E539E;
+  border: 2px solid white;
   color: #fff;
   display: inline-block;
   margin-top: 32px;
@@ -224,5 +224,24 @@ div.programnew.jumbotron {
     background-color: #D874BD;
     color: #fff;
     text-decoration: none; }
+
+#myCarousel {
+  width: 100%;
+  overflow-x: hidden; }
+  #myCarousel .slidertextwrapper a i {
+    font-size: 20px; }
+  #myCarousel .textwrapper {
+    text-align: center;
+    position: relative;
+    bottom: 75px; }
+    #myCarousel .textwrapper h4 {
+      color: white;
+      font-weight: 300;
+      font-size: 16px; }
+    #myCarousel .textwrapper i {
+      color: white;
+      font-size: 18px;
+      margin-top: 0;
+      padding-top: 0; }
 
 /*# sourceMappingURL=index_new.css.map */

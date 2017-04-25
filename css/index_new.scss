@@ -395,9 +395,10 @@ div {
 .slidertextwrapper h1 {
   font-size: 60px;
 }
+
 #myCarousel > div > div > div > a {
   padding: 8px 32px;
-  background-color: $primary;
+  border: 2px solid white;
   color: $white;
   display: inline-block;
   margin-top: 32px;
@@ -409,5 +410,38 @@ div {
     background-color: $lightblack;
     color: $white;
     text-decoration: none;
+  }
+}
+
+
+
+#myCarousel {
+  width: 100%;
+  overflow-x: hidden;
+  .slidertextwrapper {
+    a {
+      i {
+        font-size: 20px;
+      }
+    }
+  }
+
+  .textwrapper {
+    text-align: center;
+    position: relative;
+    bottom: 75px;
+
+    h4 {
+      color: white;
+      font-weight: 300;
+      font-size: 16px;
+    }
+
+    i {
+      color: white;
+      font-size: 18px;
+      margin-top: 0;
+      padding-top: 0;
+    }
   }
 }
