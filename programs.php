@@ -59,7 +59,6 @@ include "header.php";
         </div>
 
         <div class="row">
-
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/sie.jpg" alt="Avatar" style="width:100%" class="img img-responsive">
@@ -100,8 +99,6 @@ include "header.php";
 
                 </div>
             </div>
-
-
             <div class="col-md-4">
 
 
@@ -119,7 +116,6 @@ include "header.php";
                     <h5 style="text-align: center"> <a href="program-gai.php" class="button_p">了解详情</a></h5>
                 </div>
             </div>
-
             <div class="col-md-4">
                 <div class="card_p">
                     <img src="image/program/rob.jpg" alt="Avatar" style="width:100%">
@@ -135,10 +131,7 @@ include "header.php";
                     <h5 style="text-align: center"><a href="program-aer.php" class="button_p">了解详情</a></h5>
                 </div>
             </div>
-
         </div>
-
-
 
     </div>
 </div>

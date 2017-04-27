@@ -33,13 +33,12 @@ SEPERATELY-->
 <div class="header" >
     <div class="container">
 
-        <div class="navbar-fixed-top">
+        <div class="navbar-fixed-top homepage" id="mynav">
           <div class="row">
               <a href="index.php"><img id="logo" src="image/logo-trim.png" class="img-responsive img" ></a>
                 <ul id="menuitem" >
                     <li><a href="index"> 首页 </a></li>
                     <li><a href="about"> 机构简介 </a></li>
-
                     <li class="dropdown"> <!--programdropdown -->
                         <a class="dropbtn" href="programs">学术项目</a>
 
@@ -101,6 +100,19 @@ SEPERATELY-->
         document.getElementById("mySidenav").style.width ="0%";
 
     }
+
+
+    //scroll to control the navigation
+    $(window).scroll(function(){
+        if($(document).scrollTop() > 30) {
+
+            $('#mynav').addClass("add");
+        }
+        else {
+            $('#mynav').removeClass("add");
+        }
+
+    });
 
 
 </script>

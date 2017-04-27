@@ -17,12 +17,13 @@ if(isset($_POST['contact_fn'])) {
     $contact_email = test_input($_POST['contact_email']);
     $contact_phone = test_input($_POST['contact_phone']);
     $contact_textarea = test_input($_POST['contact_textarea']);
+    $contact_program = $_POST['contact_program'];
     if ($contact_fn=="" || $contact_ln=="" ||$contact_email=="" ||$contact_textarea== "") {
         echo "请确保信息完整。";
     }
     else {
         $from = "admin@cn.knovva.com";
-        $to = "xue.zhou@giantbugedu.com";
+        $to = "xue.zhou@knovva.com";
         $subject = "New Question from Prospective Client";
         //header
         $headers = 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
@@ -38,19 +39,21 @@ if(isset($_POST['contact_fn'])) {
         $message .= '<th>First Name</th>';
         $message .= '<th>Last Name</th>';
         $message .= '<th>Email</th>';
-        $message .= '<th>Phone</th></tr>';
+        $message .= '<th>Phone</th>';
+        $message .= '<th>Program</th></tr>';
         $message .= '<tr>';
         $message .= '<td>' . $contact_fn . '</td>';
         $message .= '<td>' . $contact_ln . '</td>';
         $message .= '<td>' . $contact_email . '</td>';
-        $message .= '<td>' . $contact_phone . '</td></tr></table>';
+        $message .= '<td>' . $contact_phone . '</td>';
+        $message .= '<td>' . $contact_program . '</td></tr></table>';
         $message .= '<br /><br />';
         $message .= '<table style="width: 80%">';
         $message .= '<tr><th>Message</th><tr>';
         $message .= '<tr><td>' . $contact_textarea . '</td></tr></table>';
         $message .= '_____________________________________<br /><br />';
         $message .= 'Thanks,<br/>Knovva.com IT Support<br/>';
-        $message .= '<br/><a target="_new" href="http://www.knovva.com"/>http://www.knovva.com</a>';
+        $message .= '<br/><a target="_new" href="http://www.knovva.com"/>http://cn.knovva.com</a>';
         $message .= 'Knovva.com &copy; 2017';
         $message .= '</center>';
         $message .= '</body></html>';

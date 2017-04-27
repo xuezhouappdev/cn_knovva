@@ -4,6 +4,9 @@
 
 
 
+
+
+
 /*BANNER */
 div.banner {
     background: #D874BD; /* For browsers that do not support gradients */
@@ -33,6 +36,7 @@ div.banner {
 }
 
 
+
 /* Contact info */
 div.contact-info {
     text-align: center;
@@ -44,13 +48,13 @@ div.contact-info {
 }
 
 a:hover { text-decoration: none;
- }
+}
 
 
 
 
 div.contact-info .row {
-   border: 1px dashed white;
+    border: 1px dashed white;
     padding: 60px;
 
 
@@ -64,7 +68,7 @@ div.contact-info.containter.row:nth-child(1){
 
 /* map div */
 #map {
-    height: 300px;
+    height: 350px;
     width: 100%;
 
 }
@@ -104,7 +108,7 @@ div.map {
 
 .map input, .map textarea {
     border-radius: 0;
-    padding: 0px 10px;
+    padding: 10px;
 }
 
 .map .form-control:focus {
@@ -136,8 +140,8 @@ div.map {
 }
 
 #contact-submit-btn:hover {
-     text-decoration: none;
-     background:#D874BD;
+    text-decoration: none;
+    background:#D874BD;
 
 
 
@@ -154,4 +158,11 @@ body > div.map > div > div > div.col-sm-5 > h5 > a {
 body > div.map > div > div > div.col-sm-5 > h5 > i {
     color: #6e539e;
     font-size: 16px;
+}
+
+#contactemailform > div:nth-child(4) > div > div > select {
+    BORDER: 1px solid rgba(128, 128, 128, 0.47);
+    width: 100%;
+    border-radius: 0;
+    padding: 4px;
 }

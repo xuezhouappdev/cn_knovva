@@ -84,6 +84,25 @@ include "header.php";
                         </div>
                     </div>
 
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label for="program">项目: </label>
+                                <select name="contact_program">
+                                    <option value="N/A">请选择您感兴趣的项目</option>
+                                    <option value="社会创新创业项目">社会创新创业项目</option>
+                                    <option value="青少年领袖外交家项目">青少年领袖外交家项目</option>
+                                    <option value="青少年机器人工程师项目">青少年机器人工程师项目</option>
+                                    <option value="美国高等院校专业及就业选择">美国高等院校专业及就业选择</option>
+                                    <option value="美国社交媒体和在线沟通要领">美国社交媒体和在线沟通要领</option>
+                                    <option value="英文原版精读之哈利波特系列">英文原版精读之哈利波特系列</option>
+                                    <option value="英文原版精读之科技前沿">英文原版精读之科技前沿</option>
+                                    <option value="The Digital Crossroads of East and West">The Digital Crossroads of East and West</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
 
                     <div class="row">
                         <div class="col-sm-12">
