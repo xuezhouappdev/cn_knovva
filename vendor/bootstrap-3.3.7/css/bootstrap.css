@@ -1087,6 +1087,14 @@ html {
   font-size: 10px;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+
+@font-face {
+  font-family: 'MyFancyFont';
+  font-style:  normal;
+  font-weight: 400;
+  src: url(../fonts/pingfang.ttf) format('ttf');
+}
+
 body {
   font-family: "MyFancyFont", Helvetica, Arial, sans-serif;
   font-size: 14px;

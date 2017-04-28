@@ -268,7 +268,7 @@ include "header.php";
                     <div class="row">
 
                         <br>
-                        <h4>“ The amount of things I’ve learned here is so much greater than what I could learn from reading a textbook from a classroom or listening to a lecture. This way of learning is definitely better than through, the traditional learning class system. " </h4>
+                        <h4>“ The amount of things I’ve learned here is so much greater than what I could learn from reading a textbook from a classroom or listening to a lecture. This way of learning is definitely better than through, the traditional learning class system. ” </h4>
 
                         <p> - Federico Rollo from Boston Latin School </p>
                         <br>
@@ -281,7 +281,7 @@ include "header.php";
                     <div class="row">
 
                         <br><br>
-                        <h4>“ I met all these amazing people and they really had a great impact on my life. There is nothing I would trade in the world for this memory. Thank you. " </h4>
+                        <h4>“ I met all these amazing people and they really had a great impact on my life. There is nothing I would trade in the world for this memory. Thank you. ” </h4>
                         <p> - Adelene Jeneid from Norwood High School</p>
                         <br>
                         <br>
