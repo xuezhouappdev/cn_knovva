@@ -82,7 +82,7 @@ SEPERATELY-->
         var url = window.location.href;
         //alert(url)
         // passes on every "a" tag
-        $(".header ul >li:not(:last-child) >a").each(function() {
+        $(".header ul >li:not(:nth-last-child(2)) >a").each(function() {
             // checks if its the same on the address bar
             if(url === (this.href)) {
                 $(this).css({"color":"#6e539e","font-weight":"500"});
