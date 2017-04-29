@@ -1,5 +1,14 @@
 /*font*/
 
+@font-face{
+        font-family: 'myFancyFont';
+        src: url("../font/chinese/pingfang.ttf"), url("../font/chinese/pingfang.ttf");
+    }
+
+
+body{
+    font-family:'myFancyFont', '宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;!important;
+}
 
 
 a:hover {

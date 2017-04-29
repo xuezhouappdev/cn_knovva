@@ -5,25 +5,8 @@
     <title> 机构简介
     </title>
 
-    <link rel="stylesheet" href="vendor/bootstrap-3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="vendor/font-awesome-4.7.0/css/font-awesome.css">
-
-    <!--font-->
-    <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
-
     <!-- Program base CSS-->
     <link rel="stylesheet" href="css/about.css">
-
-    <!-- Jquery-->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-    <script src="vendor/bootstrap-3.3.7/js/bootstrap.min.js"></script>
-
-<style>
-
-
-
-</style>
 
 
 

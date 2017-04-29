@@ -5,19 +5,9 @@
     <title> 美国高等教育介绍：了解学习环境
     </title>
 
-    <link rel="stylesheet" href="vendor/bootstrap-3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="vendor/font-awesome-4.7.0/css/font-awesome.css">
-
-    <!--font-->
-    <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
 
     <!-- Program -->
     <link rel="stylesheet" href="css/program_template.css">
-    <link rel="stylesheet" href="vendor/dist/sweetalert.css">
-
-    <!-- sweet alert-->
-    <script src="vendor/dist/sweetalert.min.js"></script>
 
 
 

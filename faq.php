@@ -4,10 +4,7 @@
     <meta charset="UTF-8">
     <title>FAQ</title>
 
-    <link rel="stylesheet" href="vendor/bootstrap-3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="vendor/font-awesome-4.7.0/css/font-awesome.css">
-    <!--font-->
-    <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
+
 
     <link rel="stylesheet" href="css/faq.css">
 
