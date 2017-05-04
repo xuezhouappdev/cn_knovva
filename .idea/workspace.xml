@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,10 +52,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
+            <state relative-caret-position="11">
               <caret line="50" column="75" lean-forward="true" selection-start-line="50" selection-start-column="75" selection-end-line="50" selection-end-column="75" />
               <folding>
                 <element signature="e#2300#2306#0#HTML" expanded="true" />
@@ -73,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="402" column="44" lean-forward="false" selection-start-line="402" selection-start-column="42" selection-end-line="402" selection-end-column="44" />
+            <state relative-caret-position="215">
+              <caret line="426" column="9" lean-forward="false" selection-start-line="426" selection-start-column="9" selection-end-line="426" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -221,8 +222,8 @@
         <option value="$PROJECT_DIR$/css/header.css" />
         <option value="$PROJECT_DIR$/css/program_template.css" />
         <option value="$PROJECT_DIR$/css/contact.css" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -445,7 +446,7 @@
       <workItem from="1493313690394" duration="5035000" />
       <workItem from="1493406059250" duration="9071000" />
       <workItem from="1493652242897" duration="42000" />
-      <workItem from="1493916719694" duration="1828000" />
+      <workItem from="1493916719694" duration="2182000" />
     </task>
     <task id="LOCAL-00049" summary="added template">
       <created>1490239758638</created>
@@ -794,7 +795,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="320469000" />
+    <option name="totallyTimeSpent" value="320823000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -806,7 +807,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="23" width="1280" height="643" extended-state="1" />
+    <frame x="6" y="23" width="1280" height="643" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3001618" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
@@ -1220,21 +1221,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="402" column="44" lean-forward="false" selection-start-line="402" selection-start-column="42" selection-end-line="402" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
+        <state relative-caret-position="11">
           <caret line="50" column="75" lean-forward="true" selection-start-line="50" selection-start-column="75" selection-end-line="50" selection-end-column="75" />
           <folding>
             <element signature="e#2300#2306#0#HTML" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="426" column="9" lean-forward="false" selection-start-line="426" selection-start-column="9" selection-end-line="426" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
