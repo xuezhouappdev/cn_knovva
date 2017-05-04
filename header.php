@@ -54,7 +54,7 @@ SEPERATELY-->
                     </li>
                     <li><a href="blog"> 最近新闻 </a></li>
                     <li><a href="contact"> 联系方式 </a></li>
-                    <li><a href="applicationform" style="background: #7c5eb2;padding: 8px 16px;border-radius: 5%;color: white"><i class="fa fa-hand-o-up" aria-hidden="true"></i>&nbsp;立即申请</a></li>
+                    <li><a href="applicationform" style="background: #7c5eb2;padding: 8px 16px;border-radius: 5%;color: white">&nbsp;立即申请</a></li>
                     <li class="icon"><a href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
                 </ul>
           </div>

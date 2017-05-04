@@ -4,6 +4,7 @@
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,9 +56,11 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="129" selection-end-column="29" />
-              <folding />
+            <state relative-caret-position="26">
+              <caret line="50" column="75" lean-forward="true" selection-start-line="50" selection-start-column="75" selection-end-line="50" selection-end-column="75" />
+              <folding>
+                <element signature="e#2300#2306#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,8 +78,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="551">
+              <caret line="402" column="44" lean-forward="false" selection-start-line="402" selection-start-column="42" selection-end-line="402" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -115,7 +118,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>about</find>
       <find>connect</find>
       <find>explore</find>
       <find>美国</find>
@@ -145,6 +147,7 @@
       <find>input</find>
       <find>font-fam</find>
       <find>font-family</find>
+      <find>立即</find>
     </findStrings>
     <replaceStrings>
       <replace>sm</replace>
@@ -207,7 +210,6 @@
         <option value="$PROJECT_DIR$/career.php" />
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/faq.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/program-aer.php" />
         <option value="$PROJECT_DIR$/program-gai.php" />
         <option value="$PROJECT_DIR$/program-harrypotter.php" />
@@ -221,6 +223,7 @@
         <option value="$PROJECT_DIR$/css/header.css" />
         <option value="$PROJECT_DIR$/css/program_template.css" />
         <option value="$PROJECT_DIR$/css/contact.css" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/header.php" />
       </list>
     </option>
@@ -241,7 +244,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="84" />
+    <option name="x" value="6" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="643" />
   </component>
@@ -274,6 +278,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="cn_knovva" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cn_knovva" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cn_knovva" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -429,14 +447,7 @@
       <workItem from="1493313690394" duration="5035000" />
       <workItem from="1493406059250" duration="9071000" />
       <workItem from="1493652242897" duration="42000" />
-      <workItem from="1493916719694" duration="687000" />
-    </task>
-    <task id="LOCAL-00047" summary="updated dummy blog">
-      <created>1490102939378</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1490102939378</updated>
+      <workItem from="1493916719694" duration="1628000" />
     </task>
     <task id="LOCAL-00048" summary="added instafeed API">
       <created>1490159419220</created>
@@ -774,11 +785,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493917398061</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="updated drift online chat to live chat">
+      <created>1493919026924</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1493919026925</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="319328000" />
+    <option name="totallyTimeSpent" value="320269000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -790,7 +808,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="84" width="1280" height="643" extended-state="0" />
+    <frame x="6" y="23" width="1280" height="643" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3001618" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
@@ -854,7 +872,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated new post and teacher slider" />
     <MESSAGE value="updated dummy blog" />
     <MESSAGE value="added instafeed API" />
     <MESSAGE value="added template" />
@@ -879,7 +896,8 @@
     <MESSAGE value="fixed program detaills top image margin, fixed the padding of the contact form" />
     <MESSAGE value="fixed the application form button active status color" />
     <MESSAGE value="updated drift online chat" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated drift online chat" />
+    <MESSAGE value="updated drift online chat to live chat" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated drift online chat to live chat" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1206,17 +1224,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="551">
+          <caret line="402" column="44" lean-forward="false" selection-start-line="402" selection-start-column="42" selection-end-line="402" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="129" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="26">
+          <caret line="50" column="75" lean-forward="true" selection-start-line="50" selection-start-column="75" selection-end-line="50" selection-end-column="75" />
+          <folding>
+            <element signature="e#2300#2306#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

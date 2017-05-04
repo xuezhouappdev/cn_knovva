@@ -406,38 +406,7 @@ include "header.php";
 </div>
 
 
-<!-- Partner -->
-<!--<div class="partner">
-  <div class="container">
-      <div class="row">
-         <div class="col-md-2">
-             <img src="image/p1.png" class="img-responsive img-circle">
 
-         </div>
-          <div class="col-md-2">
-              <img src="image/p2.png" class=" img-responsive img-circle">
-
-          </div>
-          <div class="col-md-2">
-              <img src="image/p3.png" class="img-responsive img-circle">
-
-          </div>
-          <div class="col-md-2">
-              <img src="image/p4.png" class=" img-responsive img-circle">
-
-          </div>
-          <div class="col-md-2">
-              <img src="image/p5.png" class=" img-responsive img-circle">
-
-          </div>
-          <div class="col-md-2">
-              <img src="image/p6.png" class=" img-responsive img-circle">
-
-          </div>
-      </div>
-  </div>
-</div>
--->
 
 <!-- Footer -->
 <?php
@@ -445,6 +414,17 @@ include ("footer.php");
 ?>
 
 
+<!-- Hotjar Tracking Code for www.knovva.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:492805,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
 
 
 </body>
