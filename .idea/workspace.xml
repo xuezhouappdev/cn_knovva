@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -447,14 +445,7 @@
       <workItem from="1493313690394" duration="5035000" />
       <workItem from="1493406059250" duration="9071000" />
       <workItem from="1493652242897" duration="42000" />
-      <workItem from="1493916719694" duration="1628000" />
-    </task>
-    <task id="LOCAL-00048" summary="added instafeed API">
-      <created>1490159419220</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1490159419220</updated>
+      <workItem from="1493916719694" duration="1828000" />
     </task>
     <task id="LOCAL-00049" summary="added template">
       <created>1490239758638</created>
@@ -792,11 +783,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493919026925</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="updated hotjar on the homepage">
+      <created>1493923292449</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1493923292449</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="320269000" />
+    <option name="totallyTimeSpent" value="320469000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -808,7 +806,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="23" width="1280" height="643" extended-state="0" />
+    <frame x="6" y="23" width="1280" height="643" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3001618" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
@@ -872,7 +870,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated dummy blog" />
     <MESSAGE value="added instafeed API" />
     <MESSAGE value="added template" />
     <MESSAGE value="updated program page and program details page" />
@@ -897,7 +894,8 @@
     <MESSAGE value="fixed the application form button active status color" />
     <MESSAGE value="updated drift online chat" />
     <MESSAGE value="updated drift online chat to live chat" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated drift online chat to live chat" />
+    <MESSAGE value="updated hotjar on the homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated hotjar on the homepage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
