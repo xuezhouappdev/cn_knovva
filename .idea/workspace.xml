@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,8 +76,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="426" column="9" lean-forward="false" selection-start-line="426" selection-start-column="9" selection-end-line="426" selection-end-column="9" />
+            <state relative-caret-position="410">
+              <caret line="429" column="7" lean-forward="true" selection-start-line="429" selection-start-column="7" selection-end-line="429" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -446,14 +445,7 @@
       <workItem from="1493313690394" duration="5035000" />
       <workItem from="1493406059250" duration="9071000" />
       <workItem from="1493652242897" duration="42000" />
-      <workItem from="1493916719694" duration="2182000" />
-    </task>
-    <task id="LOCAL-00049" summary="added template">
-      <created>1490239758638</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1490239758638</updated>
+      <workItem from="1493916719694" duration="2423000" />
     </task>
     <task id="LOCAL-00050" summary="updated program page and program details page">
       <created>1490366871243</created>
@@ -791,11 +783,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493923292449</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="updated hotjar on the homepage(cn)">
+      <created>1493926128022</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1493926128023</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="320823000" />
+    <option name="totallyTimeSpent" value="321064000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -807,7 +806,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="23" width="1280" height="643" extended-state="0" />
+    <frame x="6" y="23" width="1280" height="643" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3001618" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
@@ -871,7 +870,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added instafeed API" />
     <MESSAGE value="added template" />
     <MESSAGE value="updated program page and program details page" />
     <MESSAGE value="updaed about" />
@@ -896,7 +894,8 @@
     <MESSAGE value="updated drift online chat" />
     <MESSAGE value="updated drift online chat to live chat" />
     <MESSAGE value="updated hotjar on the homepage" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated hotjar on the homepage" />
+    <MESSAGE value="updated hotjar on the homepage(cn)" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated hotjar on the homepage(cn)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1233,8 +1232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="426" column="9" lean-forward="false" selection-start-line="426" selection-start-column="9" selection-end-line="426" selection-end-column="9" />
+        <state relative-caret-position="410">
+          <caret line="429" column="7" lean-forward="true" selection-start-line="429" selection-start-column="7" selection-end-line="429" selection-end-column="7" />
           <folding />
         </state>
       </provider>
