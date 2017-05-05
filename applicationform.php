@@ -5,17 +5,15 @@
     <title> 申请表
     </title>
 
-
-
-
 </head>
-
-<body>
 
 <?php
 // include header
 include "header.php";
 ?>
+
+<body>
+
 
 
 <div class="form-wrapper" style="margin-top: 56px">

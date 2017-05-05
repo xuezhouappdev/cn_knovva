@@ -11,12 +11,14 @@
 
 </head>
 
-<body data-spy="scroll" data-target=".header" data-offset="300">
-
 <?php
 // include header
 include "header.php";
 ?>
+
+
+<body data-spy="scroll" data-target=".header" data-offset="300">
+
 
 
 <!-- Banner-->

@@ -13,14 +13,14 @@
 
 
 </head>
-<body data-spy="scroll" data-target=".header" data-offset="250">
-
 
 <?php
 include "header.php";
-
-
 ?>
+
+<body data-spy="scroll" data-target=".header" data-offset="250">
+
+
 
 
 
