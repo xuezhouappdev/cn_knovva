@@ -215,11 +215,11 @@ div.programnew.jumbotron {
 
 #myCarousel > div > div > div > a {
   padding: 8px 32px;
-  border: 2px solid white;
   color: #fff;
   display: inline-block;
   margin-top: 32px;
-  transition: 0.4s linear; }
+  transition: 0.4s linear;
+  background: #8970b4; }
   #myCarousel > div > div > div > a:hover {
     background-color: #D874BD;
     color: #fff;

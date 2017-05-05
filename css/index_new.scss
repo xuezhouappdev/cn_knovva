@@ -398,7 +398,7 @@ div {
 
 #myCarousel > div > div > div > a {
   padding: 8px 32px;
-  border: 2px solid white;
+
   color: $white;
   display: inline-block;
   margin-top: 32px;
@@ -406,6 +406,8 @@ div {
   transition: 0.4s linear;
   //Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
   //box-shadow: 5px 5px 8px $black;
+  background: lighten($primary,10%);
+
   &:hover {
     background-color: $lightblack;
     color: $white;

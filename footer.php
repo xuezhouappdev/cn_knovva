@@ -47,12 +47,12 @@
             <div class="col-lg-4 footer-links">
 
                 <ul>
-                   <li><a href="index">首页</a></li>
+                    <li><a href="index">首页</a></li>
                     <li><a href="about">机构简介</a></li>
                    <!-- <li><a href="#">Teacher</a></li>-->
                     <li><a href="programs">学术项目</a></li>
-
-                   <!-- <li><a href="#">Blog</a></li>-->
+                    <!-- <li><a href="#">Blog</a></li>-->
+                    <li><a href="#">加入我们</a></li>
                     <li><a href="contact">联系方式</a></li>
 <!--                    <li><a href="faq.php">FAQ</a></li>-->
                 </ul>
@@ -61,19 +61,18 @@
             <div class="col-lg-4 footer-hours">
 
                 <ul>
-                    <li>周一 - 周五:   9:00 am - 5:00 pm</li>
-                    <li>周六 - 周日:   休息</li>
+<!--                    <li>周一 - 周五:   9:00 am - 5:00 pm</li>-->
+<!--                    <li>周六 - 周日:   休息</li>-->
                 </ul>
 
                 <div class="col-lg-12 social" style="text-align: center">
 
                     <br>
 
-                    <a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
-                    <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-
+                    <a href="#"><i class="fa fa-weibo" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-weixin" aria-hidden="true"></i></a>
                     <a href="http://space.bilibili.com/100964349/#!/"><i class="demo-icon icon-bilibili">&#xe800;</i></a>
-                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
 
 
 

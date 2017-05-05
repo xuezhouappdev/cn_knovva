@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/.sass-cache/d590eaf32bfeb4e7ffd2c3cf21bf61334e499976/index_new.scssc" afterPath="$PROJECT_DIR$/css/.sass-cache/d590eaf32bfeb4e7ffd2c3cf21bf61334e499976/index_new.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applicationform.php" afterPath="$PROJECT_DIR$/applicationform.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.php" afterPath="$PROJECT_DIR$/blog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/career.php" afterPath="$PROJECT_DIR$/career.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.php" afterPath="$PROJECT_DIR$/faq.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/header.css" afterPath="$PROJECT_DIR$/css/header.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index_new.css" afterPath="$PROJECT_DIR$/css/index_new.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index_new.css.map" afterPath="$PROJECT_DIR$/css/index_new.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index_new.scss" afterPath="$PROJECT_DIR$/css/index_new.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,11 +38,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/header.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            <state relative-caret-position="255">
+              <caret line="55" column="25" lean-forward="true" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_new.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/index_new.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="404" column="33" lean-forward="false" selection-start-line="404" selection-start-column="33" selection-end-line="404" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="67" column="73" lean-forward="true" selection-start-line="67" selection-start-column="73" selection-end-line="67" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -63,7 +93,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>connect</find>
       <find>explore</find>
       <find>美国</find>
       <find>tes</find>
@@ -93,6 +122,7 @@
       <find>font-fam</find>
       <find>font-family</find>
       <find>立即</find>
+      <find>cta</find>
     </findStrings>
     <replaceStrings>
       <replace>sm</replace>
@@ -143,8 +173,6 @@
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/font/fontello/demo.html" />
         <option value="$PROJECT_DIR$/css/footer.css" />
-        <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/css/index_new.scss" />
         <option value="$PROJECT_DIR$/css/programs.css" />
         <option value="$PROJECT_DIR$/css/about.scss" />
         <option value="$PROJECT_DIR$/controller/sendemail.php" />
@@ -159,7 +187,6 @@
         <option value="$PROJECT_DIR$/programs.php" />
         <option value="$PROJECT_DIR$/webinar.php" />
         <option value="$PROJECT_DIR$/vendor/bootstrap-3.3.7/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/css/header.css" />
         <option value="$PROJECT_DIR$/css/program_template.css" />
         <option value="$PROJECT_DIR$/css/contact.css" />
         <option value="$PROJECT_DIR$/index.php" />
@@ -169,7 +196,10 @@
         <option value="$PROJECT_DIR$/career.php" />
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/faq.php" />
+        <option value="$PROJECT_DIR$/css/header.css" />
         <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/css/index_new.scss" />
+        <option value="$PROJECT_DIR$/footer.php" />
       </list>
     </option>
   </component>
@@ -189,8 +219,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="11" />
-    <option name="y" value="105" />
+    <option name="x" value="10" />
+    <option name="y" value="31" />
     <option name="width" value="1280" />
     <option name="height" value="643" />
   </component>
@@ -392,14 +422,7 @@
       <workItem from="1493313690394" duration="5035000" />
       <workItem from="1493406059250" duration="9071000" />
       <workItem from="1493652242897" duration="42000" />
-      <workItem from="1493916719694" duration="3402000" />
-    </task>
-    <task id="LOCAL-00050" summary="updated program page and program details page">
-      <created>1490366871243</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1490366871249</updated>
+      <workItem from="1493916719694" duration="7251000" />
     </task>
     <task id="LOCAL-00051" summary="updaed about">
       <created>1490637955211</created>
@@ -737,11 +760,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493926128023</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="updated favicon in the header.php, adjusted the insertion of header.php">
+      <created>1493990585429</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1493990585429</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="322043000" />
+    <option name="totallyTimeSpent" value="325892000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -753,17 +783,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="105" width="1280" height="643" extended-state="0" />
+    <frame x="10" y="31" width="1280" height="643" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3001618" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21778585" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21778585" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24919094" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22141561" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35027224" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22363636" sideWeight="0.2125" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32667875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -817,7 +847,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added template" />
     <MESSAGE value="updated program page and program details page" />
     <MESSAGE value="updaed about" />
     <MESSAGE value="updaed a lot" />
@@ -842,7 +871,8 @@
     <MESSAGE value="updated drift online chat to live chat" />
     <MESSAGE value="updated hotjar on the homepage" />
     <MESSAGE value="updated hotjar on the homepage(cn)" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated hotjar on the homepage(cn)" />
+    <MESSAGE value="updated favicon in the header.php, adjusted the insertion of header.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated favicon in the header.php, adjusted the insertion of header.php" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -951,13 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index_new.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1605">
-          <caret line="414" column="0" lean-forward="true" selection-start-line="414" selection-start-column="0" selection-end-line="414" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index_new.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -994,13 +1017,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/bootstrap-3.3.7/config.json" />
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="74" column="68" lean-forward="false" selection-start-line="74" selection-start-column="68" selection-end-line="74" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webinar.php" />
     <entry file="file://$PROJECT_DIR$/css/program_template.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -1029,14 +1045,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16245">
           <caret line="1083" column="0" lean-forward="false" selection-start-line="1083" selection-start-column="0" selection-end-line="1083" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1195,10 +1203,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index_new.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="404" column="33" lean-forward="false" selection-start-line="404" selection-start-column="33" selection-end-line="404" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        <state relative-caret-position="255">
+          <caret line="55" column="25" lean-forward="true" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="67" column="73" lean-forward="true" selection-start-line="67" selection-start-column="73" selection-end-line="67" selection-end-column="73" />
           <folding />
         </state>
       </provider>

@@ -65,6 +65,20 @@ a:hover {
 }
 
 
+.header .navbar-fixed-top  ul li a.cta {
+    background: #7c5eb2;
+    padding: 8px 16px;
+    border-radius: 5%;
+    transition: all 0.3s linear;
+}
+
+.header .navbar-fixed-top ul li a.cta:hover {
+    background: #E81E78;
+    color: white;
+
+}
+
+
 
 .header  ul {
     color: white;
