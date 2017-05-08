@@ -3,17 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>KNOVVA footer</title>
-
-
-
-
     <link rel="stylesheet" href="css/footer.css">
-
-
-
-
-
-
 </head>
 <body>
 
@@ -66,19 +56,11 @@
                 </ul>
 
                 <div class="col-lg-12 social" style="text-align: center">
-
                     <br>
-
                     <a href="#"><i class="fa fa-weibo" aria-hidden="true"></i></a>
                     <a href="#"><i class="fa fa-weixin" aria-hidden="true"></i></a>
                     <a href="http://space.bilibili.com/100964349/#!/"><i class="demo-icon icon-bilibili">&#xe800;</i></a>
                     <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-
-
-
-
-
-
                 </div>
 
             </div>

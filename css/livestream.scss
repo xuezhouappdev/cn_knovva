@@ -2,27 +2,69 @@
 @import 'variables';
 
 $white: #fff;
-
 $dark:darken($primary,20%);
 $hover: #D874BD;
 
 
-section {
-  margin-bottom: 0px;
+.section {
+  margin-bottom: 60px;
 }
 
 
 
+.banner {
+
+
+  min-height: 100vh;
+  position: relative;
+  background: url('../image/webinar/landing.jpg') center bottom no-repeat; /* For browsers that do not support gradients */
+  background-size:cover;
+
+  .herotext {
+      text-align: center;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white;
+
+      #past {
+        margin-left: 32px;
+      }
+
+      a{
+
+        padding: 8px 32px;
+        color: white;
+        border: 2px solid white;
+        display: inline-block;
+        margin-top: 32px;
+        transition: all 0.2s linear;
+
+
+        &:hover {
+          background: $primary;
+          text-decoration: none;
+        }
+
+
+
+      }
+    }
+}
+
 
 
 .live {
+
   background: white; /* For browsers that do not support gradients */
-  min-height: 500px;
+  min-height: 100vh;
   width: 100%;
-  opacity: 0.8;
+  opacity: 1;
   background-size: cover;
-  margin-top: 104px;
-  margin-bottom: 48px;
+  position: relative;
+
+
   a {
     color:black;
     transition: all 0.3s linear;
@@ -37,12 +79,10 @@ section {
 
   .container {
     padding: 32px;
-
-
-     .col-md-8 {
-       iframe {
+     .col-md-12 {
+       embed {
          border: 2px solid gray ;
-         padding: 8px;
+         padding: 2px;
          background: #242424;
 
 
@@ -50,47 +90,7 @@ section {
 
      }
 
-     .col-md-4 {
 
-       .panel-default {
-         border: 1px solid gray;
-         max-height: 500px;
-         overflow: scroll;
-
-
-         .panel-heading {
-           background: $primary;
-
-           background: -webkit-linear-gradient($purple,  $primary ); /* For Safari 5.1 to 6.0 */
-           background: -o-linear-gradient($purple,  $primary ); /* For Opera 11.1 to 12.0 */
-           background: -moz-linear-gradient($purple,  $primary ); /* For Firefox 3.6 to 15 */
-           background: linear-gradient($purple,  $primary ); /* Standard syntax */
-
-
-
-           border-color: $primary;
-           color:white;
-           text-align: center;
-         }
-
-         .panel-body {
-           .fa {
-             color: $primary;
-             font-size: 20px;
-
-           }
-
-
-
-         }
-
-       };
-
-
-
-
-
-     }
 
 
   }
@@ -100,4 +100,63 @@ section {
 
 }
 
+.history{
+  h3 {
+    margin-bottom: 32px;
+    border-left: 4px solid $primary;
+    padding-left: 8px;
+  }
+  .container {
+    .row {
+      margin-bottom: 64px;
+
+      .col-md-3 {
+        .card {
+          border-radius: 10px;
+          box-shadow: 2px 1px 10px grey;
+          margin-bottom: 16px;
+
+          .imgwrapper {
+            img {
+              border-top-left-radius: 10px;
+              border-top-right-radius:10px;
+              border-bottom: 8px solid $primary;
+            }
+
+          }
+          .text{
+            p{
+              color:gray;
+            }
+            padding: 16px 16px 24px;
+            a {
+              color:white;
+              padding: 8px 24px;
+              background: $primary;
+              display: inline-block;
+              margin-top: 24px;
+              transition: all 0.5s linear;
+              margin-bottom: 4px;
+
+
+              &:hover {
+                background: $hover;
+                text-decoration: none;
+
+              }
+
+              i {
+                font-size: 1.1em;
+              }
+            }
+
+
+
+          }
+
+        }
+      }
+    }
+  }
+}
 
