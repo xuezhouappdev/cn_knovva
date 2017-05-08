@@ -6,6 +6,7 @@
 
 
 
+    <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 
     <!-- CS -->
     <link rel="stylesheet" href="css/livestream.css">
@@ -103,11 +104,11 @@ include "header.php";
                 <div class="card">
                     <div class="imgwrapper">
 
-                        <img class="img img-responsive" src="image/webinar/dummy.jpg">
+                        <img class="img img-responsive" src="image/webinar/g20.png">
                     </div>
                     <div class="text">
 
-                        <h5>2017 Model G20 Delegate Orientation</h5>
+                        <h5>2017 Model G20 出行准备讲座</h5>
                         <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;Thu July 14, 2016 09:00pm</p>
                         <a data-fancybox href="video/modelg20-orientation.mp4"><i class="fa fa-play-circle" aria-hidden="true"></i>&nbsp;观看回播</a>
                     </div>
@@ -117,10 +118,10 @@ include "header.php";
             <div class="col-md-3">
                 <div class="card">
                     <div class="imgwrapper">
-                        <img class="img img-responsive" src="image/webinar/dummy.jpg">
+                        <img class="img img-responsive" src="image/webinar/g20.png">
                     </div>
                     <div class="text">
-                        <h5>2017 Model G20 Delegate Orientation</h5>
+                        <h5>2017 Model G20 出行准备讲座</h5>
                         <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;Thu July 14, 2016 09:00pm</p>
                         <a data-fancybox href="video/parents.mp4"><i class="fa fa-play-circle" aria-hidden="true"></i>&nbsp;观看回播</a>
                     </div>
@@ -129,10 +130,10 @@ include "header.php";
             <div class="col-md-3">
                 <div class="card">
                     <div class="imgwrapper">
-                        <img class="img img-responsive" src="image/webinar/dummy.jpg">
+                        <img class="img img-responsive" src="image/webinar/g20.png">
                     </div>
                     <div class="text">
-                        <h5>2017 Model G20 Delegate Orientation</h5>
+                        <h5>2017 Model G20 - Mindset</h5>
                         <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;Thu July 14, 2016 09:00pm</p>
                         <a data-fancybox href="video/modelg20-webinar.mp4"><i class="fa fa-play-circle" aria-hidden="true"></i>&nbsp;观看回播</a>
                     </div>
@@ -141,10 +142,10 @@ include "header.php";
             <div class="col-md-3">
                 <div class="card">
                     <div class="imgwrapper">
-                        <img class="img img-responsive" src="image/webinar/dummy.jpg">
+                        <img class="img img-responsive" src="image/webinar/g20.png">
                     </div>
                     <div class="text">
-                        <h5>2017 Model G20 Delegate Orientation</h5>
+                        <h5>2017 Model G20 学生讲座</h5>
                         <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;Thu July 14, 2016 09:00pm</p>
                         <a data-fancybox href="video/modelg20-writing.mp4"><i class="fa fa-play-circle" aria-hidden="true"></i>&nbsp;观看回播</a>
                     </div>
@@ -157,10 +158,10 @@ include "header.php";
             <div class="col-md-3">
                 <div class="card">
                     <div class="imgwrapper">
-                        <img class="img img-responsive" src="image/webinar/dummy.jpg">
+                        <img class="img img-responsive" src="image/webinar/earlyshow1.png">
                     </div>
                     <div class="text">
-                        <h5>2017 Model G20 Delegate Orientation</h5>
+                        <h5>Early Show Night - Eps 1</h5>
                         <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;Thu July 14, 2016 09:00pm</p>
                         <a data-fancybox href="video/ENSep-1.mp4"><i class="fa fa-play-circle" aria-hidden="true"></i>&nbsp;观看回播</a>
                     </div>
@@ -170,10 +171,10 @@ include "header.php";
             <div class="col-md-3">
                 <div class="card">
                     <div class="imgwrapper">
-                    <img class="img img-responsive" src="image/webinar/dummy.jpg">
+                    <img class="img img-responsive" src="image/webinar/earlyshow2.png">
                     </div>
                     <div class="text">
-                        <h5>2017 Model G20 Delegate Orientation</h5>
+                        <h5>Early Show Night - Eps 2</h5>
                         <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;Thu July 14, 2016 09:00pm</p>
                         <a data-fancybox href="video/ENSep-2.mp4"><i class="fa fa-play-circle" aria-hidden="true"></i>&nbsp;观看回播</a>
                     </div>
@@ -184,10 +185,10 @@ include "header.php";
             <div class="col-md-3">
                 <div class="card">
                     <div class="imgwrapper">
-                        <img class="img img-responsive" src="image/webinar/dummy.jpg">
+                        <img class="img img-responsive" src="image/webinar/earlyshow3.png">
                     </div>
                     <div class="text">
-                        <h5>2017 Model G20 Delegate Orientation</h5>
+                        <h5>Early Show Night - Eps 3</h5>
                         <p><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;Thu July 14, 2016 09:00pm</p>
                         <a data-fancybox href="video/earlyshownight.mp4"><i class="fa fa-play-circle" aria-hidden="true"></i>&nbsp;观看回播</a>
                     </div>
