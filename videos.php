@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <title>Live Video| Knovva </title>
 
-
-
     <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 
     <!-- CS -->
@@ -22,11 +20,9 @@
 
 
 </head>
-
 <?php
 include "header.php";
 ?>
-
 <body >
 
 
@@ -36,17 +32,17 @@ include "header.php";
 
     <!-- banner -->
     <div class="banner" style=";z-index: 1">
-
         <div class="herotext">
             <h1>Live Webinar</h1>
-                    <a id="play">加入直播</a>
-                    <a id="pastbutton" href="#pastwebinar">历史直播</a>
-
+                    <a id="play" class="disabled" disabled="disabled" style="display: none">加入直播</a>
+                    <a id="pastbutton" href="#pastwebinar">浏览历史直播</a>
             <script>
                 $(document).ready(function() {
 
                     <!--control the video-->
                     $("#play").click(function(){
+                        e.preventDefault();
+
                         $(".banner").animate({
                             "opacity": 0,
                             "z-index" :"0"},1000);
@@ -92,7 +88,6 @@ include "header.php";
         </div>
     </div>
 </div>
-
 <hr>
 
 <!-- History-->
@@ -103,9 +98,9 @@ include "header.php";
             <div class="col-md-3">
                 <div class="card">
                     <div class="imgwrapper">
-
                         <img class="img img-responsive" src="image/webinar/g20.png">
                     </div>
+
                     <div class="text">
 
                         <h5>2017 Model G20 出行准备讲座</h5>

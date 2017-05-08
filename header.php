@@ -54,7 +54,7 @@ SEPERATELY-->
                             <a href="program-irg">英文原版精读之科技前沿</a>
                         </div>
                     </li>
-<!--                    <li><a href="blog"> 最近新闻 </a></li>-->
+                    <li><a href="videos"> 线上直播 </a></li>
                     <li><a href="contact"> 联系方式 </a></li>
                     <li><a href="applicationform" class="cta" style="color: white;" >&nbsp;立即申请</a></li>
                     <li class="icon"><a href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
