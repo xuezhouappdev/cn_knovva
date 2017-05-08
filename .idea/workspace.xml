@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/.sass-cache/d590eaf32bfeb4e7ffd2c3cf21bf61334e499976/livestream.scssc" afterPath="$PROJECT_DIR$/css/.sass-cache/d590eaf32bfeb4e7ffd2c3cf21bf61334e499976/livestream.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/livestream.scss" afterPath="$PROJECT_DIR$/css/livestream.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos.php" afterPath="$PROJECT_DIR$/videos.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,7 +44,7 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="-880">
               <caret line="56" column="46" lean-forward="false" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
               <folding>
                 <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -506,14 +501,7 @@
       <workItem from="1493652242897" duration="42000" />
       <workItem from="1493916719694" duration="9707000" />
       <workItem from="1494250454625" duration="623000" />
-      <workItem from="1494251550838" duration="8993000" />
-    </task>
-    <task id="LOCAL-00055" summary="added btn  on home">
-      <created>1490965189662</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1490965189662</updated>
+      <workItem from="1494251550838" duration="9159000" />
     </task>
     <task id="LOCAL-00056" summary="home page updated">
       <created>1490968488677</created>
@@ -851,11 +839,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494262988734</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="updated videos in the header">
+      <created>1494266548013</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1494266548014</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="337964000" />
+    <option name="totallyTimeSpent" value="338130000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -931,7 +926,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="home page updated" />
     <MESSAGE value="update a lot" />
     <MESSAGE value="update copies" />
     <MESSAGE value="updated layouts" />
@@ -956,7 +950,8 @@
     <MESSAGE value="added video pages on CN" />
     <MESSAGE value="added videos on the footer" />
     <MESSAGE value="updated pictures on videos page" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated pictures on videos page" />
+    <MESSAGE value="updated videos in the header" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated videos in the header" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1331,7 +1326,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="-880">
           <caret line="56" column="46" lean-forward="false" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
           <folding>
             <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
