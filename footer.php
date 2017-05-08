@@ -42,7 +42,7 @@
                    <!-- <li><a href="#">Teacher</a></li>-->
                     <li><a href="programs">学术项目</a></li>
                     <!-- <li><a href="#">Blog</a></li>-->
-                    <li><a href="#">加入我们</a></li>
+                    <li><a href="videos">线上直播</a></li>
                     <li><a href="contact">联系方式</a></li>
 <!--                    <li><a href="faq.php">FAQ</a></li>-->
                 </ul>
