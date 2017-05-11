@@ -329,8 +329,8 @@ include "header.php";
                                 <p><a href="http://www.bilingochina.cn/index.php?c=content&a=show&id=291">UFEIC学子赴哈佛参加国际青少年模拟G20峰会载誉归来</a></p>
                             </div>
                             <div class="col-md-3">
-                                <a href="http://www.modelg20cn.org/single-post/2017/01/05/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E8%A7%84%E5%88%92%E6%B4%BB%E5%8A%A8"><img class="img-responsive img img-thumbnail" src="image/post/4.jpg"></a>
-                                <p><a>哈佛学者讲座：如何高效规划活动</a></p>
+                                <a href="https://www.jiemodui.com/N/70982.html"><img class="img-responsive img img-thumbnail" src="image/post/5.png"></a>
+                                <p><a href="https://www.jiemodui.com/N/70982.html">芥末堆在硅谷玩了一票儿大的</a></p>
                             </div>
                         </div>
                     </div>
