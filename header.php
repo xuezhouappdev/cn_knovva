@@ -42,19 +42,20 @@ SEPERATELY-->
                     <li><a href="index"> 首页 </a></li>
                     <li><a href="about"> 机构简介 </a></li>
                     <li class="dropdown"> <!--programdropdown -->
-                        <a class="dropbtn" href="programs">学术项目</a>
+                        <a class="dropbtn2" href="programs">学术项目</a>
 
-                        <div class="dropdown-content"><!--programdropdown content -->
-                            <a href="program-sie">社会创新创业项目</a>
-                            <a href="program-gai">青少年领袖外交家项目</a>
-                            <a href="program-aer">青少年机器人工程师项目</a>
-                            <a href="program-landscape">美国高等院校专业及就业选择</a>
-                            <a href="program-socialmedia">美国社交媒体和在线沟通要领</a>
-                            <a href="program-harrypotter">英文原版精读之哈利波特系列</a>
-                            <a href="program-irg">英文原版精读之科技前沿</a>
-                        </div>
+<!--                        <div class="dropdown-content"><!--programdropdown content -->
+<!--                            <a href="program-sie">社会创新创业项目</a>-->
+<!--                            <a href="program-gai">青少年领袖外交家项目</a>-->
+<!--                            <a href="program-aer">青少年机器人工程师项目</a>-->
+<!--                            <a href="program-landscape">美国高等院校专业及就业选择</a>-->
+<!--                            <a href="program-socialmedia">美国社交媒体和在线沟通要领</a>-->
+<!--                            <a href="program-harrypotter">英文原版精读之哈利波特系列</a>-->
+<!--                            <a href="program-irg">英文原版精读之科技前沿</a>-->
+<!--                        </div>-->
                     </li>
                     <li><a href="videos"> 线上直播 </a></li>
+<!--                    <li><a href="blog.php"> 博客 </a></li>-->
                     <li><a href="contact"> 联系方式 </a></li>
                     <li><a href="applicationform" class="cta" style="color: white;" >&nbsp;立即申请</a></li>
                     <li class="icon"><a href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
@@ -69,7 +70,8 @@ SEPERATELY-->
         <a href="index">首页</a>
         <a href="about">机构简介</a>
         <a href="programs">学术项目</a>
-        <a href="blog.php">最近新闻</a>
+        <a href="videos"> 线上直播 </a>
+<!--        <a href="blog.php">博客</a>-->
         <a href="contact">联系方式</a>
         <a href="applicationform" >立即申请</a>
     </div>

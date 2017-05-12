@@ -49,7 +49,27 @@ include "header.php";
         </div>
 
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-3">
+                <div class="card_p">
+                    <img src="image/program/digitalcross.jpg" alt="Avatar" style="width:100%" class="img img-responsive">
+
+
+
+                    <h4><b>青年领袖模拟G20夏季项目</b></h4>
+
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp;<span>科目: &nbsp;</span>政治科学</p>
+
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;<span>地点: &nbsp;</span>中国青岛&nbsp;&nbsp;|&nbsp;&nbsp;2017夏季<p>
+                    </p>
+                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p><br>
+
+                    <h5 style="text-align: center"><a href="#" class="button_p">即将上线</a></h5>
+
+
+
+                </div>
+            </div>
+            <div class="col-md-3">
                 <div class="card_p">
                     <img src="image/program/sie.jpg" alt="Avatar" style="width:100%" class="img img-responsive">
                     <div class="sie-overlay" style="position: absolute;top:64px;left:0;padding:16px;background: #6E539E;transition: 0.5s linear;opacity:0;margin:0 15px">
@@ -89,7 +109,7 @@ include "header.php";
 
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
 
 
 
@@ -106,7 +126,7 @@ include "header.php";
                     <h5 style="text-align: center"> <a href="program-gai.php" class="button_p">了解详情</a></h5>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="card_p">
                     <img src="image/program/rob.jpg" alt="Avatar" style="width:100%">
                     <h4><b>青少年机器人工程师项目</b></h4>
@@ -144,14 +164,14 @@ include "header.php";
         </div>
 
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="card_p">
                     <img src="image/program/Landscape.jpg" alt="Avatar" style="width:100%">
                     <h4><b>美国高等院校专业及就业选择</b></h4>
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>高等教育</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
-                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
+                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p><br>
 
 
                     <h5 style="text-align: center"><a href="program-landscape.php" class="button_p">了解详情</a></h5>
@@ -161,44 +181,41 @@ include "header.php";
             </div>
 
 
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="card_p">
                     <img src="image/program/social.jpg" alt="Avatar" style="width:100%">
                     <h4><b>美国社交媒体和在线沟通要领</b></h4>
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>美国文化、沟通艺术</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
-                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
+                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p><br>
 
 
                     <h5 style="text-align: center"><a href="program-socialmedia.php" class="button_p">了解详情</a></h5>
                 </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="card_p">
                     <img src="image/program/hary.jpg" alt="Avatar" style="width:100%">
                     <h4><b>英文原版精读之哈利波特系列</b></h4>
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>英美文学、阅读写作</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
-                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
+                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p><br>
 
 
                     <h5 style="text-align: center"><a href="program-harrypotter.php" class="button_p">了解详情</a></h5>
                 </div>
             </div>
 
-        </div>
-
-        <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-3">
                 <div class="card_p">
                     <img src="image/program/creativity.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>英文原版精读之科技前沿</b></h4>
+                    <h4><b>英文原版精读之科技前沿</b></h4><br>
 
                     <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>科技、创新</p>
                     <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>线上课程&nbsp| &nbsp2017夏季<br>
-                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
+                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p><br>
 
 
 
@@ -208,6 +225,11 @@ include "header.php";
 
                 </div>
             </div>
+
+        </div>
+
+        <div class="row">
+
 
 
             <!--<div class="col-md-4">

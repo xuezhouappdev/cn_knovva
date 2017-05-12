@@ -330,7 +330,7 @@ include "header.php";
                             </div>
                             <div class="col-md-3">
                                 <a href="https://www.jiemodui.com/N/70982.html"><img class="img-responsive img img-thumbnail" src="image/post/5.png"></a>
-                                <p><a href="https://www.jiemodui.com/N/70982.html">芥末堆在硅谷玩了一票儿大的</a></p>
+                                <p><a href="https://www.jiemodui.com/N/70982.html">Knovva Academy和芥末堆在硅谷主办GET大会</a></p>
                             </div>
                         </div>
                     </div>
