@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/program-g20summer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/program/digitalcross.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/program/g20-adel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/program/g20-justin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/program/g20-neilson.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/program/t1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/program/t2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/program/t3.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="knovva.iws" />
@@ -330,7 +336,39 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="video" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cn_knovva" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cn_knovva" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cn_knovva" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cn_knovva" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="program" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -491,14 +529,7 @@
       <workItem from="1494251550838" duration="9159000" />
       <workItem from="1494270859713" duration="241000" />
       <workItem from="1494511644180" duration="3184000" />
-      <workItem from="1494594684745" duration="7884000" />
-    </task>
-    <task id="LOCAL-00058" summary="update a lot">
-      <created>1491024828256</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1491024828258</updated>
+      <workItem from="1494594684745" duration="8233000" />
     </task>
     <task id="LOCAL-00059" summary="update a lot">
       <created>1491144600677</created>
@@ -836,11 +867,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494619423251</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="updated G20 page on the CN site">
+      <created>1494624782273</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1494624782273</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="349439000" />
+    <option name="totallyTimeSpent" value="349788000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
