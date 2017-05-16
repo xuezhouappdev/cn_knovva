@@ -63,7 +63,7 @@ include "header.php";
                     </p>
                     <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p><br>
 
-                    <h5 style="text-align: center"><a href="#" class="button_p">即将上线</a></h5>
+                    <h5 style="text-align: center"><a href="program-g20summer" class="button_p">了解详情</a></h5>
 
 
 
@@ -71,9 +71,42 @@ include "header.php";
             </div>
             <div class="col-md-3">
                 <div class="card_p">
+                    <img src="image/program/rob.jpg" alt="Avatar" style="width:100%">
+                    <h4><b>青少年机器人工程师项目</b></h4>
+
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>应用工程、计算机科学</p>
+
+
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017夏季<br></p>
+                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
+
+                    <br> <br>
+                    <h5 style="text-align: center"><a href="program-aer.php" class="button_p">了解详情</a></h5>
+                </div>
+
+            </div>
+            <div class="col-md-3">
+
+
+
+                <div class="card_p">
+                    <img src="image/program/global.jpg" alt="Avatar" style="width:100%">
+                    <h4><b>青少年领袖外交家项目</b></h4>
+                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>政治科学、国际关系</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017夏季<br></p>
+                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
+
+
+
+                    <br> <br>
+                    <h5 style="text-align: center"> <a href="program-gai.php" class="button_p">了解详情</a></h5>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card_p">
                     <img src="image/program/sie.jpg" alt="Avatar" style="width:100%" class="img img-responsive">
                     <div class="sie-overlay" style="position: absolute;top:64px;left:0;padding:16px;background: #6E539E;transition: 0.5s linear;opacity:0;margin:0 15px">
-                          <p style="text-align: justify;color:white;margin-left:0">This course is also available for blended learning. It includes a combination of interactive online and blended year-long courses.</p>
+                        <p style="text-align: justify;color:white;margin-left:0">This course is also available for blended learning. It includes a combination of interactive online and blended year-long courses.</p>
                     </div>
                     <h4 style="position: absolute;top:-5px;left:-9px"  id="hbr-btn"><span class="label label-primary" style="background: #6E539E;padding: 6px 16px;border-radius: 0;font-style:italic">混合一年制</span></h4></h4>
 
@@ -107,38 +140,6 @@ include "header.php";
 
                     </script>
 
-                </div>
-            </div>
-            <div class="col-md-3">
-
-
-
-                <div class="card_p">
-                    <img src="image/program/global.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>青少年领袖外交家项目</b></h4>
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>政治科学、国际关系</p>
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017夏季<br></p>
-                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
-
-
-
-                    <br> <br>
-                    <h5 style="text-align: center"> <a href="program-gai.php" class="button_p">了解详情</a></h5>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="card_p">
-                    <img src="image/program/rob.jpg" alt="Avatar" style="width:100%">
-                    <h4><b>青少年机器人工程师项目</b></h4>
-
-                    <p><i class="fa fa-book" aria-hidden="true"></i>&nbsp<span>科目: &nbsp;</span>应用工程、计算机科学</p>
-
-
-                    <p><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp; <span>地点: &nbsp;</span>美国剑桥 &nbsp| &nbsp2017夏季<br></p>
-                    <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p>
-
-                    <br> <br>
-                    <h5 style="text-align: center"><a href="program-aer.php" class="button_p">了解详情</a></h5>
                 </div>
             </div>
         </div>

@@ -44,9 +44,9 @@ include "header.php";
     </div>
 
     <div class="text-container" style="position: absolute;top:0;left:0;width: 100%;z-index: 0">
+
         <div class="container intro-text">
             <h1 style="text-align: center;margin-top: 8%">青年领袖模拟G20夏季项目</h1>
-
             <a style="text-align: center; " href="applicationform.php">立即申请</a>
 <!--            <div data-id="ca83c822d0" class="livechat_button"><a href="https://www.livechatinc.com/customer-service-software/?partner=lc_8790441&amp;utm_source=chat_button">customer service software</a></div>-->
             <a href="#" onclick="LC_API.open_chat_window();return false;">了解详情 </a>
@@ -220,7 +220,7 @@ include "header.php";
         <div class="col-md-6">
             <h3>关于青岛</h3>
             <p>
-                青岛位于中国东部沿海，是山东省东部的一座城市。青岛这座魅力城市是学习可持续发展和跨文化交流的理想之地。在青岛，我们可以探索道教的发源之处崂山；驱车西行，便是孔子的故乡曲阜。作为千年历史文化名城，青岛又是新思潮的摇篮之一，催生了中国历史上具有里程碑意义的“五四运动”。现在的青岛，不仅是黄海之滨的一颗明珠，更是东部最重要的海港之一，也是“一路一代”战略的东部枢纽。
+                青岛位于中国东部沿海，是山东省东部的一座城市。青岛这座魅力城市是学习可持续发展和跨文化交流的理想之地。在青岛，我们可以探索道教的发源之处崂山；驱车西行，便是孔子的故乡曲阜。作为千年历史文化名城，青岛又是新思潮的摇篮之一，催生了中国历史上具有里程碑意义的“五四运动”。现在的青岛，不仅是黄海之滨的一颗明珠，更是东部最重要的海港之一，也是“一路一带”战略的东部枢纽。
                 面朝大海 春暖花开。 人文的底色、历史的风光、余韵悠然。
 
 
@@ -260,7 +260,7 @@ include "header.php";
 <div class="timeline section">
 
     <div class="container">
-        <h3>Sample Itinerary</h3>
+        <h3>行程安排</h3>
         <hr>
 
         <div class="daylist col-md-12" style="text-align: center">
@@ -422,7 +422,7 @@ include "header.php";
 <!--teachers -->
 <div class="teachingstaff section">
     <div class="container">
-        <h3>Teaching Staffs</h3>
+        <h3>师资力量</h3>
 
         <div class="row">
             <div class="col-md-4">
@@ -433,7 +433,7 @@ include "header.php";
                         <p>Justin Hartley is a specialist in Leadership, communication, politics and memory improvement.
                             He is in-house faculty in Leadership and Communications at the Center for Asia Leadership, Research Fellow at Harvard’s Center for Public Leadership as well as a Teaching Assistant at the Harvard Kennedy School in “Authentic Leadership” and its most popular course, “The Making of a Politician”. </p>
                     </div>
-                    <h5>Justin Hartley - Teaching Staff</h5>
+                    <h5>Justin Hartley - 讲师</h5>
                 </div>
             </div>
 
@@ -455,7 +455,7 @@ include "header.php";
                             impactful solutions. </p>
 
                     </div>
-                    <h5>Justin Hartley - Teaching Staff</h5>
+                    <h5>Justin Hartley - 讲师</h5>
                 </div>
             </div>
 
@@ -467,7 +467,7 @@ include "header.php";
                         <p>Neilson来自于波士顿，他以优异成绩毕业于萨福克大学商学院。他是英语为第二外语认证教师。</p>
 
                     </div>
-                    <h5>Neilson Lam - Teaching Staff</h5>
+                    <h5>Neilson Lam - 讲师</h5>
                 </div>
             </div>
         </div>
@@ -504,8 +504,8 @@ include "header.php";
                         </div>
 
                         <div class="col-md-9">
-                            <h4>" The first minute I walked in, as soon as it started, there was a speech, and that speech sent shivers down my spine."</h4>
-                            <h5>- Adelene J.</h5>
+                            <h4>“ 通过参加此次峰会，我增强了对公共演讲的自信与把握，感受到保持一颗清醒政治头脑的重要性。同时，也使我意识到作为世界公民应更好地承担起对社会的责任与义务。"</h4>
+                            <h5>- 郑阳（高2019级21班</h5>
                         </div>
 
                     </div>
@@ -521,8 +521,8 @@ include "header.php";
                             <img class="img img-responsive img-rounded" src="image/program/t2.png" style="margin: 0 auto;border-radius: 50%; border:2px white solid">
                         </div>
                         <div class="col-md-9">
-                            <h4>"It’s a beautiful opportunity that Knovva Academy gives young high school students to meet new people." </h4>
-                            <h5> - Federico R. </h5>
+                            <h4>“ 无论你是来自亚洲，美洲还是非洲，你都能被会场激烈竞争却又沟通合作的氛围所吸引。而正是在这种环境下，任何肤色或者语言上的差异都能被忽视，大家都能成为很好的朋友。" </h4>
+                            <h5> - 吴承宸（高2018级20班） </h5>
                         </div>
 
 
@@ -540,9 +540,9 @@ include "header.php";
 
                         <div class="col-md-9">
 
-                            <h4>"I can't express enough that these skills are crucial for negotiation." </h4>
-                            <br>
-                            <h5>- Zhuofan B.</h5>
+                            <h4>“ 如果你愿意与来自不同区域、文化、性格的人交流，G20是一个不容错过的机会。这里有大咖云集的教授，他们生动幽默、侃侃而谈；这里有世界各地的青少年，他们和你都有同一个梦想。" </h4>
+
+                            <h5> - 林炜菡（高2018级21班）</h5>
                         </div>
 
                     </div>
