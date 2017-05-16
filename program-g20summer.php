@@ -499,13 +499,11 @@ include "header.php";
                 <div class="container">
 
                     <div class="row" style="padding: 8px 64px">
-                        <div class="col-md-3" style="text-align: center">
-                            <img class="img img-responsive img-rounded" src="image/program/t1.png" style="margin: 0 auto;border-radius: 50%; border:2px white solid">
-                        </div>
+                        <div class="col-md-12" style="text-align: center">
+<!--                            <img class="img img-responsive img-rounded" src="image/program/t1.png" style="margin: 0 auto;border-radius: 50%; border:2px white solid">-->
 
-                        <div class="col-md-9">
                             <h4>“ 通过参加此次峰会，我增强了对公共演讲的自信与把握，感受到保持一颗清醒政治头脑的重要性。同时，也使我意识到作为世界公民应更好地承担起对社会的责任与义务。"</h4>
-                            <h5>- 郑阳（高2019级21班</h5>
+                            <h5>- 郑阳（高2019级21班)</h5>
                         </div>
 
                     </div>
@@ -517,10 +515,9 @@ include "header.php";
                 <div class="container">
 
                     <div class="row" style="padding: 8px 64px">
-                        <div class="col-md-3" style="text-align: center">
-                            <img class="img img-responsive img-rounded" src="image/program/t2.png" style="margin: 0 auto;border-radius: 50%; border:2px white solid">
-                        </div>
-                        <div class="col-md-9">
+                        <div class="col-md-12" style="text-align: center">
+<!--                            <img class="img img-responsive img-rounded" src="image/program/t2.png" style="margin: 0 auto;border-radius: 50%; border:2px white solid">-->
+
                             <h4>“ 无论你是来自亚洲，美洲还是非洲，你都能被会场激烈竞争却又沟通合作的氛围所吸引。而正是在这种环境下，任何肤色或者语言上的差异都能被忽视，大家都能成为很好的朋友。" </h4>
                             <h5> - 吴承宸（高2018级20班） </h5>
                         </div>
@@ -534,11 +531,9 @@ include "header.php";
                 <div class="container">
 
                     <div class="row" style="padding: 8px 64px">
-                        <div class="col-md-3" style="text-align: center">
-                            <img class="img img-responsive img-rounded" src="image/program/t3.png" style="margin: 0 auto;border-radius: 50%; border:2px white solid">
-                        </div>
+                        <div class="col-md-12" style="text-align: center">
+<!--                            <img class="img img-responsive img-rounded" src="image/program/t3.png" style="margin: 0 auto;border-radius: 50%; border:2px white solid">-->
 
-                        <div class="col-md-9">
 
                             <h4>“ 如果你愿意与来自不同区域、文化、性格的人交流，G20是一个不容错过的机会。这里有大咖云集的教授，他们生动幽默、侃侃而谈；这里有世界各地的青少年，他们和你都有同一个梦想。" </h4>
 
