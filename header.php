@@ -57,7 +57,15 @@ SEPERATELY-->
                     <li><a href="videos"> 线上直播 </a></li>
 <!--                    <li><a href="blog.php"> 博客 </a></li>-->
                     <li><a href="contact"> 联系方式 </a></li>
-                    <li><a href="applicationform" class="cta" style="color: white;" >&nbsp;立即申请</a></li>
+<!--                    <li><a href="applicationform" class="cta" style="color: white;" >&nbsp;立即申请</a></li>-->
+
+                    <li id="dropdown"><a class="cta" style="color: white"><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp;
+                            现在申请</a>
+                        <div class="dropdown-content">
+                            <a href="applicationform.php">青年领袖模拟G20夏季项目</a>
+                            <a href="applicationform-aer.php">青少年机器人工程师项目</a>
+                        </div>
+                    </li>
                     <li class="icon"><a href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
                 </ul>
           </div>

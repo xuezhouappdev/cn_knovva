@@ -6,7 +6,6 @@
     </title>
 
 
-
     <!-- Program -->
     <link rel="stylesheet" href="css/program_template.css">
 
