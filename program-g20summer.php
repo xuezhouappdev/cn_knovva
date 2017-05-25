@@ -102,7 +102,7 @@ include "header.php";
 
                         <p><b><i class="fa fa-book" aria-hidden="true"></i>&nbsp;科目: </b>政治科学</p>
 
-                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>中国青岛&nbsp;|&nbsp; 08/08/2017 - 08/19/2017</P>
+                        <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>中国青岛&nbsp;|&nbsp; 07/31/2017 - 08/13/2017</P>
                         <p><b><i class="fa fa-user" aria-hidden="true"></i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
 
                         <!--                <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>-->
@@ -284,7 +284,7 @@ include "header.php";
         <div class="tab-content">
             <div id="menu1" class="tab-pane fade in active">
                 <div class="wrapper">
-                        <h5>Day 1 (Aug. 7-8)</h5>
+                        <h5>Day 1 </h5>
                         <p>全体代表抵达青岛，重温模拟G20峰会成果，并紧锣密鼓地进入下一个阶段的任务筹备。
                         </p>
                 </div>
@@ -292,7 +292,7 @@ include "header.php";
 
             <div id="menu2" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 2 (Aug 9)
+                    <h5>Day 2
                     </h5>
                     <p>代表们将参访道教发祥地之一、“海上第一仙山”崂山，学习中国传统文化的主要流派。同时，从比较的视角反思不同的文化背景如何影响不同国家的政策制定。</p>
                 </div>
@@ -301,7 +301,7 @@ include "header.php";
 
             <div id="menu3" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 3 (Aug 10)
+                    <h5>Day 3
 
                     </h5>
                     <p>代表将参访湛山庙，学习佛教及佛教对于环境治理的经典理念和著作。学生也将探索德国殖民时期的建筑，比较青岛和波士顿的殖民历史，进一步讨论两市的历史如何影响了今日的文化风貌、政策制定、国际交流等。</p>
@@ -313,7 +313,7 @@ include "header.php";
             <div id="menu4" class="tab-pane fade">
 
                 <div class="wrapper">
-                    <h5>Day 4 (Aug 11)
+                    <h5>Day 4
 
                     </h5>
                     <p>
@@ -326,7 +326,7 @@ include "header.php";
             <div id="menu5" class="tab-pane fade">
 
                 <div class="wrapper">
-                    <h5>Day 5 (Aug 12)
+                    <h5>Day 5
                     </h5>
                     <p>代表们将访问地方政策制定者、专家学者等，获得疑难问题的解答。此外，代表们还将考察八大关风景区，从旅游业的角度思考不同产业对于环境的影响。
 
@@ -338,7 +338,7 @@ include "header.php";
 
             <div id="menu6" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 6 (Aug 13)
+                    <h5>Day 6
                     </h5>
                     <p>来自中国海洋大学的专家学者将与代表们分享中国的环境保护法律法规、发展状况、未来挑战等，并着重阐释青岛的情况。专家们也将从全球治理的角度分析国家政策和国际法／公约对青岛的影响。</p>
                 </div>
@@ -347,7 +347,7 @@ include "header.php";
 
             <div id="menu7" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 7 (Aug 14)
+                    <h5>Day 7
                     </h5>
                     <p>代表们将集中学习数码故事叙述的方式方法，并进行团队协作。
 
@@ -358,7 +358,7 @@ include "header.php";
 
             <div id="menu8" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 8 (Aug 15)
+                    <h5>Day 8
                     </h5>
                     <p>代表们将制作完成数码故事，以中国专家学者和政府官员组成的评审委员会将对故事进行评审和点评，启发代表们进行进一步完善。
 
@@ -369,7 +369,7 @@ include "header.php";
 
             <div id="menu9" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 9 (Aug 16)
+                    <h5>Day 9
                     </h5>
                     <p>代表们将启程回到自己的家乡，将数码故事讲述给更多人听，呼吁大家为保护环境尽一份力。
 
@@ -380,7 +380,7 @@ include "header.php";
 
             <div id="menu10" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 10 (Aug 17)
+                    <h5>Day 10
 
                     </h5>
                     <p>Students will learn in workshops about traditional and digital storytelling. There will be special allotted time made for collaboration between international cohorts to collaborate in their chosen medium to tell a story about sustainability. A fun evening around campus will include a BBQ dinner and storytelling session. </p>
@@ -391,7 +391,7 @@ include "header.php";
 
             <div id="menu11" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 11 (Aug 18)
+                    <h5>Day 11
                     </h5>
                     <p>A final day of digital workshopping and storytelling creation. Students will present their concerns and suggestion to a final panelist of Chinese researchers and policy thinkers to affect global sustainability. A closing dinner and then final goodbyes before packing up and heading back west.
                     </p>
@@ -402,7 +402,7 @@ include "header.php";
 
             <div id="menu12" class="tab-pane fade">
                 <div class="wrapper">
-                    <h5>Day 12 (Aug 19)
+                    <h5>Day 12
 
                     </h5>
                     <p> Quick stop, Beijing, and then back the States to retell the compelling stories of Qingdao and work to support the health of our planet.
