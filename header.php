@@ -81,7 +81,7 @@ SEPERATELY-->
         <a href="videos"> 线上直播 </a>
 <!--        <a href="blog.php">博客</a>-->
         <a href="contact">联系方式</a>
-        <a href="applicationform" >立即申请</a>
+<!--        <a href="applicationform" >立即申请</a>-->
     </div>
 
 </div>
