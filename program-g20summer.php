@@ -104,6 +104,7 @@ include "header.php";
 
                         <P><b><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;地点: </b>中国青岛&nbsp;|&nbsp; 07/31/2017 - 08/13/2017</P>
                         <p><b><i class="fa fa-user" aria-hidden="true"></i>&nbsp;&nbsp;年级: </b>高中一年级 - 高中三年级</p>
+                        <p><b><i class="fa fa-money" aria-hidden="true"></i>&nbsp;价格: </b>￥6999 </p>
 
                         <!--                <P><b><i class="fa fa-usd" aria-hidden="true"></i>&nbsp;&nbsp;COSTS: </b>Social Science Tracks</P>-->
                         <!--                <P><i>Each week will include two one-hour lectures, preliminary readings & video, and discussion board.</i> </P>-->
