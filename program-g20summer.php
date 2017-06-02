@@ -42,7 +42,7 @@
 
     @media only screen and (max-width: 769px) {
         div.video-wrapper {
-            background: #d1d1d1;
+
         }
 
         body > div.video-wrapper > div.text-container > div > h1 {
