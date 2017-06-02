@@ -44,7 +44,7 @@
         div.video-wrapper {
             background: url("image/program/digitalcross.jpg") center center no-repeat;
             background-size: cover;
-            height: 90vh;
+            height: 70vh;
             margin-bottom: 18px;
         }
 
