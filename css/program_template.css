@@ -423,7 +423,7 @@ body > div.about.section > div > div > div.col-md-5 > div {
 .testimonial #myCarousel2 .carousel-inner .container [class*="col-"] {
     padding: 24px; }
 .testimonial #myCarousel2 .carousel-inner .container h4 {
-    padding: 8px 16px;
+    padding: 8px 0px;
     font-weight: normal;
     line-height: 26px; }
 .testimonial #myCarousel2 .carousel-inner .container p {

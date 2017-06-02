@@ -21,6 +21,54 @@
 
 </head>
 
+<style>
+
+    #itinarey li {
+        display: inline-block;
+        float: none;
+    }
+
+
+    .video-wrapper >div.text-container {
+        position: absolute;
+        width: 100%;z-index: 0;
+        text-align: center;
+        top: 18%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+    }
+
+
+    @media only screen and (max-width: 769px) {
+        div.video-wrapper {
+            background: #d1d1d1;
+        }
+
+        body > div.video-wrapper > div.text-container > div > h1 {
+            font-size: 28px;
+        }
+
+        .video-wrapper > div.text-container {
+            top: -4%;
+
+        }
+
+        .video-container {
+            width: 100%;
+            height:inherit;
+            top: 0%;
+            left: 0%;
+            overflow: hidden;
+            object-fit: contain;
+            margin-bottom: 48px;
+            margin-top: 0.5vh;
+        }
+    }
+
+</style>
+
+
 
 <?php
 // include header
@@ -33,23 +81,23 @@ include "header.php";
 
 <div class="video-wrapper">
     <div class="video-container">
-        <video preload="auto" autoplay="autoplay" loop ="loop" src="video/g20-landing.mp4"  poster="video/video-cover.png" width="100%" muted >
+        <video preload="auto" autoplay="autoplay" loop ="loop" src="video/g20-landing2.mp4"  poster="video/video-cover.png" width="100%" muted >
             <source >
         </video><!-- end of video-->
 
 
     </div> <!-- end of video container-->
 
-    <div class="videofilter" style="opacity: 0.4;background: black;position: absolute;width: 100%;top:0;left:0;z-index: 0;height: 90vh;margin-top: -5vh">
-    </div>
+<!--    <div class="videofilter" style="opacity: 0.4;background: black;position: absolute;width: 100%;top:0;left:0;z-index: 0;height: 90vh;margin-top: -5vh">-->
+<!--    </div>-->
 
-    <div class="text-container" style="position: absolute;top:0;left:0;width: 100%;z-index: 0">
+    <div class="text-container" >
 
         <div class="container intro-text">
             <h1 style="text-align: center;margin-top: 8%">青年领袖模拟G20夏季项目</h1>
             <a style="text-align: center; " href="applicationform.php">立即申请</a>
 <!--            <div data-id="ca83c822d0" class="livechat_button"><a href="https://www.livechatinc.com/customer-service-software/?partner=lc_8790441&amp;utm_source=chat_button">customer service software</a></div>-->
-            <a href="#" onclick="LC_API.open_chat_window();return false;">了解详情 </a>
+<!--            <a href="#" onclick="LC_API.open_chat_window();return false;">了解详情 </a>-->
 
         </div>
     </div>
@@ -265,7 +313,7 @@ include "header.php";
         <hr>
 
         <div class="daylist col-md-12" style="text-align: center">
-            <ul class="nav nav-pills" style="display: inline-block;">
+            <ul class="nav nav-pills" style="display: inline-block;" id="itinarey">
                 <li class="active"><a data-toggle="pill" href="#menu1">Day 1</a></li>
                 <li><a data-toggle="pill" href="#menu2">Day 2</a></li>
                 <li><a data-toggle="pill" href="#menu3">Day 3</a></li>
