@@ -42,15 +42,24 @@
 
     @media only screen and (max-width: 769px) {
         div.video-wrapper {
-
+            background: url("image/program/digitalcross.jpg") center center no-repeat;
+            background-size: cover;
+            height: 90vh;
+            margin-bottom: 18px;
         }
 
+        .video-wrapper video {
+            display: none;
+        }
+
+
+
         body > div.video-wrapper > div.text-container > div > h1 {
-            font-size: 28px;
+
         }
 
         .video-wrapper > div.text-container {
-            top: -4%;
+
 
         }
 
