@@ -513,7 +513,7 @@ include "header.php";
                             impactful solutions. </p>
 
                     </div>
-                    <h5>Justin Hartley - 讲师</h5>
+                    <h5>Adel Gamar - 讲师</h5>
                 </div>
             </div>
 
