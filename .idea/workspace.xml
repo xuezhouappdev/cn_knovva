@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/g20apply1.php" afterPath="$PROJECT_DIR$/g20applyy.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/g20applyy.php" afterPath="$PROJECT_DIR$/helloworld.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="knovva.iws" />
@@ -72,8 +72,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="g20applyy.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/g20applyy.php">
+      <file leaf-file-name="helloworld.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/helloworld.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
@@ -578,14 +578,7 @@
       <workItem from="1496205923144" duration="2289000" />
       <workItem from="1496439496950" duration="1984000" />
       <workItem from="1496765509798" duration="100000" />
-      <workItem from="1497552239638" duration="13797000" />
-    </task>
-    <task id="LOCAL-00079" summary="updated copies">
-      <created>1491925365919</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1491925365919</updated>
+      <workItem from="1497552239638" duration="13849000" />
     </task>
     <task id="LOCAL-00080" summary="updated copies">
       <created>1492024108915</created>
@@ -923,11 +916,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497570288902</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="updadated g20 page, g20 applicaiton form, detailed form">
+      <created>1497570425143</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1497570425143</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="380064000" />
+    <option name="totallyTimeSpent" value="380116000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1399,7 +1399,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/g20applyy.php">
+    <entry file="file://$PROJECT_DIR$/helloworld.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
