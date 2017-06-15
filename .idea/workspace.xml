@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20-apply2.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/applicationform.php" afterPath="$PROJECT_DIR$/g20-appy.php" />
+    <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="updadated g20 page, g20 applicaiton form, detailed form">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/g20-apply2.php" afterPath="$PROJECT_DIR$/g20-apply-1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/g20.php" afterPath="$PROJECT_DIR$/g20.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-aer.php" afterPath="$PROJECT_DIR$/program-aer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-gai.php" afterPath="$PROJECT_DIR$/program-gai.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-harrypotter.php" afterPath="$PROJECT_DIR$/program-harrypotter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-irg.php" afterPath="$PROJECT_DIR$/program-irg.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-landscape.php" afterPath="$PROJECT_DIR$/program-landscape.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-sie.php" afterPath="$PROJECT_DIR$/program-sie.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-socialmedia.php" afterPath="$PROJECT_DIR$/program-socialmedia.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,18 +65,18 @@
       <file leaf-file-name="g20-appy.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/g20-appy.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-488">
-              <caret line="3" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+            <state relative-caret-position="705">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="g20-apply2.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/g20-apply2.php">
+      <file leaf-file-name="g20-apply-1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/g20-apply-1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="120">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -106,14 +95,13 @@
       <file leaf-file-name="g20.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/g20.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1972">
-              <caret line="805" column="0" lean-forward="true" selection-start-line="805" selection-start-column="0" selection-end-line="805" selection-end-column="0" />
+            <state relative-caret-position="157">
+              <caret line="806" column="7" lean-forward="true" selection-start-line="806" selection-start-column="7" selection-end-line="806" selection-end-column="7" />
               <folding>
                 <element signature="n#div#1;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#2;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#4;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#4;n#html#0;n#!!top" expanded="false" />
@@ -160,7 +148,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>哈利波特</find>
       <find>项目特色</find>
       <find>学术项目</find>
       <find>bilibili</find>
@@ -190,6 +177,7 @@
       <find>pos</find>
       <find>justin</find>
       <find>第八日</find>
+      <find>现在</find>
     </findStrings>
     <replaceStrings>
       <replace>sm</replace>
@@ -287,7 +275,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-48" />
-    <option name="y" value="101" />
+    <option name="y" value="95" />
     <option name="width" value="1368" />
     <option name="height" value="552" />
   </component>
@@ -590,14 +578,7 @@
       <workItem from="1496205923144" duration="2289000" />
       <workItem from="1496439496950" duration="1984000" />
       <workItem from="1496765509798" duration="100000" />
-      <workItem from="1497552239638" duration="12042000" />
-    </task>
-    <task id="LOCAL-00076" summary="updated copies">
-      <created>1491669847527</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1491669847527</updated>
+      <workItem from="1497552239638" duration="13341000" />
     </task>
     <task id="LOCAL-00077" summary="updated some words">
       <created>1491830703437</created>
@@ -935,11 +916,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497567159364</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="updadated g20 page, g20 applicaiton form, detailed form">
+      <created>1497568671339</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1497568671339</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="378309000" />
+    <option name="totallyTimeSpent" value="379608000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -951,7 +939,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-48" y="101" width="1368" height="552" extended-state="0" />
+    <frame x="-48" y="95" width="1368" height="552" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29456192" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
@@ -1384,14 +1372,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/g20.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1972">
-          <caret line="805" column="0" lean-forward="true" selection-start-line="805" selection-start-column="0" selection-end-line="805" selection-end-column="0" />
+        <state relative-caret-position="157">
+          <caret line="806" column="7" lean-forward="true" selection-start-line="806" selection-start-column="7" selection-end-line="806" selection-end-column="7" />
           <folding>
             <element signature="n#div#1;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#2;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#4;n#html#0;n#!!top" expanded="false" />
@@ -1406,16 +1393,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/g20-appy.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-488">
-          <caret line="3" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="705">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/g20-apply2.php">
+    <entry file="file://$PROJECT_DIR$/g20-apply-1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        <state relative-caret-position="120">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
