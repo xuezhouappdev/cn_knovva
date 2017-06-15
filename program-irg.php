@@ -33,7 +33,7 @@ include "header.php";
 
             <div class="intro-text">
                 <h1>英文原版精读之科技前沿</h1>
-                <a href="g20appy.php">现在申请</a>
+                <a href="g20apply.php">现在申请</a>
             </div>
         </div>
 
@@ -172,7 +172,7 @@ include "header.php";
         <div class="row">
             <h2>开启Knovva的旅程</h2>
             <p><i>探索发现最好的你</i></p>
-            <a href="g20appy.php">立即申请</a>
+            <a href="g20apply.php">立即申请</a>
         </div>
     </div>
 </div>
