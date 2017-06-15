@@ -316,20 +316,20 @@ include "header.php";
                     <div class="container">
                         <div class="row">
                             <div class="col-md-3">
-                                <a href="http://sd.sina.com.cn/edu/xykd/2016-02-29/105114132.html"><img class="img-responsive img img-thumbnail" src="image/post/1.jpg"></a>
+                                <a href="http://sd.sina.com.cn/edu/xykd/2016-02-29/105114132.html"><img class="img-responsive img img-thumbnail" src="image/post/i1.jpg"></a>
                                 <p><a href="http://sd.sina.com.cn/edu/xykd/2016-02-29/105114132.html">哈佛大学模拟G20峰会落幕 山东省实验中学代表表现优秀</a></p>
                             </div>
                             <div class="col-md-3">
-                                <a href="http://www.modelg20cn.org/single-post/shandongexperimentalschoolnews"><img class="img-responsive img img-thumbnail" src="image/post/2.jpg"></a>
+                                <a href="http://www.modelg20cn.org/single-post/shandongexperimentalschoolnews"><img class="img-responsive img img-thumbnail" src="image/post/i2.jpg"></a>
                                 <p><a href="http://www.modelg20cn.org/single-post/shandongexperimentalschoolnews">
                                         山东省实验中学优秀学生赴美参加2017年第二届哈佛国际青少年模拟G20峰会</a></p>
                             </div>
                             <div class="col-md-3">
-                                <a href="http://www.bilingochina.cn/index.php?c=content&a=show&id=291"><img class="img-responsive img img-thumbnail" src="image/post/5g20.jpg"></a>
+                                <a href="http://www.bilingochina.cn/index.php?c=content&a=show&id=291"><img class="img-responsive img img-thumbnail" src="image/post/i3.jpg"></a>
                                 <p><a href="http://www.bilingochina.cn/index.php?c=content&a=show&id=291">UFEIC学子赴哈佛参加国际青少年模拟G20峰会载誉归来</a></p>
                             </div>
                             <div class="col-md-3">
-                                <a href="https://www.jiemodui.com/N/70982.html"><img class="img-responsive img img-thumbnail" src="image/post/5.png"></a>
+                                <a href="https://www.jiemodui.com/N/70982.html"><img class="img-responsive img img-thumbnail" src="image/post/i4.png"></a>
                                 <p><a href="https://www.jiemodui.com/N/70982.html">Knovva Academy和芥末堆在硅谷主办GET大会</a></p>
                             </div>
                         </div>

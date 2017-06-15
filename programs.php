@@ -63,7 +63,7 @@ include "header.php";
                     </p>
                     <p><i class="fa fa-user" aria-hidden="true"></i>&nbsp;<span>年龄: &nbsp;</span>高中一年级 - 高中三年级</p><br>
 
-                    <h5 style="text-align: center"><a href="program-g20summer" class="button_p">了解详情</a></h5>
+                    <h5 style="text-align: center"><a href="g20.php" class="button_p">了解详情</a></h5>
 
 
 
