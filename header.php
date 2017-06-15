@@ -62,7 +62,7 @@ SEPERATELY-->
                     <li id="dropdown"><a class="cta" style="color: white"><i class="fa fa-caret-down" aria-hidden="true"></i>&nbsp;
                             现在申请</a>
                         <div class="dropdown-content">
-                            <a href="applicationform.php">青年领袖模拟G20夏季项目</a>
+                            <a href="g20-appy.php">青年领袖模拟G20夏季项目</a>
                             <a href="applicationform-aer.php">青少年机器人工程师项目</a>
                         </div>
                     </li>

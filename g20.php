@@ -49,7 +49,7 @@
         }
 
         .video-wrapper video {
-            display: none;
+
         }
 
 
@@ -112,7 +112,7 @@ include "header.php";
 
         <div class="container intro-text">
             <h1 style="text-align: center;margin-top: 8%">青年领袖模拟G20夏季项目</h1>
-            <a style="text-align: center; " href="applicationform.php">立即申请</a>
+            <a style="text-align: center; " href="g20-appy.php">立即申请</a>
 <!--            <div data-id="ca83c822d0" class="livechat_button"><a href="https://www.livechatinc.com/customer-service-software/?partner=lc_8790441&amp;utm_source=chat_button">customer service software</a></div>-->
 <!--            <a href="#" onclick="LC_API.open_chat_window();return false;">了解详情 </a>-->
 
@@ -670,8 +670,8 @@ include "header.php";
 <!--VIDEO-->
 <div class="g20video" >
     <div class="container">
-        <div class="g20videowrapper" style="">
-            <iframe frameborder="0" width="560" height="400" src="https://v.qq.com/iframe/player.html?vid=t0506vvld1m&tiny=0&auto=0" allowfullscreen></iframe>
+        <div class="g20videowrapper col-sm-6 col-sm-offset-3" align="center">
+            <iframe frameborder="0" width="100%" height="380" src="https://v.qq.com/iframe/player.html?vid=t0506vvld1m&tiny=0&auto=0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -783,7 +783,7 @@ include "header.php";
         <div class="row">
             <h2>开启Knovva的旅程</h2>
             <p><i>探索发现最好的你</i></p>
-            <a href="applicationform.php" >立即申请</a>
+            <a href="g20-appy.php" >立即申请</a>
         </div>
     </div>
 </div>

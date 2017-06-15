@@ -35,7 +35,7 @@ include "header.php";
 
             <div class="intro-text">
                 <h1>青少年机器人工程师项目</h1>
-                <a href="applicationform.php">立即申请</a>
+                <a href="g20-appy.php">立即申请</a>
             </div>
         </div>
 
@@ -165,7 +165,7 @@ include "header.php";
         <div class="row">
             <h2>开启Knovva的旅程</h2>
             <p><i>探索发现最好的你</i></p>
-            <a href="applicationform.php">立即申请</a>
+            <a href="g20-appy.php">立即申请</a>
         </div>
     </div>
 </div>

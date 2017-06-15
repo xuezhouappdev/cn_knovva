@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/g20-apply2.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/applicationform.php" afterPath="$PROJECT_DIR$/g20-appy.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/program_template.css" afterPath="$PROJECT_DIR$/css/program_template.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/g20.php" afterPath="$PROJECT_DIR$/g20.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-aer.php" afterPath="$PROJECT_DIR$/program-aer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-gai.php" afterPath="$PROJECT_DIR$/program-gai.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-harrypotter.php" afterPath="$PROJECT_DIR$/program-harrypotter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-irg.php" afterPath="$PROJECT_DIR$/program-irg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-landscape.php" afterPath="$PROJECT_DIR$/program-landscape.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-sie.php" afterPath="$PROJECT_DIR$/program-sie.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program-socialmedia.php" afterPath="$PROJECT_DIR$/program-socialmedia.php" />
     </list>
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,34 +73,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="applicationform.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applicationform.php">
+      <file leaf-file-name="g20-appy.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/g20-appy.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-60">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="-488">
+              <caret line="3" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="g20.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="g20-apply2.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/g20-apply2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3423">
+              <caret line="325" column="34" lean-forward="false" selection-start-line="325" selection-start-column="34" selection-end-line="325" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="g20.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/g20.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="76" column="18" lean-forward="false" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+            <state relative-caret-position="1972">
+              <caret line="805" column="0" lean-forward="true" selection-start-line="805" selection-start-column="0" selection-end-line="805" selection-end-column="0" />
               <folding>
                 <element signature="n#div#1;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#2;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#4;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#4;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#6;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#8;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#9;n#html#0;n#!!top" expanded="false" />
-                <marker date="1497567041000" expanded="false" signature="16794:18776" ph="..." />
+                <marker date="1497568525000" expanded="false" signature="16761:18743" ph="..." />
               </folding>
             </state>
           </provider>
@@ -185,7 +216,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/css/about.sass" />
         <option value="$PROJECT_DIR$/comingsoon.index.php" />
         <option value="$PROJECT_DIR$/comingsoon.php" />
@@ -236,6 +266,7 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/program_template.css" />
         <option value="$PROJECT_DIR$/g20.php" />
+        <option value="$PROJECT_DIR$/g20-apply2.php" />
       </list>
     </option>
   </component>
@@ -255,7 +286,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-139" />
+    <option name="x" value="-48" />
     <option name="y" value="101" />
     <option name="width" value="1368" />
     <option name="height" value="552" />
@@ -559,14 +590,7 @@
       <workItem from="1496205923144" duration="2289000" />
       <workItem from="1496439496950" duration="1984000" />
       <workItem from="1496765509798" duration="100000" />
-      <workItem from="1497552239638" duration="10834000" />
-    </task>
-    <task id="LOCAL-00075" summary="updated copies">
-      <created>1491668830733</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1491668830734</updated>
+      <workItem from="1497552239638" duration="12042000" />
     </task>
     <task id="LOCAL-00076" summary="updated copies">
       <created>1491669847527</created>
@@ -904,11 +928,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497565524275</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="updadated g20 page, g20 applicaiton form, detailed form">
+      <created>1497567159364</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1497567159364</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="377101000" />
+    <option name="totallyTimeSpent" value="378309000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -920,7 +951,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-139" y="101" width="1368" height="552" extended-state="0" />
+    <frame x="-48" y="101" width="1368" height="552" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29456192" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
@@ -1016,13 +1047,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/about.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/programbase.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5983">
@@ -1334,22 +1358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="325" column="34" lean-forward="true" selection-start-line="325" selection-start-column="34" selection-end-line="325" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applicationform.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/index_new.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2">
@@ -1366,24 +1374,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3423">
+          <caret line="325" column="34" lean-forward="false" selection-start-line="325" selection-start-column="34" selection-end-line="325" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/g20.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="76" column="18" lean-forward="false" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+        <state relative-caret-position="1972">
+          <caret line="805" column="0" lean-forward="true" selection-start-line="805" selection-start-column="0" selection-end-line="805" selection-end-column="0" />
           <folding>
             <element signature="n#div#1;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#2;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#4;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#4;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#6;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#8;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#9;n#html#0;n#!!top" expanded="false" />
-            <marker date="1497567041000" expanded="false" signature="16794:18776" ph="..." />
+            <marker date="1497568525000" expanded="false" signature="16761:18743" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/g20-appy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-488">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/g20-apply2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
