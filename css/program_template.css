@@ -617,10 +617,10 @@ div.g20video {
 }
 
 
-.g20video embed {
-    background:#6E539E ;
+.g20video iframe {
+
     padding: 8px;
-    border: 1px solid #6E539E
+    border: 3px solid #6E539E;
 }
 
 

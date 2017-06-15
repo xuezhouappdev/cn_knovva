@@ -73,6 +73,10 @@
             margin-bottom: 48px;
             margin-top: 0.5vh;
         }
+
+        .g20video  {
+            display: none;
+        }
     }
 
 
@@ -331,6 +335,7 @@ include "header.php";
         <hr>
 
         <div class="daylist col-md-12" style="text-align: center">
+
             <ul class="nav nav-pills" style="display: inline-block;" id="itinarey">
                 <li class="active"><a data-toggle="pill" href="#menu1">Day 1</a></li>
                 <li><a data-toggle="pill" href="#menu2">Day 2</a></li>
@@ -664,8 +669,10 @@ include "header.php";
 <hr>
 <!--VIDEO-->
 <div class="g20video" >
-    <div class="g20videowrapper" style="">
-        <embed style="" src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=t0506vvld1m&auto=0" allowFullScreen="true" quality="high" width="560" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+    <div class="container">
+        <div class="g20videowrapper" style="">
+            <iframe frameborder="0" width="560" height="400" src="https://v.qq.com/iframe/player.html?vid=t0506vvld1m&tiny=0&auto=0" allowfullscreen></iframe>
+        </div>
     </div>
 </div>
 
