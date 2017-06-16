@@ -73,7 +73,7 @@
         }
 
         .g20video  {
-            display: none;
+
         }
     }
 
