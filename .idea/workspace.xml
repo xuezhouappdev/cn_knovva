@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/g20.php" afterPath="$PROJECT_DIR$/g20.php" />
-    </list>
+    <list default="true" id="399208ad-b4d9-479d-a2f2-36b6e02b5aa1" name="Default" comment="" />
     <ignored path="knovva.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -95,8 +92,8 @@
       <file leaf-file-name="g20.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/g20.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="75" column="12" lean-forward="false" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
+            <state relative-caret-position="180">
+              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
               <folding>
                 <element signature="n#div#1;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
@@ -109,7 +106,7 @@
                 <element signature="n#div#6;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#8;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#9;n#html#0;n#!!top" expanded="false" />
-                <marker date="1497626193000" expanded="false" signature="16656:18638" ph="..." />
+                <marker date="1497626217000" expanded="false" signature="16644:18626" ph="..." />
               </folding>
             </state>
           </provider>
@@ -274,8 +271,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="93" />
+    <option name="x" value="-10" />
+    <option name="y" value="45" />
     <option name="width" value="1368" />
     <option name="height" value="691" />
   </component>
@@ -496,14 +493,7 @@
       <workItem from="1496205923144" duration="2289000" />
       <workItem from="1496439496950" duration="1984000" />
       <workItem from="1496765509798" duration="100000" />
-      <workItem from="1497552239638" duration="15577000" />
-    </task>
-    <task id="LOCAL-00083" summary="updated email">
-      <created>1492478159463</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1492478159464</updated>
+      <workItem from="1497552239638" duration="15798000" />
     </task>
     <task id="LOCAL-00084" summary="updated email">
       <created>1492487783898</created>
@@ -841,11 +831,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497624001948</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="fixed G20 video">
+      <created>1497626221100</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1497626221100</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="381844000" />
+    <option name="totallyTimeSpent" value="382065000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -857,7 +854,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="93" width="1368" height="691" extended-state="0" />
+    <frame x="-10" y="45" width="1368" height="691" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29456192" sideWeight="0.7875" order="0" side_tool="false" content_ui="combo" />
@@ -1306,8 +1303,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/g20.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="75" column="12" lean-forward="false" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
+        <state relative-caret-position="180">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
           <folding>
             <element signature="n#div#1;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
@@ -1320,7 +1317,7 @@
             <element signature="n#div#6;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#8;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#9;n#html#0;n#!!top" expanded="false" />
-            <marker date="1497626193000" expanded="false" signature="16656:18638" ph="..." />
+            <marker date="1497626217000" expanded="false" signature="16644:18626" ph="..." />
           </folding>
         </state>
       </provider>
