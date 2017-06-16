@@ -31,7 +31,8 @@
 
     .video-wrapper >div.text-container {
         position: absolute;
-        width: 100%;z-index: 0;
+        width: 100%;
+        z-index: 0;
         text-align: center;
         top: 18%;
         left: 50%;
@@ -42,10 +43,7 @@
 
     @media only screen and (max-width: 769px) {
         div.video-wrapper {
-            background: url("image/program/digitalcross.jpg") center center no-repeat;
-            background-size: cover;
-            height: 70vh;
-            margin-bottom: 18px;
+            background: #d1d1d1;
         }
 
         .video-wrapper video {
@@ -55,12 +53,12 @@
 
 
         body > div.video-wrapper > div.text-container > div > h1 {
-
+            font-size: 20px;
         }
 
         .video-wrapper > div.text-container {
 
-
+            top: -4%;
         }
 
         .video-container {
